@@ -1,0 +1,192 @@
+<div class="admin-dashboard-page">
+    <!-- Header Section -->
+    <div class="dashboard-header">
+        <div class="header-content">
+            <div class="title-section">
+                <div class="icon-circle">
+                    <i class="bi bi-shield-lock-fill"></i>
+                </div>
+                <div class="title-details">
+                    <h1>Admin Control Panel</h1>
+                    <p class="subtitle">Consumer Management & Monitoring</p>
+                </div>
+            </div>
+            <div class="stats-summary">
+                <div class="stat-card">
+                    <div class="stat-icon active">
+                        <i class="bi bi-check-circle-fill"></i>
+                    </div>
+                    <div class="stat-info">
+                        <span class="stat-number">{{ getActiveCount() }}</span>
+                        <span class="stat-label">Active</span>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon inactive">
+                        <i class="bi bi-x-circle-fill"></i>
+                    </div>
+                    <div class="stat-info">
+                        <span class="stat-number">{{ getInactiveCount() }}</span>
+                        <span class="stat-label">Inactive</span>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon total">
+                        <i class="bi bi-people-fill"></i>
+                    </div>
+                    <div class="stat-info">
+                        <span class="stat-number">{{ consumers.length }}</span>
+                        <span class="stat-label">Total Users</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- My Dashboard Section -->
+    <div class="my-dashboard-section" id="dashboard">
+        <div class="dashboard-header-bar">
+            <h2>
+                <i class="bi bi-speedometer2"></i>
+                My Dashboard
+            </h2>
+            <div class="dashboard-actions">
+                <button class="toggle-dashboard-btn" (click)="toggleDashboard()">
+                    <i class="bi" [ngClass]="showDashboard ? 'bi-chevron-up' : 'bi-chevron-down'"></i>
+                    {{ showDashboard ? 'Hide Dashboard' : 'Show Dashboard' }}
+                </button>
+                <button class="fullscreen-dashboard-btn" (click)="toggleAdminFullscreen()" *ngIf="showDashboard" title="Toggle Fullscreen">
+                    <i class="bi bi-arrows-fullscreen"></i>
+                    Fullscreen
+                </button>
+            </div>
+        </div>
+        
+        <div class="dashboard-iframe-container" *ngIf="showDashboard">
+            <!-- Loading Spinner -->
+            <div class="loading-overlay" *ngIf="isDashboardLoading">
+                <div class="spinner-container">
+                    <div class="spinner"></div>
+                    <p class="loading-text">Loading dashboard...</p>
+                </div>
+            </div>
+            
+            <!-- Power BI Iframe -->
+            <div class="iframe-wrapper" [class.hidden]="isDashboardLoading" id="adminDashboardWrapper">
+                <iframe 
+                    #adminDashboardIframe
+                    *ngIf="adminDashboardUrl"
+                    [src]="adminDashboardUrl"
+                    (load)="onDashboardLoad()"
+                    frameborder="0"
+                    allowfullscreen
+                    webkitallowfullscreen
+                    mozallowfullscreen
+                    allow="fullscreen"
+                    class="powerbi-iframe"
+                    title="Admin Dashboard - Power BI">
+                </iframe>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="dashboard-content">
+        <!-- Loading State -->
+        <div *ngIf="loading" class="loading-container">
+            <div class="spinner"></div>
+            <p>Loading consumers...</p>
+        </div>
+
+        <!-- Empty State -->
+        <div *ngIf="!loading && consumers.length === 0" class="empty-state">
+            <i class="bi bi-inbox"></i>
+            <h3>No Consumers Found</h3>
+            <p>There are currently no registered consumers in the system.</p>
+        </div>
+
+        <!-- Consumer Grid -->
+        <div *ngIf="!loading && consumers.length > 0" class="consumers-grid">
+            <div *ngFor="let consumer of consumers" class="consumer-card">
+                <!-- Card Header -->
+                <div class="card-header-section">
+                    <div class="company-name">
+                        <i class="bi bi-building-fill"></i>
+                        <span>{{ consumer.userCompany || 'No company' }}</span>
+                    </div>
+                    <div class="status-indicator">
+                        <div class="status-dot" [class.active]="consumer.activated" [class.inactive]="!consumer.activated"></div>
+                        <span class="status-text">{{ consumer.activated ? 'Active' : 'Inactive' }}</span>
+                    </div>
+                </div>
+
+                <!-- Avatar Section -->
+                <div class="avatar-section">
+                    <div class="avatar-wrapper">
+                        <img src="assets/user-avatar.svg" alt="User Avatar" class="avatar-img">
+                        <div class="avatar-ring" [class.active]="consumer.activated"></div>
+                    </div>
+                </div>
+
+                <!-- User Info Section -->
+                <div class="user-info-section">
+                    <h3 class="user-name">{{ consumer.userName }}</h3>
+                    <div class="user-email">
+                        <i class="bi bi-envelope-fill"></i>
+                        <span>{{ consumer.userEmail || 'No email provided' }}</span>
+                    </div>
+                    
+                    <!-- Status Badge -->
+                    <div class="status-badge" [class.active]="consumer.activated" [class.inactive]="!consumer.activated">
+                        <span *ngIf="consumer.activated">
+                            <i class="bi bi-check-circle-fill"></i> Active Account
+                        </span>
+                        <span *ngIf="!consumer.activated">
+                            <i class="bi bi-clock-fill"></i> Pending Activation
+                        </span>
+                    </div>
+                </div>
+
+                <!-- Actions Section -->
+                <div class="actions-section">
+                    <button 
+                        *ngIf="!consumer.activated"
+                        class="action-btn activate"
+                        (click)="activateUser(consumer.userName, consumer.activated)"
+                        title="Activate User">
+                        <i class="bi bi-check-circle-fill"></i>
+                        <span>Activate</span>
+                    </button>
+                    <button 
+                        *ngIf="consumer.activated"
+                        class="action-btn deactivate"
+                        (click)="activateUser(consumer.userName, consumer.activated)"
+                        title="Deactivate User">
+                        <i class="bi bi-pause-circle-fill"></i>
+                        <span>Desactivate</span>
+                    </button>
+                    <button 
+                        class="action-btn delete"
+                        (click)="deleteUser(consumer.userName)"
+                        title="Delete User">
+                        <i class="bi bi-trash-fill"></i>
+                        <span>Delete</span>
+                    </button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Confirmation Modal -->
+<app-confirmation-modal
+    [show]="showModal"
+    [title]="modalTitle"
+    [message]="modalMessage"
+    [type]="modalType"
+    [confirmText]="modalConfirmText"
+    [cancelText]="modalCancelText"
+    (confirmed)="onModalConfirm()"
+    (cancelled)="onModalCancel()">
+</app-confirmation-modal>

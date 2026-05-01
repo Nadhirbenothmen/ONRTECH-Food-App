@@ -1,0 +1,62 @@
+/* Global Styles for Food ETL Analytics Application */
+
+/* Reset and Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f7fa;
+    color: #2d3748;
+    line-height: 1.6;
+}
+
+/* Ensure toastr appears above all other elements */
+#toast-container > div {
+    opacity: 1;
+}
+
+.toast-top-right {
+    top: 90px;
+    right: 12px;
+}
+
+.toast-container .ngx-toastr {
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);
+    pointer-events: auto;
+}
+
+.toast-container {
+    pointer-events: none;
+}
+
+/* Smooth Transitions */
+a, button, input, select, textarea {
+    transition: all 0.3s ease;
+}
+
+/* Remove app margins */
+app-root {
+    display: block;
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}

@@ -1,0 +1,36 @@
+<div class="modal-backdrop" *ngIf="show" (click)="onBackdropClick($event)">
+  <div class="modal-dialog" [ngClass]="'modal-' + type">
+    <div class="modal-content">
+      <div class="modal-header">
+        <div class="modal-icon">
+          <i *ngIf="type === 'danger'" class="bi bi-exclamation-triangle-fill text-danger"></i>
+          <i *ngIf="type === 'warning'" class="bi bi-exclamation-circle-fill text-warning"></i>
+          <i *ngIf="type === 'info'" class="bi bi-info-circle-fill text-info"></i>
+        </div>
+        <h3 class="modal-title">{{ title }}</h3>
+        <button type="button" class="btn-close" (click)="onCancel()" aria-label="Close">
+          <i class="bi bi-x"></i>
+        </button>
+      </div>
+      
+      <div class="modal-body">
+        <p [innerHTML]="message"></p>
+      </div>
+      
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" (click)="onCancel()">
+          {{ cancelText }}
+        </button>
+        <button type="button" class="btn" 
+                [ngClass]="{
+                  'btn-danger': type === 'danger',
+                  'btn-warning': type === 'warning',
+                  'btn-primary': type === 'info'
+                }"
+                (click)="onConfirm()">
+          {{ confirmText }}
+        </button>
+      </div>
+    </div>
+  </div>
+</div>

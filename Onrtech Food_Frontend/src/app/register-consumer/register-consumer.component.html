@@ -1,0 +1,120 @@
+<div class="register-wrapper">
+    <div class="register-container">
+        <div class="register-card">
+            <div class="register-header">
+                <div class="icon-circle">
+                    <i class="bi bi-person-plus-fill"></i>
+                </div>
+                <h2>Join Our Platform</h2>
+                <p>Start analyzing food e-commerce data today</p>
+            </div>
+            
+            <form #registerForm="ngForm" (ngSubmit)="register(registerForm)" class="register-form">
+                <div class="form-group">
+                    <label for="userName">
+                        <i class="bi bi-person-fill"></i>
+                        Username <span class="required-asterisk">*</span>
+                    </label>
+                    <input 
+                        type="text" 
+                        ngModel 
+                        name="userName" 
+                        id="userName" 
+                        placeholder="Choose a username"
+                        class="form-input"
+                        required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="userEmail">
+                        <i class="bi bi-envelope-fill"></i>
+                        Email Address <span class="required-asterisk">*</span>
+                    </label>
+                    <input 
+                        type="email" 
+                        ngModel 
+                        name="userEmail" 
+                        id="userEmail" 
+                        placeholder="your.email@example.com"
+                        class="form-input"
+                        required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="userCompany">
+                        <i class="bi bi-building-fill"></i>
+                        Entreprise <span class="required-asterisk">*</span>
+                    </label>
+                    <input 
+                        type="text" 
+                        ngModel 
+                        name="userCompany" 
+                        id="userCompany" 
+                        placeholder="Nom de votre entreprise"
+                        class="form-input"
+                        required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="userPassword">
+                        <i class="bi bi-lock-fill"></i>
+                        Password <span class="required-asterisk">*</span>
+                    </label>
+                    <div class="password-input-wrapper">
+                        <input 
+                            [type]="showPassword ? 'text' : 'password'" 
+                            ngModel 
+                            name="userPassword" 
+                            id="userPassword" 
+                            placeholder="Create a secure password"
+                            class="form-input"
+                            required>
+                        <button type="button" class="toggle-password-btn" (click)="togglePasswordVisibility()">
+                            <i [class]="showPassword ? 'bi bi-eye-slash-fill' : 'bi bi-eye-fill'"></i>
+                        </button>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="confirmPassword">
+                        <i class="bi bi-shield-lock-fill"></i>
+                        Confirm Password <span class="required-asterisk">*</span>
+                    </label>
+                    <div class="password-input-wrapper">
+                        <input 
+                            [type]="showConfirmPassword ? 'text' : 'password'" 
+                            ngModel 
+                            name="confirmPassword" 
+                            id="confirmPassword" 
+                            placeholder="Confirm your password"
+                            class="form-input"
+                            #confirmPassword="ngModel"
+                            required>
+                        <button type="button" class="toggle-password-btn" (click)="toggleConfirmPasswordVisibility()">
+                            <i [class]="showConfirmPassword ? 'bi bi-eye-slash-fill' : 'bi bi-eye-fill'"></i>
+                        </button>
+                    </div>
+                    <div *ngIf="confirmPassword.value && registerForm.form.value.userPassword !== confirmPassword.value" class="password-mismatch-alert">
+                        <i class="bi bi-exclamation-circle-fill"></i>
+                        <span>Passwords do not match</span>
+                    </div>
+                </div>
+                
+                <button type="submit" class="btn-submit" [disabled]="!registerForm.valid">
+                    <span>Create Account</span>
+                    <i class="bi bi-check-circle-fill"></i>
+                </button>
+            </form>
+            
+            <div class="register-footer">
+                <div class="divider">
+                    <span>or</span>
+                </div>
+                <p class="login-text">
+                    Already have an account? 
+                    <a routerLink="/login" class="login-link">Sign In</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>

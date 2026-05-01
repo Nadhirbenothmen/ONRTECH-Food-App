@@ -1,0 +1,59 @@
+<div class="public-dashboard-page">
+  <!-- Header Section -->
+  <div class="dashboard-header">
+    <div class="header-content">
+      <div class="title-section">
+        <div class="icon-circle">
+          <i class="bi bi-bar-chart-fill"></i>
+        </div>
+        <div class="title-details">
+          <h1>ETL Food Products Analytics</h1>
+          <p class="subtitle">Complete analysis of food products from major Spanish e-commerce sites</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Dashboard Container -->
+  <div class="dashboard-container">
+    <!-- Loading Spinner -->
+    <div class="loading-overlay" *ngIf="isLoading">
+      <div class="spinner-container">
+        <div class="spinner"></div>
+        <p class="loading-text">Loading dashboard...</p>
+        <small>Please wait while data is being loaded</small>
+      </div>
+    </div>
+
+    <!-- Power BI Iframe -->
+    <div class="iframe-wrapper" [class.hidden]="isLoading" id="dashboardWrapper">
+      <iframe 
+        #dashboardIframe
+        *ngIf="publicDashboardUrl"
+        [src]="publicDashboardUrl"
+        (load)="onIframeLoad()"
+        frameborder="0"
+        allowfullscreen
+        webkitallowfullscreen
+        mozallowfullscreen
+        allow="fullscreen"
+        class="powerbi-iframe"
+        title="Public Dashboard - Power BI">
+      </iframe>
+    </div>
+
+    <!-- Info Footer -->
+    <div class="dashboard-footer">
+      <div class="footer-content">
+        <div class="footer-item">
+          <i class="bi bi-lightbulb-fill"></i>
+          <span>Use Power BI filters for personalized analysis</span>
+        </div>
+        <button class="fullscreen-btn" (click)="toggleFullscreen()" title="Toggle Fullscreen">
+          <i class="bi bi-arrows-fullscreen"></i>
+          <span>Fullscreen Mode</span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>

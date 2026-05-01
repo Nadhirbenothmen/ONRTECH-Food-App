@@ -1,0 +1,54 @@
+<nav class="modern-navbar">
+    <div class="navbar-container">
+        <div class="navbar-brand">
+            <img src="assets/onrtech.png" alt="OnrTech Logo" class="onrtech-logo">
+            <i class="bi bi-bar-chart-fill brand-icon"></i>
+            <span class="brand-text">ETL Food Analytics</span>
+            <span class="brand-subtitle">Spanish E-Commerce Intelligence</span>
+        </div>
+        
+        <div class="navbar-actions">
+            <!-- Show Home button on login/register pages -->
+            <button *ngIf="isAuthPage()" type="button" class="btn-modern btn-home" routerLink="/home">
+                <i class="bi bi-house-door-fill"></i>
+                Home
+            </button>
+            
+            <!-- Show Admin button when logged in as admin and on home page -->
+            <button *ngIf="isLoggedIn() && isAdmin() && isHomePage()" type="button" class="btn-modern btn-admin" routerLink="/admin">
+                <i class="bi bi-shield-lock-fill"></i>
+                Admin Panel
+            </button>
+            
+            <!-- Show Consumer Dashboard button when logged in (but not admin) and on home page -->
+            <button *ngIf="isLoggedIn() && !isAdmin() && isHomePage()" type="button" class="btn-modern btn-user" routerLink="/user">
+                <i class="bi bi-person-circle"></i>
+                My Dashboard
+            </button>
+            
+            <!-- Show Home button when on admin page -->
+            <button *ngIf="isLoggedIn() && isAdminPage()" type="button" class="btn-modern btn-home" routerLink="/home">
+                <i class="bi bi-house-door-fill"></i>
+                Home
+            </button>
+            
+            <!-- Show Home button when on user/consumer page -->
+            <button *ngIf="isLoggedIn() && isUserPage()" type="button" class="btn-modern btn-home" routerLink="/home">
+                <i class="bi bi-house-door-fill"></i>
+                Home
+            </button>
+            
+            <!-- Show Login button when not logged in and not on auth pages -->
+            <button *ngIf="!isLoggedIn() && !isAuthPage()" type="button" class="btn-modern btn-login" routerLink="/login">
+                <i class="bi bi-box-arrow-in-right"></i>
+                Login
+            </button>
+            
+            <!-- Show Logout button when logged in -->
+            <button *ngIf="isLoggedIn()" (click)="logout()" type="button" class="btn-modern btn-logout">
+                <i class="bi bi-box-arrow-right"></i>
+                Logout
+            </button>
+        </div>
+    </div>
+</nav>

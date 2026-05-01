@@ -1,0 +1,64 @@
+<div class="consumer-dashboard-page">
+  <!-- Header Section -->
+  <div class="dashboard-header">
+    <div class="header-content">
+      <div class="user-info">
+        <div class="avatar-circle">
+          <i class="bi bi-person-fill"></i>
+        </div>
+        <div class="user-details">
+          <h1>Welcome back, {{ userName }}! 👋</h1>
+          <p class="subtitle">Consumer Dashboard - ETL Food Products Analysis</p>
+        </div>
+      </div>
+      
+      <button class="refresh-btn" (click)="refreshDashboard()" title="Refresh Dashboard">
+        <i class="bi bi-arrow-clockwise"></i>
+        <span>Refresh</span>
+      </button>
+    </div>
+  </div>
+
+  <!-- Dashboard Container -->
+  <div class="dashboard-container">
+    <!-- Loading Spinner -->
+    <div class="loading-overlay" *ngIf="isLoading">
+      <div class="spinner-container">
+        <div class="spinner"></div>
+        <p class="loading-text">Loading dashboard...</p>
+        <small>Please wait while data is being loaded</small>
+      </div>
+    </div>
+
+    <!-- Power BI Iframe -->
+    <div class="iframe-wrapper" [class.hidden]="isLoading" id="dashboardWrapper">
+      <iframe
+        #dashboardIframe
+        *ngIf="consumerDashboardUrl"
+        [src]="consumerDashboardUrl"
+        (load)="onIframeLoad()"
+        frameborder="0"
+        allowfullscreen="true"
+        webkitallowfullscreen="true"
+        mozallowfullscreen="true"
+        allow="fullscreen"
+        class="powerbi-iframe"
+        title="Consumer Dashboard - Power BI">
+      </iframe>
+    </div>
+
+    <!-- Info Footer -->
+    <div class="dashboard-footer">
+      <div class="footer-content">
+        <div class="footer-item">
+          <i class="bi bi-lightbulb-fill"></i>
+          <span>Use Power BI filters for personalized analysis</span>
+        </div>
+        <button class="fullscreen-btn" (click)="toggleFullscreen()" title="Toggle Fullscreen">
+          <i class="bi bi-arrows-fullscreen"></i>
+          <span>Fullscreen Mode</span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
