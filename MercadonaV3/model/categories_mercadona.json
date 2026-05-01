@@ -1,0 +1,592 @@
+{
+    "id": "0",
+    "label": "mercadona_categories_es",
+    "subs": [
+        {
+            "id": "112",
+            "label": "Aceite, especias y salsas",
+            "subs": [
+                {
+                    "id": "112",
+                    "label": "Aceite, vinagre y sal"
+                },
+                {
+                    "id": "115",
+                    "label": "Especias"
+                },
+                {
+                    "id": "116",
+                    "label": "Mayonesa, ketchup y mostaza"
+                },
+                {
+                    "id": "117",
+                    "label": "Otras salsas"
+                }
+            ]
+        },
+        {
+            "id": "156",
+            "label": "Agua y refrescos",
+            "subs": [
+                {
+                    "id": "156",
+                    "label": "Agua"
+                },
+                {
+                    "id": "163",
+                    "label": "Isotónico y energético"
+                },
+                {
+                    "id": "158",
+                    "label": "Refresco de cola"
+                },
+                {
+                    "id": "159",
+                    "label": "Refresco de naranja y de limón"
+                },
+                {
+                    "id": "161",
+                    "label": "Tónica y bitter"
+                },
+                {
+                    "id": "162",
+                    "label": "Refresco de té y sin gas"
+                }
+            ]
+        },
+        {
+            "id": "135",
+            "label": "Aperitivos",
+            "subs": [
+                {
+                    "id": "135",
+                    "label": "Aceitunas y encurtidos"
+                },
+                {
+                    "id": "133",
+                    "label": "Frutos secos y fruta desecada"
+                },
+                {
+                    "id": "132",
+                    "label": "Patatas fritas y snacks"
+                }
+            ]
+        },
+        {
+            "id": "118",
+            "label": "Arroz, legumbres y pasta",
+            "subs": [
+                {
+                    "id": "118",
+                    "label": "Arroz"
+                },
+                {
+                    "id": "121",
+                    "label": "Legumbres"
+                },
+                {
+                    "id": "120",
+                    "label": "Pasta y fideos"
+                }
+            ]
+        },
+        {
+            "id": "89",
+            "label": "Azúcar, caramelos y chocolate",
+            "subs": [
+                {
+                    "id": "89",
+                    "label": "Azúcar y edulcorante"
+                },
+                {
+                    "id": "95",
+                    "label": "Chicles y caramelos"
+                },
+                {
+                    "id": "92",
+                    "label": "Chocolate"
+                },
+                {
+                    "id": "97",
+                    "label": "Golosinas"
+                },
+                {
+                    "id": "90",
+                    "label": "Mermelada y miel"
+                }
+            ]
+        },
+        {
+            "id": "216",
+            "label": "Bebé",
+            "subs": [
+                {
+                    "id": "216",
+                    "label": "Alimentación infantil"
+                },
+                {
+                    "id": "219",
+                    "label": "Biberón y chupete"
+                },
+                {
+                    "id": "218",
+                    "label": "Higiene y cuidado"
+                },
+                {
+                    "id": "217",
+                    "label": "Toallitas y pañales"
+                }
+            ]
+        },
+        {
+            "id": "164",
+            "label": "Bodega",
+            "subs": [
+                {
+                    "id": "164",
+                    "label": "Cerveza"
+                },
+                {
+                    "id": "166",
+                    "label": "Cerveza sin alcohol"
+                },
+                {
+                    "id": "181",
+                    "label": "Licores"
+                },
+                {
+                    "id": "174",
+                    "label": "Sidra y cava"
+                },
+                {
+                    "id": "168",
+                    "label": "Tinto de verano y sangría"
+                },
+                {
+                    "id": "170",
+                    "label": "Vino blanco"
+                },
+                {
+                    "id": "173",
+                    "label": "Vino lambrusco y espumoso"
+                },
+                {
+                    "id": "171",
+                    "label": "Vino rosado"
+                },
+                {
+                    "id": "169",
+                    "label": "Vino tinto"
+                }
+            ]
+        },
+        {
+            "id": "86",
+            "label": "Cacao, café e infusiones",
+            "subs": [
+                {
+                    "id": "86",
+                    "label": "Cacao soluble y chocolate a la taza"
+                },
+                {
+                    "id": "81",
+                    "label": "Café cápsula y monodosis"
+                },
+                {
+                    "id": "83",
+                    "label": "Café molido y en grano"
+                },
+                {
+                    "id": "84",
+                    "label": "Café soluble y otras bebidas"
+                },
+                {
+                    "id": "88",
+                    "label": "Té e infusiones"
+                }
+            ]
+        },
+        {
+            "id": "46",
+            "label": "Carne",
+            "subs": [
+                {
+                    "id": "46",
+                    "label": "Arreglos"
+                },
+                {
+                    "id": "38",
+                    "label": "Aves y pollo"
+                },
+                {
+                    "id": "47",
+                    "label": "Carne congelada"
+                },
+                {
+                    "id": "37",
+                    "label": "Cerdo"
+                },
+                {
+                    "id": "42",
+                    "label": "Conejo y cordero"
+                },
+                {
+                    "id": "43",
+                    "label": "Embutido"
+                },
+                {
+                    "id": "44",
+                    "label": "Hamburguesas y picadas"
+                },
+                {
+                    "id": "40",
+                    "label": "Vacuno"
+                },
+                {
+                    "id": "45",
+                    "label": "Empanados y elaborados"
+                }
+            ]
+        },
+        {
+            "id": "78",
+            "label": "Cereales y galletas",
+            "subs": [
+                {
+                    "id": "78",
+                    "label": "Cereales"
+                },
+                {
+                    "id": "80",
+                    "label": "Galletas"
+                },
+                {
+                    "id": "79",
+                    "label": "Tortitas"
+                }
+            ]
+        },
+        {
+            "id": "48",
+            "label": "Charcutería y quesos",
+            "subs": [
+                {
+                    "id": "48",
+                    "label": "Aves y jamón cocido"
+                },
+                {
+                    "id": "52",
+                    "label": "Bacón y salchichas"
+                },
+                {
+                    "id": "49",
+                    "label": "Chopped y mortadela"
+                },
+                {
+                    "id": "51",
+                    "label": "Embutido curado"
+                },
+                {
+                    "id": "50",
+                    "label": "Jamón serrano"
+                },
+                {
+                    "id": "58",
+                    "label": "Paté y sobrasada"
+                },
+                {
+                    "id": "54",
+                    "label": "Queso curado, semicurado y tierno"
+                },
+                {
+                    "id": "56",
+                    "label": "Queso lonchas, rallado y en porciones"
+                },
+                {
+                    "id": "53",
+                    "label": "Queso untable y fresco"
+                }
+            ]
+        },
+        {
+            "id": "147",
+            "label": "Congelados",
+            "subs": [
+                {
+                    "id": "147",
+                    "label": "Arroz y pasta"
+                },
+                {
+                    "id": "148",
+                    "label": "Carne"
+                },
+                {
+                    "id": "154",
+                    "label": "Helados"
+                },
+                {
+                    "id": "155",
+                    "label": "Hielo"
+                },
+                {
+                    "id": "150",
+                    "label": "Marisco"
+                },
+                {
+                    "id": "149",
+                    "label": "Pescado"
+                },
+                {
+                    "id": "151",
+                    "label": "Pizzas"
+                },
+                {
+                    "id": "884",
+                    "label": "Rebozados"
+                },
+                {
+                    "id": "152",
+                    "label": "Tartas y churros"
+                },
+                {
+                    "id": "145",
+                    "label": "Verdura"
+                }
+            ]
+        },
+        {
+            "id": "122",
+            "label": "Conservas, caldos y cremas",
+            "subs": [
+                {
+                    "id": "122",
+                    "label": "Atún y otras conservas de pescado"
+                },
+                {
+                    "id": "123",
+                    "label": "Berberechos y mejillones"
+                },
+                {
+                    "id": "127",
+                    "label": "Conservas de verdura y frutas"
+                },
+                {
+                    "id": "130",
+                    "label": "Gazpacho y cremas"
+                },
+                {
+                    "id": "129",
+                    "label": "Sopa y caldo"
+                },
+                {
+                    "id": "126",
+                    "label": "Tomate"
+                }
+            ]
+        },
+        {
+            "id": "27",
+            "label": "Fruta y verdura",
+            "subs": [
+                {
+                    "id": "27",
+                    "label": "Fruta"
+                },
+                {
+                    "id": "28",
+                    "label": "Lechuga y ensalada preparada"
+                },
+                {
+                    "id": "29",
+                    "label": "Verdura"
+                }
+            ]
+        },
+        {
+            "id": "77",
+            "label": "Huevos, leche y mantequilla",
+            "subs": [
+                {
+                    "id": "77",
+                    "label": "Huevos"
+                },
+                {
+                    "id": "72",
+                    "label": "Leche y bebidas vegetales"
+                },
+                {
+                    "id": "75",
+                    "label": "Mantequilla y margarina"
+                }
+            ]
+        },
+        {
+            "id": "32",
+            "label": "Marisco y pescado",
+            "subs": [
+                {
+                    "id": "32",
+                    "label": "Marisco"
+                },
+                {
+                    "id": "34",
+                    "label": "Pescado congelado"
+                },
+                {
+                    "id": "31",
+                    "label": "Pescado fresco"
+                },
+                {
+                    "id": "36",
+                    "label": "Salazones y ahumados"
+                }
+            ]
+        },
+        {
+            "id": "222",
+            "label": "Mascotas",
+            "subs": [
+                {
+                    "id": "222",
+                    "label": "Gato"
+                },
+                {
+                    "id": "221",
+                    "label": "Perro"
+                },
+                {
+                    "id": "225",
+                    "label": "Otros"
+                }
+            ]
+        },
+        {
+            "id": "65",
+            "label": "Panadería y pastelería",
+            "subs": [
+                {
+                    "id": "65",
+                    "label": "Bollería de horno"
+                },
+                {
+                    "id": "66",
+                    "label": "Bollería envasada"
+                },
+                {
+                    "id": "69",
+                    "label": "Harina y preparado repostería"
+                },
+                {
+                    "id": "59",
+                    "label": "Pan de horno"
+                },
+                {
+                    "id": "60",
+                    "label": "Pan de molde y otras especialidades"
+                },
+                {
+                    "id": "62",
+                    "label": "Pan tostado y rallado"
+                },
+                {
+                    "id": "64",
+                    "label": "Picos, rosquilletas y picatostes"
+                },
+                {
+                    "id": "68",
+                    "label": "Tartas y pasteles"
+                },
+                {
+                    "id": "71",
+                    "label": "Velas y decoración"
+                }
+            ]
+        },
+        {
+            "id": "897",
+            "label": "Pizzas y platos preparados",
+            "subs": [
+                {
+                    "id": "897",
+                    "label": "Listo para Comer"
+                },
+                {
+                    "id": "138",
+                    "label": "Pizzas"
+                },
+                {
+                    "id": "140",
+                    "label": "Platos preparados calientes"
+                },
+                {
+                    "id": "142",
+                    "label": "Platos preparados fríos"
+                }
+            ]
+        },
+        {
+            "id": "105",
+            "label": "Postres y yogures",
+            "subs": [
+                {
+                    "id": "105",
+                    "label": "Bífidus"
+                },
+                {
+                    "id": "110",
+                    "label": "Flan y natillas"
+                },
+                {
+                    "id": "111",
+                    "label": "Gelatina y otros postres"
+                },
+                {
+                    "id": "106",
+                    "label": "Postres de soja"
+                },
+                {
+                    "id": "103",
+                    "label": "Yogures desnatados"
+                },
+                {
+                    "id": "109",
+                    "label": "Yogures griegos"
+                },
+                {
+                    "id": "108",
+                    "label": "Yogures líquidos"
+                },
+                {
+                    "id": "104",
+                    "label": "Yogures naturales y sabores"
+                },
+                {
+                    "id": "107",
+                    "label": "Yogures y postres infantiles"
+                }
+            ]
+        },
+        {
+            "id": "99",
+            "label": "Zumos",
+            "subs": [
+                {
+                    "id": "99",
+                    "label": "Fruta variada"
+                },
+                {
+                    "id": "100",
+                    "label": "Melocotón y piña"
+                },
+                {
+                    "id": "143",
+                    "label": "Naranja"
+                },
+                {
+                    "id": "98",
+                    "label": "Tomate y otros sabores"
+                }
+            ]
+        }
+    ]
+}
