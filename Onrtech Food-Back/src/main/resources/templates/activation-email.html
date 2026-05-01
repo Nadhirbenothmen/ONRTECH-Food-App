@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Activation de compte</title>
+    <style>
+      body { margin:0;padding:0;background:#f4f6f9;font-family: 'Helvetica Neue', Arial, sans-serif;color:#333; }
+      .wrapper { width:100%; table-layout:fixed; background:#f4f6f9; padding:40px 0; }
+      .main { background:#ffffff; margin:0 auto; width:600px; border-radius:8px; overflow:hidden; box-shadow:0 6px 18px rgba(20,30,50,0.08); }
+      .header { background: linear-gradient(90deg,#0f62fe 0%,#198038 100%); color:#fff; padding:24px 32px; text-align:left; }
+      .logo { font-weight:700; font-size:18px; letter-spacing:0.4px; }
+      .hero { padding:28px 32px; }
+      .title { font-size:20px; margin:0 0 6px; color:#111827; }
+      .subtitle { margin:0 0 18px; color:#6b7280; font-size:14px; }
+      .card { background:#fbfdff; border:1px solid #eef2ff; padding:18px; border-radius:6px; margin-bottom:18px; }
+      .btn { display:inline-block; background:#0f62fe; color:black !important; text-decoration:none; padding:12px 20px; border-radius:6px; font-weight:600; }
+      .muted { color:#6b7280; font-size:13px; }
+      .footer { padding:18px 32px; font-size:13px; color:#9ca3af; text-align:center; background:#fafbfd; }
+      .small { font-size:12px; color:#9ca3af; }
+      a.social { margin:0 6px; color:#9ca3af; text-decoration:none; }
+      @media only screen and (max-width:620px){ .main{width:92%} .header,.hero,.footer{padding:18px} }
+    </style>
+  </head>
+  <body>
+    <center class="wrapper">
+      <table class="main" role="presentation" cellpadding="0" cellspacing="0">
+        <tr>
+          <td class="header">
+            <div style="display:flex;align-items:center;gap:12px">
+              <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="#fff" viewBox="0 0 16 16" style="background: rgba(255,255,255,0.12); border-radius: 8px; display: flex; align-items: center; justify-content: center;"><path d="M6 0a.5.5 0 0 1 .5.5v13a.5.5 0 0 1-1 0v-13A.5.5 0 0 1 6 0zm4.5 4a.5.5 0 0 1 .5.5v9a.5.5 0 0 1-1 0v-9a.5.5 0 0 1 .5-.5zm4 4a.5.5 0 0 1 .5.5v5a.5.5 0 0 1-1 0v-5a.5.5 0 0 1 .5-.5zm-12 2a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5z"/></svg>
+              <div class="logo">Food ETL Analytics</div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="hero">
+            <h1 class="title">Compte activé avec succès</h1>
+            <p class="subtitle">Bonjour <strong>{{firstName}}</strong>, votre compte <strong>{{userName}}</strong> a été activé. Vous pouvez désormais vous connecter et profiter des fonctionnalités.</p>
+
+            <div class="card">
+              <p style="margin:0 0 12px;">Pour vous connecter immédiatement, utilisez le bouton ci-dessous :</p>
+              <p style="margin:0 0 16px;color: black !important;"><a class="btn" href="{{action_url}}">Se connecter</a></p>
+            </div>
+
+            <p style="margin:0 0 4px">Détails du compte :</p>
+            <p class="small" style="margin:0 0 14px">Nom d'utilisateur: <strong>{{userName}}</strong> • Email: <strong>{{email}}</strong></p>
+
+            <p class="muted">Nous vous recommandons d'activer la double authentification dans les paramètres de votre compte pour améliorer la sécurité.</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:0 32px 20px">
+            <hr style="border:none;border-top:1px solid #eef2ff;margin:0 0 16px" />
+            <p class="small" style="margin:0 0 8px">Besoin d'aide ? Contactez notre support
+            <p class="small" style="margin:0">© {{year}} Food ETL Analytics. Tous droits réservés.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="footer">
+            <div class="small">Suivez-nous</div>
+            <div style="margin-top:8px">
+              <a class="social" href="#">Twitter</a> • <a class="social" href="#">LinkedIn</a> • <a class="social" href="#">Facebook</a>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </center>
+  </body>
+</html>
