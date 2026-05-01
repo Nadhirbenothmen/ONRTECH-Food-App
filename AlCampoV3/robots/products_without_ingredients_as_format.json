@@ -1,0 +1,4916 @@
+[
+    {
+        "ean": "682998",
+        "title": "PRODUCTO ALCAMPO Galletas ecolólogicas con forma de ositos en 10 sobres de 2 uds, a partir de 12 meses",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "35049",
+        "title": "INSALUS KUKUSUMUSU Agua mineral pack de 6 uds. de botellas de 33 cl.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "982540",
+        "title": "PRODUCTO ALCAMPO Café en cápsulas Espresso Intenso I10, 20 uds.",
+        "ingredients": "20 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "671141",
+        "title": "PRODUCTO ALCAMPO Café en cápsulas Espresso Descafeinado I5, 16 uds.",
+        "ingredients": "16 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "671187",
+        "title": "PRODUCTO ALCAMPO Café en cápsulas Espresso I7, 16 uds.",
+        "ingredients": "16 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "982522",
+        "title": "PRODUCTO ALCAMPO Café en cápsulas espresso descafeinado I6, 20 uds.",
+        "ingredients": "20 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "982564",
+        "title": "PRODUCTO ALCAMPO Café en cápsulas Espresso Classico I8, 20 uds.",
+        "ingredients": "20 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "982498",
+        "title": "PRODUCTO ALCAMPO Café en cápsulas Colombia I8, 10 uds.",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "671209",
+        "title": "PRODUCTO ALCAMPO Café en cápsulas Lungo Intenso I7, 16 uds.",
+        "ingredients": "16 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "239359",
+        "title": "PRODUCTO ALCAMPO Café en cápsulas Espresso Intenso I9, 30 uds.",
+        "ingredients": "30 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "549628",
+        "title": "PRODUCTO ALCAMPO Café en cápsulas Expresso Intenso I10, 10 uds.",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "671205",
+        "title": "PRODUCTO ALCAMPO Café en cápsulas Lungo Descafeinado I4, 16 uds.",
+        "ingredients": "16 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "562178",
+        "title": "PRODUCTO ALCAMPO Café en cápsulas Lungo Descafeinado, I4, 10 uds.",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "562093",
+        "title": "PRODUCTO ALCAMPO Café en cápsulas Clássico I5, 36 uds.",
+        "ingredients": "36 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "982686",
+        "title": "PRODUCTO ALCAMPO Café en cápsulas de América Latina I8, 10 uds.",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "10043",
+        "title": "MARCILLA SENSEO Café en cápsulas extra fuerte Gran Aroma 28 uds.",
+        "ingredients": "28 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "547799",
+        "title": "PRODUCTO ALCAMPO Café en cápsulas Espresso descafeinado I6, 10 uds.",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "671225",
+        "title": "PRODUCTO ALCAMPO Café en cápsulas Ristretto, intensidad 9, 16 uds.",
+        "ingredients": "16 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "18995",
+        "title": "MARCILLA Café en cápsulas natural Gran Aroma 28 uds.",
+        "ingredients": "28 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "560909",
+        "title": "PRODUCTO ALCAMPO Café en cápsulas Espresso clásico I8, 10 uds.",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "18978",
+        "title": "MARCILLA Café en cápsulas descafeinado Gran Aroma 28 uds.",
+        "ingredients": "28 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "562095",
+        "title": "PRODUCTO ALCAMPO Café en cápsulas Lungo petit dejeuner I6, 36 uds.",
+        "ingredients": "36 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "562097",
+        "title": "PRODUCTO ALCAMPO Café en capsulas descafeinado I5, 36 uds.",
+        "ingredients": "36 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "562085",
+        "title": "ALCAMPO GOURMET Café en cápsulas Brasil I5, 32 uds.",
+        "ingredients": "32 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "671211",
+        "title": "PRODUCTO ALCAMPO Café en cápsulas Lungo I5, 16 uds.",
+        "ingredients": "16 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "745668",
+        "title": "ALCAMPO ECOLÓGICO Café en cápsulas de Colombia I5, 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "562102",
+        "title": "ALCAMPO GOURMET Café en cápsulas Etiopia I5, 32 uds.",
+        "ingredients": "32 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "562101",
+        "title": "PRODUCTO ALCAMPO Café en cápsulas I7, 36 uds.",
+        "ingredients": "36 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "748157",
+        "title": "ALCAMPO ECOLÓGICO Café en cápsulas de Perú I7 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "547763",
+        "title": "NOVELL Digestive Café en cápsulas ecológico con prostióticos 10 uds.",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "547772",
+        "title": "NOVELL Elixir Cápsulas de café ecológico con próbioticos, 10 uds.",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "547700",
+        "title": "NOVELL Silueta Café en cápsulas ecológico con prostbióticos 10 uds",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "16802",
+        "title": "STRACTO MONTECELIO Café en cápsulas clásico 10 uds.",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "186507",
+        "title": "MALONGO Café en cápsulas gran reserva espresso Puro Arábica 16 uds.",
+        "ingredients": "16 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "16828",
+        "title": "STRACTO MONTECELIO Café en cápsulas intenso caja de 10 uds.",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "626943",
+        "title": "ABBANTIA Café en cápsulas intenso Arábica nº5, 10 uds.",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "626944",
+        "title": "ABBANTIA Café en cápsulas compostables descafeinado nº7, 10 uds.",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "748157",
+        "title": "ALCAMPO ECOLÓGICO Café en cápsulas de Perú I7 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "745668",
+        "title": "ALCAMPO ECOLÓGICO Café en cápsulas de Colombia I5, 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "720358",
+        "title": "TASSIMO Cápsulas de cacao milka 10 uds 160 gr.",
+        "ingredients": "10 uds 160 gr",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "219734",
+        "title": "PRODUCTO ALCAMPO Galletas con barrita de chocolate rellena de crema de leche 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "639039",
+        "title": "DR. OETKER Vela número cuatro 1 uds.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "639043",
+        "title": "DR. OETKER Vela número siete , 1uds.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "639034",
+        "title": "DR. OETKER Vela número uno, 1 uds.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "639037",
+        "title": "DR. OETKER Vela número tres, 1 uds.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "639041",
+        "title": "DR. OETKER Vela número cinco,1 uds.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "639035",
+        "title": "DR. OETKER Vela número dos, 1 uds.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "639042",
+        "title": "DR. OETKER Vela número seis, 1 uds.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "639045",
+        "title": "DR. OETKER Vela número ocho, 1 uds.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "639042",
+        "title": "DR. OETKER Vela número seis, 1 uds.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "639039",
+        "title": "DR. OETKER Vela número cuatro 1 uds.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "639035",
+        "title": "DR. OETKER Vela número dos, 1 uds.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "786693",
+        "title": "DEKORA Rotuladores comestibles de colores 4 Uds.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "786703",
+        "title": "DEKORA Rotulador comestibles de color negro 2 Uds.",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "639043",
+        "title": "DR. OETKER Vela número siete , 1uds.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "639034",
+        "title": "DR. OETKER Vela número uno, 1 uds.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "639045",
+        "title": "DR. OETKER Vela número ocho, 1 uds.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "639041",
+        "title": "DR. OETKER Vela número cinco,1 uds.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "639037",
+        "title": "DR. OETKER Vela número tres, 1 uds.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "26571",
+        "title": "PRODUCTO ALCAMPO Piña en su jugo pack 3 uds. x 136 g.",
+        "ingredients": "3 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "60241",
+        "title": "LA QUELEÑA Fardelejos 6 uds",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "744951",
+        "title": "SAN MARTIN DE PORRES Cortadillo de cidra 4 uds.168 gr.",
+        "ingredients": "4 uds.168 gr",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "94921",
+        "title": "Coquitos,12 uds. CENTRO ESPECIAL DE EMPLEO LA PLATA.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "13438",
+        "title": "BLANCO Suspiros del Nalón 28 uds. (800 gr, Aprox)",
+        "ingredients": "28 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "625509",
+        "title": "CASTILLO DE MORILES Magdalenas con aceite de oliva 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "99206",
+        "title": "DULCESA Croissansts rellenos de cacao, 7 uds aprox. 315 g.",
+        "ingredients": "7 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "86183",
+        "title": "VICKY FOODS Mini roscos de cacao 8 uds x 155 g.",
+        "ingredients": "8 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "99376",
+        "title": "VICKY FOODS Napolitanas de crema 6 uds x 240 g",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "99348",
+        "title": "VICKY FOODS Napolitanas de cacao 6 uds x 240 g.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "50887",
+        "title": "NOVODULCINA Edulcorante comprimidos sd 650 uds",
+        "ingredients": "650 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "898571",
+        "title": "ORBALLO El remedio de la abuela Infusión ecológica a base de tomillo, eucalipto, menta y malva 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "898565",
+        "title": "ORBALLO Depura con locura Infusión ecológica a base de naranja, ortiga y regaliz 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "898564",
+        "title": "ORBALLO Calma tu karma Infusión ecológica a base de hibisco, hinojo, malva y lavanda 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "898559",
+        "title": "ORBALLO Calienta que alimenta Infusión ecológica de jenjibre y limón 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "947996",
+        "title": "YOGI TEA Energía Té verde ecológico con guaraná, jengibre y flores de sauco 17 uds.",
+        "ingredients": "17 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "898570",
+        "title": "ORBALLO Infusión ecológica de manzanilla con canela y albahaca 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "310838",
+        "title": "PRODUCTO ALCAMPO Té chai 20 uds.",
+        "ingredients": "20 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "317654",
+        "title": "CRUZCAMPO Cerveza Pilsen pack de 20 uds. x 25 cl.",
+        "ingredients": "20 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "670644",
+        "title": "HEINEKEN Cervezas 0,0 % pack 12 uds. x33 cl.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "187624",
+        "title": "AMSTEL 100 % MALTA Cervezas rubias pack. 28 uds. x 33 cl",
+        "ingredients": "28 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "187626",
+        "title": "CRUZCAMPO Cervezas rubias tipo larger estilo pilsen pack 28 uds. x 33 cl",
+        "ingredients": "28 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "561983",
+        "title": "THE ONE Pack cerveza artesanal pack 3 uds. x 33 cl.",
+        "ingredients": "3 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "907982",
+        "title": "LA CIBELES Estuche cervezas artesanas 4 uds. x 33 cl.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "889170",
+        "title": "HEINEKEN Cerveza 0,0% pack 6 uds. x 25 cl.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "670644",
+        "title": "HEINEKEN Cervezas 0,0 % pack 12 uds. x33 cl.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "907982",
+        "title": "LA CIBELES Estuche cervezas artesanas 4 uds. x 33 cl.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "314322",
+        "title": "BREWDOG Wingman session ipa Cerveza en lata 1 uds x 33 cl.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "710599",
+        "title": "ASAHII Super dry Cerveza en botella 1 uds x 33 cl.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "455852",
+        "title": "BREWDOG Punk ipa Cerveza en lata, 1 uds x 33 cl.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "561983",
+        "title": "THE ONE Pack cerveza artesanal pack 3 uds. x 33 cl.",
+        "ingredients": "3 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "317654",
+        "title": "CRUZCAMPO Cerveza Pilsen pack de 20 uds. x 25 cl.",
+        "ingredients": "20 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "641758",
+        "title": "CRUZCAMPO Especial Cervezas rubias pack 6 uds. x 20 cl.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "33006",
+        "title": "CRUZCAMPO Cerveza tipo Pilsen pack 24 uds de 25 cl.",
+        "ingredients": "24 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "220469",
+        "title": "BUDWEISER Cerveza americana lata pack 6 uds. x 33 cl.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "187626",
+        "title": "CRUZCAMPO Cervezas rubias tipo larger estilo pilsen pack 28 uds. x 33 cl",
+        "ingredients": "28 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "187624",
+        "title": "AMSTEL 100 % MALTA Cervezas rubias pack. 28 uds. x 33 cl",
+        "ingredients": "28 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "715226",
+        "title": "CRUZCAMPO Gran reserva Cervezas rubias 100% malta pack 10 uds, x 33 cl.",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "404091",
+        "title": "AMSTEL CLÁSICA Cervezas tostadas pack 12 uds. x 33 cl.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "908395",
+        "title": "FONT VELLA Agua mineral natural con gas pack 6 uds. x 1 l.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "902699",
+        "title": "FONT VELLA Agua mineral con gas pack 6 uds. x 50 cl.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "99661",
+        "title": "ESMIAGUA Agua mineral botella de 50 cl, pack de 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "50743",
+        "title": "ESMIAGUA Agua mineral botella de 1,5 L, pack de 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "21477",
+        "title": "TELENO Agua mineral pack de 6 uds. x 1,5 l.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "21481",
+        "title": "TELENO Agua mineral pack 6 uds. x 50 cl.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "805418",
+        "title": "CABREIROA Agua mineral pack 6 uds. x 2 l.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "888924",
+        "title": "TELENO Agua mineral pack 2 uds. x 2,5 l.",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "314375",
+        "title": "FONT VELLA Agua mineral pack 6 uds. x 1 l.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "882990",
+        "title": "TELENO Agua mineral pack de 9 uds. x 33 cl.",
+        "ingredients": "9 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "35049",
+        "title": "INSALUS KUKUSUMUSU Agua mineral pack de 6 uds. de botellas de 33 cl.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "34255",
+        "title": "FUENTE LIVIANA Agua mineral pack de 6 uds. de botellas de 2 l.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "30606",
+        "title": "MONDARIZ Agua mineral pack de 6 uds. x 1,5 l.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "58767",
+        "title": "FUENTE LIVIANA Agua mineral pack de 6 uds. x 1,5 l.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "741858",
+        "title": "LANJARÓN Agua mineral sin gas pack 4 uds. x 1 l.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "640656",
+        "title": "TELENO Agua mineral pack 4 uds. x 75 cl.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "35743",
+        "title": "FONTDOR Agua mineral pack de 6 uds. x 1,5 l.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "27130",
+        "title": "PRODUCTO ALCAMPO Aceitunas verdes manzanillamini bar rellenas de anchoa 3 uds x 50 g.",
+        "ingredients": "3 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "721184",
+        "title": "BIMBO Pan de hamburguesa artesano patata 4 uds. 290 gr.",
+        "ingredients": "4 uds. 290 gr",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "28320",
+        "title": "ALBO Bonito del Norte en aceite de oliva pack 3 uds. x 67 g.",
+        "ingredients": "3 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "89459",
+        "title": "ALBO Calamares en salsa americana en trozos lata de 3 uds x 65 g.",
+        "ingredients": "3 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "86463",
+        "title": "ALBO Calamares en su tinta en trozos lata pack de 3 uds x 50 g.",
+        "ingredients": "3 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "984240",
+        "title": "ALBO Atún claro en aceite de oliva virgen extra 6 uds. X 48 g.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "19764",
+        "title": "ALBO Atún claro en escabeche lata de 67 g. pack de 3 uds.",
+        "ingredients": "3 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "948160",
+        "title": "ALBO Atún en aceite de girasol, en conserva 3 uds x 48 g.",
+        "ingredients": "3 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "432995",
+        "title": "ALBO Atún claro en aceite de oliva lata de 48 g. pack de 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "26571",
+        "title": "PRODUCTO ALCAMPO Piña en su jugo pack 3 uds. x 136 g.",
+        "ingredients": "3 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "672882",
+        "title": "NORVI Piña trozos en su jugo 3 uds. x 140 g.",
+        "ingredients": "3 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "256730",
+        "title": "BAIGORRI Esparragos blancos 9/12 uds x 205 g",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "312489",
+        "title": "BAIGORRI Esparragos blanco de navarra 6/8 uds x 250 g",
+        "ingredients": "8 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "497353",
+        "title": "PRODUCTO ALCAMPO Champiñón laminado 3 uds. 115 gr.",
+        "ingredients": "3 uds. 115 gr",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "188736",
+        "title": "SUSHI GOURMET Raviolis japoneses rellenos de pollo SUSHI GOURMET 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "31022",
+        "title": "SUSHI GOURMET California de Salmón y surimi, con cebolla frita SUSHI GOURMET 9 uds.",
+        "ingredients": "9 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "633192",
+        "title": "SUSHI GOURMET Plato preparado de sushi con surimi y cebolla crujiente SUSHI GOURMET 3 uds.",
+        "ingredients": "3 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "30905",
+        "title": "SUSHI GOURMET Menú del mes California, maki y sushi variados SUSHI GOURMET 15 uds.",
+        "ingredients": "15 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "30953",
+        "title": "SUSHI GOURMET Sushi, rollitos, California y Cristal variados SUSHI GOURMET 32 uds.",
+        "ingredients": "32 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "189124",
+        "title": "SUSHI GOURMET Nigiri surtidos SUSHI GOURMET 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "31423",
+        "title": "SUSHI GOURMET Maki y California variados SUSHI GOURMET 18 uds.",
+        "ingredients": "18 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "60949",
+        "title": "PLAYA ODIEL Dürüm kebab de pollo KOKOROKO 3 uds.",
+        "ingredients": "3 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "646798",
+        "title": "ALCAMPO ECOLÓGICO Quinoa blanca y roja cocida ecológica ALCAMPO ECOLÓGICO 2 uds. x 125 g.",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "24567",
+        "title": "BIOGORET Caldo de Verduras ecológico BIOGORET 6 uds x 66 g.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "632391",
+        "title": "BIOGORET Caldo de verduras bajo en sal Ecológico BIOGORET 6 uds x 10 g.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "99312",
+        "title": "Cocarrois 2 uds",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "74699",
+        "title": "Mini empanadilla barbacoa, 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "526183",
+        "title": "ESPUÑA Minuets Mini cañitas de chorizo, de curación lenta en bodega 5 uds.",
+        "ingredients": "5 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "20937",
+        "title": "Manzana roja sabor-sabor bandeja 4 uds.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "67272",
+        "title": "Burguer meat de vacuno de 1/2 libra MIGUEL VERGARA 2 uds.",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "78101",
+        "title": "COREN Picantones de campo Bandeja 2 uds.",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "77892",
+        "title": "BONPOLLO Pollo entero limpio 2 uds.",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "86709",
+        "title": "Bandeja con longanizas (salchichas) blancas y frescas de cerdo, elaboradas sin gluten ROLER 8 uds.",
+        "ingredients": "8 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "67272",
+        "title": "Burguer meat de vacuno de 1/2 libra MIGUEL VERGARA 2 uds.",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "193890",
+        "title": "Bandeja con sesos de cerdo envasados en atmosfera protectora MECA 2 uds.",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "523993",
+        "title": "Bandeja con sesos de cordero envasados en atmósfera protectora MECA 2 uds.",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "68059",
+        "title": "CODORNICES MORENO Codornices frescas 2 uds.",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "68068",
+        "title": "CODORNICES MORENO Muslitos de codorniz 200 gr pack de 10 uds",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "68108",
+        "title": "CODORNICES MORENO Bandeja de codornices frescas 4 uds.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "86709",
+        "title": "Bandeja con longanizas (salchichas) blancas y frescas de cerdo, elaboradas sin gluten ROLER 8 uds.",
+        "ingredients": "8 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "200587",
+        "title": "BONCHEF Crispy chicken 2 uds x 100 g.",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "76809",
+        "title": "Bandeja con paletillas de conejo 4 uds.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "94921",
+        "title": "Coquitos,12 uds. CENTRO ESPECIAL DE EMPLEO LA PLATA.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "633336",
+        "title": "Galleta corazón con cobertura rosa, 6 uds. 135 gr.",
+        "ingredients": "6 uds. 135 gr",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "60251",
+        "title": "LA QUELEÑA Fardelejos 12 uds",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "94921",
+        "title": "Coquitos,12 uds. CENTRO ESPECIAL DE EMPLEO LA PLATA.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "477786",
+        "title": "LA GULA DEL NORTE Sucedáneo de angulas LA GULA DEL NORTE 3 uds. x 250 g.",
+        "ingredients": "3 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "727173",
+        "title": "Lechuga Snack 2 uds",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "96048",
+        "title": "Corazones de lechuga rojos FRESQUIA 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "96457",
+        "title": "Cogollitos rojos de lechuga FRESQUIA 3 uds.",
+        "ingredients": "3 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "56840",
+        "title": "Pimiento sweet Palermo 2 uds..",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "497708",
+        "title": "NOKU Mochi con doble relleno (frutos rojos y corazón de mora) 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "497711",
+        "title": "NOKU Mochi con doble relleno (yuzu con corazón de tarta de limón) 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "713190",
+        "title": "EXKIMO Pan bao congelado, listo para rellenar 8 uds.",
+        "ingredients": "8 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "893951",
+        "title": "MANASUL Infusión clasica MANASUL 100 uds.",
+        "ingredients": "100 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "614356",
+        "title": "AQUILEA Complemento alimenticio que favorece la eliminación de gases AQUILEA Gases forte 60 uds.",
+        "ingredients": "60 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "893957",
+        "title": "MANASUL Infusión clasica MANASUL 50 uds.",
+        "ingredients": "50 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "892597",
+        "title": "AQUILEA Comprimidos masticables con sabor a menta que ayuda al funcionamiento digestivo AQUILEA Digestivo 30 uds.",
+        "ingredients": "30 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "763923",
+        "title": "KNEIPP Drenante Complemento alimenticio en comprimidos efervescentes con sabor a piña 20 uds.",
+        "ingredients": "20 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "48857",
+        "title": "AQUILEA Complemento alimenticio (concentrado de aceite de semilla de calabaza y antioxidantes) AQUILEA Prostate complex 30 uds.",
+        "ingredients": "30 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "893280",
+        "title": "CISTITUS Complemento alimenticio a base de arándano rojo americano 30 uds.",
+        "ingredients": "30 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "892750",
+        "title": "AQUILEA Energía y vitalidad Magnesio + potasio en comprimidos efervescentes con sabor a naranja 14 uds.",
+        "ingredients": "14 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "891941",
+        "title": "AQUILEA Magnesio + potasio en comprimidos efervescentes, sin azucar y con sabor a naranja AQUILEA 28 uds.",
+        "ingredients": "28 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "989006",
+        "title": "AQUILEA Complemento nutricional a base de Magnesio, vitaminas y minerales AQUILEA Magnesio max 30 uds.",
+        "ingredients": "30 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "892512",
+        "title": "REVITAL Complemento alimenticio con jalea real y vitaminas REVITAL 20 uds 400 gr",
+        "ingredients": "20 uds 400 gr",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "19428",
+        "title": "JUVAMINE Drenaje Cola de caballo, mate, alcachofa y guaraná sabor limón 14 uds.",
+        "ingredients": "14 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "725370",
+        "title": "MONEGROS Huevos de gallinas camperas cocidos con cáscara clase M-L y cat. A 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "52838",
+        "title": "PITAS Huevos de codorniz cocidos y pelados 18 uds.",
+        "ingredients": "18 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190343",
+        "title": "AUCHAN Huevos de gallinas sueltas en el gallinero clase L y cat. A 12 uds. Producto Alcampo",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "804318",
+        "title": "AUCHAN Huevos de gallinas sueltas en el gallinero clase L y cat. A 12 uds. Producto Alcampo",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "947535",
+        "title": "LA HUERTA DE GALLOCANTA Huevos de gallinas camperas clase M y categoria A 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "54601",
+        "title": "ROIG Huevos de gallinas en jaulas acondicionadas clase L y cat. A 12 uds",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "904493",
+        "title": "AUCHAN Huevos de gallinas sueltas en el gallinero clase M y cat. A 30 uds. Producto Alcampo",
+        "ingredients": "30 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "948977",
+        "title": "LA HUERTA DE GALLOCANTA Huevos de gallinas sueltas en el gallinero xl 10 uds.",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "257028",
+        "title": "RUJAMAR Huevos de producción ecológica de categoria A y clase L-XL 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "511237",
+        "title": "PITAS Huevos de gallinas sueltas en el gallinero clase L / M y categoria A 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "54601",
+        "title": "ROIG Huevos de gallinas en jaulas acondicionadas clase L y cat. A 12 uds",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "511237",
+        "title": "PITAS Huevos de gallinas sueltas en el gallinero clase L / M y categoria A 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190343",
+        "title": "AUCHAN Huevos de gallinas sueltas en el gallinero clase L y cat. A 12 uds. Producto Alcampo",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "904493",
+        "title": "AUCHAN Huevos de gallinas sueltas en el gallinero clase M y cat. A 30 uds. Producto Alcampo",
+        "ingredients": "30 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "804318",
+        "title": "AUCHAN Huevos de gallinas sueltas en el gallinero clase L y cat. A 12 uds. Producto Alcampo",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "948977",
+        "title": "LA HUERTA DE GALLOCANTA Huevos de gallinas sueltas en el gallinero xl 10 uds.",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "918093",
+        "title": "OLÉ Huevos de gallinas camperas clase M / L y cat. A 6 uds",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "918082",
+        "title": "OLÉ Huevos de gallinas camperas clase M / L y cat. A 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "947535",
+        "title": "LA HUERTA DE GALLOCANTA Huevos de gallinas camperas clase M y categoria A 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "472075",
+        "title": "PITAS Huevos de gallinas camperas clase M-L y cat. A 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "423224",
+        "title": "CORRAL DE MONEGROS Huevos de gallinas camperas clase M-L y cat. 24 uds.",
+        "ingredients": "24 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "725370",
+        "title": "MONEGROS Huevos de gallinas camperas cocidos con cáscara clase M-L y cat. A 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "797750",
+        "title": "MONEGROS Huevos de producción ecológica clase M-L y categoría A 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "725370",
+        "title": "MONEGROS Huevos de gallinas camperas cocidos con cáscara clase M-L y cat. A 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "52838",
+        "title": "PITAS Huevos de codorniz cocidos y pelados 18 uds.",
+        "ingredients": "18 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "562283",
+        "title": "MONEGROS Huevos de codorniz frescos 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "38605",
+        "title": "ALCAMPO ECOLÓGICO Bebida de arroz ALCAMPO ECOLÓGICO brick de 1 litro pack de 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "220042",
+        "title": "AUCHAN Producto vegetal de coco cremoso natural sin azúcar añadida 400 g Producto Alcampo.",
+        "ingredients": "400 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "903914",
+        "title": "HIPP Biológico Tarrito (con trocitos) de arrroz con zanahoria y pavo, a partir de 8 meses 220 g.",
+        "ingredients": "220 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "949597",
+        "title": "HIPP Biológico Tarrito de verduras y arroz con pollo ecológico, a partir de 4 meses 190 g.",
+        "ingredients": "190 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "682998",
+        "title": "PRODUCTO ALCAMPO Galletas ecolólogicas con forma de ositos en 10 sobres de 2 uds, a partir de 12 meses",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "907165",
+        "title": "HIPP Biológico Tarrito (con trocitós) de pasta con tomate y ternera, a partir de 12 meses 220 g.",
+        "ingredients": "220 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "452889",
+        "title": "HIPP Biológico Tarrito (con trocitos) de verduritas ecológicas con pavo, a partir de 12 meses 220 g.",
+        "ingredients": "220 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "452821",
+        "title": "HIPP Biológico Tarrito de verduras con arroz y ternera ecológica, a partir de 8 meses 220 g.",
+        "ingredients": "220 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "452858",
+        "title": "HIPP Biológico Tarrito (con trocitos) de verduras ecológicas, con pasta y pollo, partir de 12 meses 220 g.",
+        "ingredients": "220 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "717880",
+        "title": "ALMIRÓN Papilla de cereales ecológicos (trigo, cebada, avena, espelta y centeno), a partir de 6 meses ALMIRÓN Cereales ecológicos 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "256995",
+        "title": "HIPP Biológico Tarrito de spaghetti a la boloñesa, a partir de 6 meses 190 g.",
+        "ingredients": "190 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "256993",
+        "title": "HIPP Biológico Tarrtio de salmón con zanahoria y patata ecológicas, a partir de 6 meses 190 g.",
+        "ingredients": "190 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "613491",
+        "title": "PANECO Baguette integral espelta, precocinada, ecológica PANECO 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "903107",
+        "title": "ORIGENS Bio kids Cereales (crujientes) infantiles de espelta con chocolate ecológicos 125 g.",
+        "ingredients": "125 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "893218",
+        "title": "ORIGENS Bio protein Granola ecológica con chocolate crujiente, rica en proteínas 275 g.",
+        "ingredients": "275 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "804568",
+        "title": "ORIGENS Bio kids Cereales (crujientes) infantiles de espelta ecológica 125 g.",
+        "ingredients": "125 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "805985",
+        "title": "ORIGENS BIO Cereales granola ecológicos con almendras y semillas de calabaza ORIGENS 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "674627",
+        "title": "ORIGENS Hojuelas de maíz ecológico ORIGENS CORN FLAKES 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "630845",
+        "title": "BELVAS Chocolate negro ecológico con quinoa, goji, almendras y pepitas de girasol 120 g.",
+        "ingredients": "120 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "715284",
+        "title": "ALCAMPO ECOLÓGICO Pepitas de chocolate negro ecológico 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "630850",
+        "title": "BELVAS Chocolate negro (85%) ecológico, con azúcar de flor de coco 120 g.",
+        "ingredients": "120 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "745668",
+        "title": "ALCAMPO ECOLÓGICO Café en cápsulas de Colombia I5, 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "898565",
+        "title": "ORBALLO Depura con locura Infusión ecológica a base de naranja, ortiga y regaliz 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "898571",
+        "title": "ORBALLO El remedio de la abuela Infusión ecológica a base de tomillo, eucalipto, menta y malva 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "547763",
+        "title": "NOVELL Digestive Café en cápsulas ecológico con prostióticos 10 uds.",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "625186",
+        "title": "ARTEMIS Tisana detox BIO 20 uds. 30 g.",
+        "ingredients": "20 uds. 30 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "947996",
+        "title": "YOGI TEA Energía Té verde ecológico con guaraná, jengibre y flores de sauco 17 uds.",
+        "ingredients": "17 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "508071",
+        "title": "ARTEMIS BIO Infusión rooibos naranja ecológica Chai ARTEMIS BIO 20 uds. 30 g.",
+        "ingredients": "20 uds. 30 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "898564",
+        "title": "ORBALLO Calma tu karma Infusión ecológica a base de hibisco, hinojo, malva y lavanda 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "625171",
+        "title": "ARTEMIS Té negro con canela BIO 20 uds. 28 g.",
+        "ingredients": "20 uds. 28 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "547772",
+        "title": "NOVELL Elixir Cápsulas de café ecológico con próbioticos, 10 uds.",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "898570",
+        "title": "ORBALLO Infusión ecológica de manzanilla con canela y albahaca 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "625167",
+        "title": "ARTEMIS Infusión de jengibre y limón 20 uds. 30 g.",
+        "ingredients": "20 uds. 30 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "865604",
+        "title": "ALCAMPO ECOLÓGICO Café molido descafeinado 100 % Arábica 250 g.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "865608",
+        "title": "ALCAMPO ECOLÓGICO Café molido Honduras 250 g.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "748157",
+        "title": "ALCAMPO ECOLÓGICO Café en cápsulas de Perú I7 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "508054",
+        "title": "ARTEMIS BIO Infusión Chai Massala ecológica ARTEMIS BIO 20 uds. 30 g.",
+        "ingredients": "20 uds. 30 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "898559",
+        "title": "ORBALLO Calienta que alimenta Infusión ecológica de jenjibre y limón 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "547700",
+        "title": "NOVELL Silueta Café en cápsulas ecológico con prostbióticos 10 uds",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "645722",
+        "title": "ALCAMPO ECOLÓGICO Café soluble ecológico 100 arábica 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "213192",
+        "title": "GOLDEN Melocotón en almíbar ecológico, mitades GOLDEN 240 g.",
+        "ingredients": "240 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "881644",
+        "title": "GRANJA SAN FRANCISCO Miel de montaña ecológica GRANJA SAN FRANCISCO, 250 g.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "39132",
+        "title": "BIOJAM ABEROS Mermelada de mango con azúcar de caña ecológico BIOAPRICA 275 g.",
+        "ingredients": "275 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "564291",
+        "title": "PANECO Palmeras de espelta ecológicas PANECO 160 g.",
+        "ingredients": "160 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "674618",
+        "title": "ORIGENS Cacao en polvo crudo ecológico ORIGENS 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "257028",
+        "title": "RUJAMAR Huevos de producción ecológica de categoria A y clase L-XL 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "797750",
+        "title": "MONEGROS Huevos de producción ecológica clase M-L y categoría A 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "679925",
+        "title": "SANTA GADEA Kéfir de cabra ecológico con probióticos SANTA GADEA 420 g.",
+        "ingredients": "420 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "215485",
+        "title": "EcoBATEA Limonada sin azúcar ecológica EcoBatea 1 l.",
+        "ingredients": "1 l",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "215487",
+        "title": "EcoBATEA Zumo exprimido naranja ecológico 1 l.",
+        "ingredients": "1 l",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "797309",
+        "title": "EcoBATEA Zumo mandarina ecológico 1 l.",
+        "ingredients": "1 l",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "38605",
+        "title": "ALCAMPO ECOLÓGICO Bebida de arroz ALCAMPO ECOLÓGICO brick de 1 litro pack de 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "534163",
+        "title": "ALCAMPO ECOLÓGICO Bebida vegetal de espelta ecológica 1 l.",
+        "ingredients": "1 l",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "534159",
+        "title": "ALCAMPO ECOLÓGICO Bebida vegetal de arroz y coco ecológica 1 l.",
+        "ingredients": "1 l",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "226682",
+        "title": "BERIEF Bebida vegetal de soja ecológica 1 l.",
+        "ingredients": "1 l",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "226680",
+        "title": "BERIEF Barista Bebida vegetal de avena ecológica especial para café 1 l.",
+        "ingredients": "1 l",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "17475",
+        "title": "DIAT RADISSON Bio Bebida de avena ecológica, sin azúcares añadidos 1 l.",
+        "ingredients": "1 l",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "534157",
+        "title": "ALCAMPO ECOLÓGICO Bebida de almendras ecológica sabor suave 1 l.",
+        "ingredients": "1 l",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "748157",
+        "title": "ALCAMPO ECOLÓGICO Café en cápsulas de Perú I7 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "745668",
+        "title": "ALCAMPO ECOLÓGICO Café en cápsulas de Colombia I5, 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "31222",
+        "title": "ORTIZ Bonito del norte en aceite de oliva ecológico 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "431812",
+        "title": "PEDRO LUIS Selección gourmet Macedonia de verdura procedentes de agricultura ecológica bote 250 g.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "638352",
+        "title": "BIOGORET Col Kale cocida ecológica BIOGORET 167 g.",
+        "ingredients": "167 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "720574",
+        "title": "ALVIME Tahini ecológico (crema de semillas de sésamo molido en piedra) 175 g.",
+        "ingredients": "175 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "209499",
+        "title": "ESENCIA Y SABOR DE LA DEHESA Fuagrá vegetal con cebolla caramelizada 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "891321",
+        "title": "4 HECTÁREAS Bio Gluten de trigo bio 400 g",
+        "ingredients": "400 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "902497",
+        "title": "ORIGENS Bio Harina de coco ecológica 250 g.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "674629",
+        "title": "ORIGENS Bio Harina de arroz ecológica 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "901034",
+        "title": "ORIGENS Bio Harina ecológica de almendra 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "674633",
+        "title": "ORIGENS Bio Harina de avena ecológica 250 g.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "565574",
+        "title": "COOSUR Aceite de oliva virgen extra (AOVE) ecológico, intensidad 3 1 l",
+        "ingredients": "1 l",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "30785",
+        "title": "CAMPOMAR NATURE Manzanilla Sabor Natural ecológica CAMPOMAR 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "29438",
+        "title": "CAMPOMAR NATURE Aceituna Verdial ecológicas partida con especias 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "632818",
+        "title": "CAMPOMAR NATURE Bio Pasta de cereales y calabaza ecológica 250 g.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "632799",
+        "title": "CAMPOMAR NATUR Bio Espirales de cereales y remolacha ecológica 250 g.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "632831",
+        "title": "CAMPOMAR NATURE Bio Pasta de legumbres y semillas de lino ecológicas 250 g.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "529503",
+        "title": "PRODUCTO ALCAMPO Bio Salsa ecológica tipo mayonesa sin huevo, ni gluten ni lactosa 190 g.",
+        "ingredients": "190 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "508007",
+        "title": "ARTEMIS BIO Res el Hanout (mezcla de especies) ecológico ARTEMIS BIO 25 g.",
+        "ingredients": "25g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "508017",
+        "title": "ARTEMIS BIO Tikka Masala ecológico ARTEMIS BIO 28 g.",
+        "ingredients": "28 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "529554",
+        "title": "PRODUCTO ALCAMPO Bio Mostaza ecológicoa, sin gluten ni lactosa ni huevo 190 g.",
+        "ingredients": "190 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "529581",
+        "title": "PRODUCTO ALCAMPO Bio Salsa César ecológica sin gluten, ni huevo ni lactosa 190 g.",
+        "ingredients": "190 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "674603",
+        "title": "ORIGENS Bio Semillas de lino ecológicas 250 g.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "891252",
+        "title": "4 HECTÁREAS Bio Semillas de lino dorado 250 g",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "674606",
+        "title": "ORIGENS Bio Semillas de sésamo ecológicas 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "674608",
+        "title": "ORIGENS Bio Espirulina liofilizada en polvo, ecológica 70 g.",
+        "ingredients": "70 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "891231",
+        "title": "4 HECTÁREAS Bio Semillas de chia 250 g",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "891291",
+        "title": "4 HECTÁREAS Bio Semillas de sesamo natural 250 g",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "674576",
+        "title": "ORIGENS Semillas de cáñamo peladas ecológicas ORIGENS 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "674572",
+        "title": "ORIGENS Maca en polvo ecológica 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "891171",
+        "title": "4 HECTÁREAS Semillas sésamo tostado bio 250 g.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "891222",
+        "title": "4 HECTÁREAS Bio Quinoa real en grano 250 g",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "891766",
+        "title": "CORIAL Barrita de datiles, almendras, larvas de gusano de la harina y chocolate 35 g.",
+        "ingredients": "35 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "731800",
+        "title": "ALCAMPO ECOLÓGICO Higos tiernos 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "731745",
+        "title": "ALCAMPO ECOLÓGICO Anacardos tostados y salados 125 g.",
+        "ingredients": "125 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "731821",
+        "title": "ALCAMPO ECOLÓGICO Pipas de girasol ecológicas, crudas y peladas 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "731787",
+        "title": "ALCAMPO ECOLÓGICO Cocktail de frutos secos naturales de procedencia ecológica 150 g",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "731827",
+        "title": "ALCAMPO ECOLÓGICO Uvas pasas sultanas 175 g.",
+        "ingredients": "175 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "891849",
+        "title": "CORIAL Barrita de datiles, almendras, avena, larvas gusano de la harina, manzana y canela 35 g",
+        "ingredients": "35 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "731818",
+        "title": "ALCAMPO ECOLÓGICO Pipas de calabaza peladas crudas 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "731775",
+        "title": "ALCAMPO ECOLÓGICO Avellanas crudas 125 g",
+        "ingredients": "125 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "731740",
+        "title": "ALCAMPO ECOLÓGICO Almendras, arándanos y pasas 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "313870",
+        "title": "CORIAL Grillos secos con tomate y orégano 15 g.",
+        "ingredients": "15 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "731813",
+        "title": "ALCAMPO ECOLÓGICO Nueces peladas 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "891812",
+        "title": "CORIAL Barrita datiles, crema de cacahuete y larvas de gusano de la harina 35 g.",
+        "ingredients": "35 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "731817",
+        "title": "ALCAMPO ECOLÓGICO Orejones de albaricoque tierno 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "731777",
+        "title": "PRODUCTO ALCAMPO Bio Avellanas tostadas ecológicas 125 g.",
+        "ingredients": "125 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "731807",
+        "title": "ALCAMPO ECOLÓGICO Mango deshidratado en trozos 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "632708",
+        "title": "ALCAMPO ECOLÓGICO Dátiles sin hueso ecológicos 175 g.",
+        "ingredients": "175 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "891820",
+        "title": "CORIAL Barrita de higo, almendras, avena, larvas gusano de la harina y naranja 35 g.",
+        "ingredients": "35 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "731742",
+        "title": "ALCAMPO ECOLÓGICO Almendras crudas con piel 125 g.",
+        "ingredients": "125 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "672713",
+        "title": "ORIGENS Coco rallado ecológico 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "313946",
+        "title": "CORIAL Grillos secos con tomillo y pimienta 15 g.",
+        "ingredients": "15 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "731751",
+        "title": "ALCAMPO ECOLÓGICO Arándanos rojos 175 g.",
+        "ingredients": "175 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "731786",
+        "title": "ALCAMPO ECOLÓGICO Ciruelas de Agen con hueso tiernas ALCAMPO ECOLÓGICO 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "731825",
+        "title": "ALCAMPO ECOLÓGICO Pistachos tostados y salados 125 g.",
+        "ingredients": "125 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "313769",
+        "title": "CORIAL Grillos secos con un toque de sal marina 15 g.",
+        "ingredients": "15 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "527157",
+        "title": "ALCAMPO ECOLÓGICO Almendra tostada sin sal bio 125 g.",
+        "ingredients": "125 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "314029",
+        "title": "CORIAL Larvas de gusano de la harina secas con sal marina 15 g.",
+        "ingredients": "15 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "731744",
+        "title": "ALCAMPO ECOLÓGICO Anacardos crudos 125 g.",
+        "ingredients": "125 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "313990",
+        "title": "CORIAL Larvas de gusano de la harina secas con pimienta cayena 15 g.",
+        "ingredients": "15 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "731737",
+        "title": "ALCAMPO ECOLÓGICO Almendras crudas repeladas sin piel 125 g.",
+        "ingredients": "125 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "15519",
+        "title": "CAMPOMAR NATURE Almendras al natural ecológicas 125 g.",
+        "ingredients": "125 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "672734",
+        "title": "BIONSAN Quinoa con verduras y cúrcuma ecológica BIONSAN 280 g.",
+        "ingredients": "280 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "646798",
+        "title": "ALCAMPO ECOLÓGICO Quinoa blanca y roja cocida ecológica ALCAMPO ECOLÓGICO 2 uds. x 125 g.",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "672678",
+        "title": "BIONSAN Cocido de lentejas con verduras Mediterráneas y romero ecológico BIONSAN 280 g.",
+        "ingredients": "280 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "672676",
+        "title": "BIONSAN Cocido de alubias con verduras Mediterráneas y romero ecológico BIONSAN 280 g.",
+        "ingredients": "280 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "24567",
+        "title": "BIOGORET Caldo de Verduras ecológico BIOGORET 6 uds x 66 g.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "647349",
+        "title": "ALCAMPO ECOLÓGICO Queso de oveja curado al ajo negro ALCAMPO ECOLÓGICO 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "742133",
+        "title": "ARTE&SABOR Queso ecológico de cabra ARTE Y SABOR 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "749712",
+        "title": "VIOLIFE Bloque vegano con sabor a queso cheddar VIOLIFE 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "647309",
+        "title": "ALCAMPO ECOLÓGICO Queso de oveja curado D.O.P Manchego ecológico 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "647365",
+        "title": "ALCAMPO ECOLÓGICO Queso de oveja curado en aceite de oliva 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "562972",
+        "title": "CABALLERO ANDANTE Queso de oveja tierno ecológico 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "749710",
+        "title": "VIOLIFE Bloque vegano con sabor a queso VIOLIFE 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "647316",
+        "title": "ALCAMPO ECOLÓGICO Queso de oveja curado al romero ecológico ALCAMPO ECOLÓGICO 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "98390",
+        "title": "SUJAIRA Queso de cabra ecológico SUJAIRA 400 g.",
+        "ingredients": "400 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "226512",
+        "title": "QUESERIA TIERRAS ALTAS Tarrina de crema de queso de cabra ecológico 125 g.",
+        "ingredients": "125 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "647353",
+        "title": "ALCAMPO ECOLÓGICO Queso de oveja curado con trufa ALCAMPO ECOLÓGICO 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "202112",
+        "title": "RAZA Y SABOR Castilla natural Bacon extra ecológico cortado en lonchas 70 g.",
+        "ingredients": "70 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "425703",
+        "title": "CAMPOS Salchichas cocidas de pollo ecológico, tipo Frankfurt CAMPOS 250 G.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "202117",
+        "title": "RAZA Y SABOR Castilla natural Jamón serrano ecológico cortado en lonchas 70 g.",
+        "ingredients": "70 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "202115",
+        "title": "RAZA Y SABOR Castilla natural Chorizo sarta dulce ecológico 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "202114",
+        "title": "RAZA Y SABOR Castilla natural Chorizo ecológico cortado en lonchas 70 g.",
+        "ingredients": "70 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "202118",
+        "title": "RAZA Y SABOR Castilla natural Taco de salchichón extra ecológico 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "202116",
+        "title": "RAZA Y SABOR Castilla natural Fuet extra ecológico 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "202113",
+        "title": "RAZA Y SABOR Castilla natural Taco de chorizo ecológico, envasado al vacio 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "425697",
+        "title": "CAMPOS Salchichas cocidas ecológicas de pavo, tipo Frankfurt CAMPOS 250 g.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "202122",
+        "title": "RAZA Y SABOR Sobrasada ecológica en medallones 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "202121",
+        "title": "RAZA Y SABOR Castilla natural Salchichón ecológico cortado en lonchas 70 g.",
+        "ingredients": "70 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "863785",
+        "title": "LOREA Boquerones del Cantábrico en aceite de oliva virgen extra Green Selection MSC Ecológico (Pesca sostenible certificada) LOREA 75 g.",
+        "ingredients": "75 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "49436",
+        "title": "Bananas ecológicas",
+        "ingredients": "1200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "566752",
+        "title": "Kiwi amarillo ecológico 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "546778",
+        "title": "ALCAMPO CULTIVAMOS LO BUENO ECOLÓGICO Aguacate ecológico 2 uds. 400 g.",
+        "ingredients": "2 uds. 400 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "717750",
+        "title": "AUCHAN BIO Limones ecológicos Malla ALCAMPO CULTIVAMOS LO BUENO ECOLÓGICO 600 g.",
+        "ingredients": "600 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "75300",
+        "title": "Aguacates ecológicos 400 g.",
+        "ingredients": "400 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "85686",
+        "title": "AHIMSA Tofú fresco ecológico AHIMSA 380 g.",
+        "ingredients": "380 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "675979",
+        "title": "AHIMSA Hamburguesa vegana azuki y cáñamo AHIMSA BIO 750 g.",
+        "ingredients": "750 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "84194",
+        "title": "AHIMSA Burger de avena, gouda y gorgonzolla ecológicas AHIMSA 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "945285",
+        "title": "BIOSABOR Fusiona Gazpacho de sandía fashion con vegetales ecológicos 1 l.",
+        "ingredients": "1 l",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "187934",
+        "title": "AHIMSA Preparado vegetal tipo Falafel ecológico AHIMSA 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "58064",
+        "title": "Tomates cherry pera ecológico ECOLÓGICO 250 g.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "58538",
+        "title": "AUCHAN Tomillo 20 g. Producto Alcampo",
+        "ingredients": "20 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "58496",
+        "title": "AUCHAN Romero 20g. Producto Alcampo",
+        "ingredients": "20 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "58532",
+        "title": "Albahaca ALCAMPO ECOLÓGICO 20 g.",
+        "ingredients": "20 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "58607",
+        "title": "AUCHAN Cilantro 20g. Producto Alcampo",
+        "ingredients": "20 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "58555",
+        "title": "AUCHAN Perejil plano 20 g Producto Alcampo",
+        "ingredients": "20 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "58553",
+        "title": "AUCHAN Perejil rizado 20 g. Producto Alcampo",
+        "ingredients": "20 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "58567",
+        "title": "Eneldo ALCAMPO ECOLÓGICO 20 g.",
+        "ingredients": "20 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "58526",
+        "title": "AUCHAN Menta 20g. Producto Alcampo",
+        "ingredients": "20 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "780312",
+        "title": "ALCAMPO CULTIVAMOS LO BUENO ECOLÓGICO Champiñón blanco ecológico 250 g.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "496614",
+        "title": "BREKKIES Alimento seco de pescado para gato 900 g.",
+        "ingredients": "900 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "632561",
+        "title": "AFFINITY Comida para gatos esterilizadoos, Adult 1,5 kr.",
+        "ingredients": "1500 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "95230",
+        "title": "ULTIMA Pienso para gatos esterilizados senior a base de pollo bolsa 800 g.",
+        "ingredients": "800 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "740359",
+        "title": "PURINA One dual nature Alimento para gatos adultos esterilizados, que ayuda a reforzar sus defensas 750 g.",
+        "ingredients": "750 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "500880",
+        "title": "ULTIMA Alimento para garos adultos a base de pollo, especial tracto urinario 750 g.",
+        "ingredients": "750 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "226049",
+        "title": "PETS UNLIMITED Sticks para perro sabor a cordero 2 uds 24 g.",
+        "ingredients": "2 uds 24 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "42042",
+        "title": "WHISKAS Snacks para gatos adultos a base de salmón en sticks WHISKAS 3 uds.18 g.",
+        "ingredients": "3 uds.18 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "226060",
+        "title": "TWINKY Creamy treat Alimentación para gatos líquida sabor a salmón 75 g.",
+        "ingredients": "75 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "710668",
+        "title": "VITAKRAFT Snack líquido para gatos de pollo y taurina VITAKRAFT 6 uds x 15 g.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "30704",
+        "title": "VITAKRAFT Snacks para gatos a base de sticks de mini salmón VITAKRAFT 3 uds. x 6 g.",
+        "ingredients": "3 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "952717",
+        "title": "YOW UP! Yogurt de salmón para gatos 85 g.",
+        "ingredients": "85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "33661",
+        "title": "WHISKAS Snacks para gatos adultos a base de pollo en sticks WHISKAS 3 uds.18 g.",
+        "ingredients": "3 uds.18 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "641848",
+        "title": "CATISFACTIONS Snaks para gato con sabor a aves a la brasa 55 g.",
+        "ingredients": "55 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "30947",
+        "title": "VITAKRAFT Snacks para gatos Cat Grass VITAKRAFT 120 g.",
+        "ingredients": "120 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "948750",
+        "title": "FELIX naturally delicious de Purina Snacks para gatos adultos con salmón y un toque de hierba gatera 50 g.",
+        "ingredients": "50 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "712878",
+        "title": "VITAKRAFT Snacks gatos, mini stick pollo con hierba gatera CAT STICK VVITAKRAFT 3 uds. 18 g.",
+        "ingredients": "3 uds. 18 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "641850",
+        "title": "CATISFACTIONS Snaks para gato con sabor a fiesta del mar 55 g",
+        "ingredients": "55 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "948749",
+        "title": "FELIX naturally delicious de Purina Snacks para gatos adultos con pollo y un toque de hierba gatera 50 g.",
+        "ingredients": "50 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "226051",
+        "title": "PETS UNLIMITED Sticks para perro sabor a ternera 2 uds 24 g.",
+        "ingredients": "2 uds 24 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "711617",
+        "title": "VITAKRAFT Snacks gatos, mini sticks bacalao y atún VITAKRAFT CAT STICK 3 uds 18 g.",
+        "ingredients": "3 uds 18 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "226055",
+        "title": "TASTY Rellenitos Snacks para gatos especial salmón 110 g",
+        "ingredients": "110 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "710708",
+        "title": "VITAKRAFT Snack líquido para gatos de ternera con insulina VITAKRAFT 6 uds x 15 g.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "711779",
+        "title": "VITAKRAFT Snacks gatos, mini sticks pescado VITAKRAFT CAR STICK 3 uds. 18 g.",
+        "ingredients": "3 uds. 18 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "226058",
+        "title": "TWINKY Creamy treat Alimentación para gatos líquida sabor a pollo 75 g.",
+        "ingredients": "75 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "226053",
+        "title": "TASTY Rellenitos Snacks para gatos de pollo y malta 110 g",
+        "ingredients": "110 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "226053",
+        "title": "TASTY Rellenitos Snacks para gatos de pollo y malta 110 g",
+        "ingredients": "110 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190407",
+        "title": "VITAKRAFT Drink Snack para gatos liquido, sabor a pollo y con taurina 5 uds 30 g.",
+        "ingredients": "5 uds 30 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "226055",
+        "title": "TASTY Rellenitos Snacks para gatos especial salmón 110 g",
+        "ingredients": "110 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190406",
+        "title": "VITAKRAFT Liquid snak, Snack para gatos líquido con sabor a pate con boitina 6 uds 90 g",
+        "ingredients": "6 uds 90 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "226051",
+        "title": "PETS UNLIMITED Sticks para perro sabor a ternera 2 uds 24 g.",
+        "ingredients": "2 uds 24 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "641848",
+        "title": "CATISFACTIONS Snaks para gato con sabor a aves a la brasa 55 g.",
+        "ingredients": "55 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "724019",
+        "title": "VITAKRAFT Snack de perros, salmón vitakraft 12 G.",
+        "ingredients": "12 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190409",
+        "title": "VITAKRAFT Drinks Snack para gatos líquido, sabor a salmón 5 uds 30 g",
+        "ingredients": "5 uds 30 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "226049",
+        "title": "PETS UNLIMITED Sticks para perro sabor a cordero 2 uds 24 g.",
+        "ingredients": "2 uds 24 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "226058",
+        "title": "TWINKY Creamy treat Alimentación para gatos líquida sabor a pollo 75 g.",
+        "ingredients": "75 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "641850",
+        "title": "CATISFACTIONS Snaks para gato con sabor a fiesta del mar 55 g",
+        "ingredients": "55 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "226060",
+        "title": "TWINKY Creamy treat Alimentación para gatos líquida sabor a salmón 75 g.",
+        "ingredients": "75 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "729245",
+        "title": "ULTIMA Alimento gato húmedo salmón-trucha ÚLTIMA 4 uds. x 85 g.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "908841",
+        "title": "ULTIMA Latitas de comida para gato con salmón 85 g.",
+        "ingredients": "85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "908840",
+        "title": "ULTIMA Latitas de comida para gato humeda de pollo 85 g.",
+        "ingredients": "85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "729241",
+        "title": "ULTIMA Alimento gatos húmedo ÚLTIMA 4 uds. x 85 g.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "675964",
+        "title": "ULTIMA Alimento para gatos húmedo pescado ULTIMA NATURE 12 uds. x 85 g.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "675956",
+        "title": "ULTIMA Alimento para gatos húmedo, carne ULTIMA NATURE 12 uds. x 85 g.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "740359",
+        "title": "PURINA One dual nature Alimento para gatos adultos esterilizados, que ayuda a reforzar sus defensas 750 g.",
+        "ingredients": "750 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "889407",
+        "title": "FELIX Comida para gatos húmeda sabor a pescado variado PURINA FELIX 4 uds. x 85 g.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "561909",
+        "title": "ULTIMA Alimento para gatos esterilizados húmedo ULTIMA 4 uds. x 85 g.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "953940",
+        "title": "HARPER & BONE Recetas de caza Alimentación húmeda de carne para gato 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "95807",
+        "title": "SHEBA Comida para gatos adultos a base de carne y pescado SHEBA 4 uds. 85 g.",
+        "ingredients": "4 uds. 85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "723020",
+        "title": "PLATZ-K9 Ali.hum. latitas gato adulto conejo 85 g.",
+        "ingredients": "85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "561796",
+        "title": "ULTIMA Alimento para gatos esterilizados húmedo ÚLTIMA 4 uds. x 85 g.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "95773",
+        "title": "SHEBA Comida para gatos adultos a base de pollo, buey, conejo y pavo en salsa SHEBA 4 uds. 85 g.",
+        "ingredients": "4 uds. 85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "684563",
+        "title": "VITAKRAFT Alimento húmedo completo gatos adultos, salmón POESIE MOUSSE VITAKRAFT 85 g.",
+        "ingredients": "85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "913404",
+        "title": "GIM CAT Alimento húmedo gatos atún con calabaza GIM CAT 70 g.",
+        "ingredients": "70 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "794848",
+        "title": "FELIX Comida para gatos húmeda tiernos trocitos en gelatina FELIX FANTASTIC 12 uds. x 85 g.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "684062",
+        "title": "VITAKRAFT Alimento húmedo completo gatos adultos, sabor pollo VITAKRAFT POESIE MOUSSE 85 g.",
+        "ingredients": "85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "95788",
+        "title": "SHEBA Comida para gatos adultos a base de pescado en salsa SHEBA 4 uds. 85 g.",
+        "ingredients": "4 uds. 85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "723004",
+        "title": "PLATZ-K9 Ali.hum. latita gato estéril pescado 85 g.",
+        "ingredients": "85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "498549",
+        "title": "PLATZ K9 Alimento húmedo para gato estéril latita",
+        "ingredients": "85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "908841",
+        "title": "ULTIMA Latitas de comida para gato con salmón 85 g.",
+        "ingredients": "85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "729245",
+        "title": "ULTIMA Alimento gato húmedo salmón-trucha ÚLTIMA 4 uds. x 85 g.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "723074",
+        "title": "PLATZ-K9 Alim. hum. latitas gato pollo 85 g.",
+        "ingredients": "85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "723046",
+        "title": "PLATZ-K9 Ali.hum, latitas gato adulto pollo 85 g.",
+        "ingredients": "85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "913402",
+        "title": "GIM CAT Alimento gatos húmedo atún con anchoas GIM CAT 70 g.",
+        "ingredients": "70 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "724010",
+        "title": "VITAKRAFT Comida para gatos húmeda Poèsie 6 uds. x 85 g.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "908840",
+        "title": "ULTIMA Latitas de comida para gato humeda de pollo 85 g.",
+        "ingredients": "85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190405",
+        "title": "VITAKRAFT Poésie Alimentación húmeda para gatos con sabor a pollo y ternera 6 uds 85 g.",
+        "ingredients": "6 uds 85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "953962",
+        "title": "HARPER & BONE Recetas del mar Alimentación húmeda para gato adulto 85 g.",
+        "ingredients": "85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "675956",
+        "title": "ULTIMA Alimento para gatos húmedo, carne ULTIMA NATURE 12 uds. x 85 g.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "952717",
+        "title": "YOW UP! Yogurt de salmón para gatos 85 g.",
+        "ingredients": "85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "729241",
+        "title": "ULTIMA Alimento gatos húmedo ÚLTIMA 4 uds. x 85 g.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "913433",
+        "title": "GIM CAT Alimento gatos húmedo GIM CAT 70 g.",
+        "ingredients": "70 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "675964",
+        "title": "ULTIMA Alimento para gatos húmedo pescado ULTIMA NATURE 12 uds. x 85 g.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "914195",
+        "title": "GIM CAT Alimento gatos húmedi POLLO CON MANGO gim cat 70 g.",
+        "ingredients": "70 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "953947",
+        "title": "HARPER & BONE Sabores de granja Alimentación húmeda de carne para gatos 300 g",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "95827",
+        "title": "SHEBA Comida para gatos adultos a base de pato y pavo SHEBA 4 uds. 85 g.",
+        "ingredients": "4 uds. 85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "432747",
+        "title": "ULTIMA Comida para perro pequeño pienso seco a base de pollo 7 kg.",
+        "ingredients": "7 kg",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "882933",
+        "title": "DOG MENU PURINA Comida para perro a base de buey y verduras 15 kilos.",
+        "ingredients": "15000 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "31428",
+        "title": "ULTIMA Comida para perro de raza Yorkshire Terrier 1,5 kilogr,",
+        "ingredients": "1500 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "95482",
+        "title": "ULTIMA Comida para perro adulto a base de pollo y arroz ÚLTIMA Senior Medium-Maxi Affinity 7,5 kilogr,",
+        "ingredients": "7500 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "889409",
+        "title": "FRISKIES Comida para perros sabor a pollo complete 15 kg.",
+        "ingredients": "15 kg",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "897600",
+        "title": "WAPPY Alimento perro complet premium food 800 g.",
+        "ingredients": "800 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "885362",
+        "title": "FROLIC Al perro seco razas pequeñas-medianas 800 g",
+        "ingredients": "800 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190302",
+        "title": "VITAKRAFT Huesos para perro 6 uds",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "96624",
+        "title": "MISTER DOG Mordedores para perros dentales de colores MISTER DOG MUNCHIES 100 uds. 800 g.",
+        "ingredients": "100 uds. 800 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "479798",
+        "title": "CANES JOB 2 medios huesos de jamón para perros 265 g",
+        "ingredients": "265 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "718390",
+        "title": "SANDIMAS Snack para perro natural SANDIMAS TIRAS DE POLLO 50 g.",
+        "ingredients": "50 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "62604",
+        "title": "PEDIGREE Snack dental para perros prevención del sarro de raza pequeña PEDIGREE DENTASTIX 7 uds. 110 g.",
+        "ingredients": "7 uds. 110 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "625843",
+        "title": "PETS UNLIMITED Steak Bocaditos de ternera 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "723923",
+        "title": "VITAKRAFT Snack perro buey 12 g.",
+        "ingredients": "12 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "889532",
+        "title": "PRODUCTO ALCAMPO Snacks dental para perros adultos talla pequeña AUCHAN EXPERT DENTAL CARE 28 uds. 440 g.",
+        "ingredients": "28 uds. 440 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "889420",
+        "title": "QUÉRICO Huesos masticables con pollo para perros entre 2 y 12 kilogr, QUÉRICO 5 uds.",
+        "ingredients": "5 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "192977",
+        "title": "PURINA Friskies picnic Snaks para perros en bolsa 5 uds 42 g.",
+        "ingredients": "5 uds 42 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "889609",
+        "title": "RIGA Bocaditos con sabor a pollo para perros RIGA CHICK'OS BONE 80 g-",
+        "ingredients": "80 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "645519",
+        "title": "PUROMENU Galletas perro coquitos 125 g.",
+        "ingredients": "125 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "95054",
+        "title": "PEDIGREE Snacks dental para perros de talla mediana con aroma a fresco PEDIGREE DENTASTIX 7 uds. 180 g.",
+        "ingredients": "7 uds. 180 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190303",
+        "title": "VITAKRAFT Hueso para perro 1 uds.",
+        "ingredients": "1 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "745837",
+        "title": "VITAKRAFT Snack para perros medianos Boony Bits pequeños VITAKRAFT 120 g.",
+        "ingredients": "120 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "226813",
+        "title": "PETS UNLIMITED Snack adiestrar para perros 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "95134",
+        "title": "PEDIGREE Snacks dental para perros de talla mediana deja aliento a fresco PEDIGREE DENTASTIX 28 uds. 720 g.",
+        "ingredients": "28 uds. 720 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "670609",
+        "title": "PEDIGREE Snack para perros junir PEDIGREE tasty minis 130 g.",
+        "ingredients": "130 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "64170",
+        "title": "FROLIC Bocaditos con sabor a carne para perros adultos FROLIC 180 g.",
+        "ingredients": "180 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "26217",
+        "title": "PEDIGREE Barritas para perros PEDIGREE 70 g.",
+        "ingredients": "70 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "782461",
+        "title": "DR. ZOO Helado de crema para perros 50 g.",
+        "ingredients": "50 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "717636",
+        "title": "SANDIMAS Snack para perro natural SANDIMAS 25 uds. 125 g,",
+        "ingredients": "25 uds. 125 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "206068",
+        "title": "WAPPY Snack functional joints 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "625853",
+        "title": "PETS UNLIMITED Steaks Filete de pollo 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "645528",
+        "title": "DIXIE Snack saludable relax 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "435991",
+        "title": "PEDIGREE Snacks dental para perros de tallas pequeñas junior PEDIGREE DENTASTIX 28 unidades de 440 gramos.",
+        "ingredients": "440 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "917966",
+        "title": "BIOZOO MASCOTAS Snacks de buey BIOZOO 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "889367",
+        "title": "PEDIGREE Bocaditos con sabor a pollo para perros PEDIGREE TASTY BITES 130 g.",
+        "ingredients": "130 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "889366",
+        "title": "PEDIGREE Bocaditos con sabor a queso y buey para perros PEDIGREE TASTY BITES 140 g.",
+        "ingredients": "140 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "889607",
+        "title": "RIGA Bocaditos con sabor a pollo para perros RIGA CHICK'OS 4 uds x 75 g.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "782460",
+        "title": "DR. ZOO Helado con sabor banana para perros 50 g.",
+        "ingredients": "50 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "952713",
+        "title": "YOW UP! Yogurt articular para perros 115 g.",
+        "ingredients": "115 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "525174",
+        "title": "DENTALIFE ACTIVFRESH Snack dental perros 25 a 40 kg 4 uds. 142g",
+        "ingredients": "4 uds. 142 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "206066",
+        "title": "WAPPY Snack functional calming 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "208679",
+        "title": "PEDIGREE Snack para perros de ternera PEDIGREE 70 g.",
+        "ingredients": "70 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "193099",
+        "title": "PEDIGREE Snack dental para perro mediano 180 g.",
+        "ingredients": "180 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "525150",
+        "title": "PURINA DENTALIFE ACTIVFRESH Snack dental perros 12 a 25 kg 4 uds.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "680091",
+        "title": "VITAKRAFT Snacks para perros sticks de cordero VITAKRAFT 2 uds.",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "318092",
+        "title": "PEDIGREE Snack dental para perros hasta 10 kg PEDIGREE DENTASTICK DAILY ORAL CARE 56 uds.",
+        "ingredients": "56 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "670605",
+        "title": "PEDIGREE Snack para perros queso y buey PEDIGREE RODEO DUOS 120 g.",
+        "ingredients": "120 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "96158",
+        "title": "MISTER DOG Hueso masticable de vacuno de 11 centímetros para perros MISTER DOG 2 uds. de 45 g.",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "206013",
+        "title": "WAPPY Snack functional antiaging 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "889611",
+        "title": "RIGA Snack de carne para perros RIGA STOMAK'OS 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "63335",
+        "title": "PEDIGREE Snacks dental para perros de talla mediana PEDIGREE DENTASTIX 28 unidades de 720 gramos.",
+        "ingredients": "720 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "32494",
+        "title": "PEDIGREE Snacks dental para perros de talla grande PEDIGREE DENTASTIX 28 unidades de 1080 gramos.",
+        "ingredients": "1080 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "889422",
+        "title": "QUÉRICO Barritas a base de pollo para perros entre 2 y 35 kilogr, QUÉRICO 3 uds.",
+        "ingredients": "3 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "226046",
+        "title": "MISTER DOG First stick Snacks naturales de sabror a pollo y zanahoria 70 g",
+        "ingredients": "70 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "917928",
+        "title": "BIOZOO MASCOTAS Snack pechuga de pollo BIOZOO 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "680345",
+        "title": "VITAKRAFT Snacks para perro Stickies de Buey VITAKRAFT 4 uds. 44 gr.",
+        "ingredients": "4 uds. 44 gr",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "470959",
+        "title": "VITAKRAFT Snack dental para perros pequeños (5 a 10 kg) VITAKRAFT 7 uds. 120 g.",
+        "ingredients": "7 uds. 120 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "625858",
+        "title": "PETS UNLIMITED Tiras de filete ed pollo 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "638298",
+        "title": "DIXIE Snack saludable digestive 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "889533",
+        "title": "PRODUCTO ALCAMPO Snacks dental para perros adultos talla mediana AUCHAN EXPERT DENTAL CARE 28 uds. 720 g.",
+        "ingredients": "28 uds. 720 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "680233",
+        "title": "VITAKRAFT Stick de pavo para perros 12 g.",
+        "ingredients": "12 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "495015",
+        "title": "CANES JOB Nature Snacks para perros de cuero 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "495007",
+        "title": "CANES JON Nature Snaks en tiras para perro con de sabor a ternera 80 g",
+        "ingredients": "80 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "625855",
+        "title": "PETS UNLIMITED Chewy Sticks Stiks de pollo 10 uds. 100 g.",
+        "ingredients": "10 uds. 100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190402",
+        "title": "VITAKRAFT Bonny bits Snack para perros con sabor a ternera 55 g.",
+        "ingredients": "55 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "782473",
+        "title": "DR. ZOO Helado de salchicha y queso para perros 50 g.",
+        "ingredients": "50 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "525336",
+        "title": "PURINA DENTALIFE ACTIVFRESH Snack dental perros 7 a 12 kg 4 uds.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "95626",
+        "title": "PEDIGREE Snacks dental para perros de talla mediana PEDIGREE DENTASTIX caja 56 uds. 1140 g.",
+        "ingredients": "56 uds. 1140 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "27020",
+        "title": "FRISKIES Snacks para perros surtido con sabor a carne FRISKIES 15 uds. 126 g.",
+        "ingredients": "15 uds. 126 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "208659",
+        "title": "PEDIGREE Snack dental para perros de talla grande PEDIGREE 56 uds de 2160 g.",
+        "ingredients": "56 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "917904",
+        "title": "BIOZOO MASCOTAS Dúo huesitos pollo y caza BIOZOO 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "193107",
+        "title": "PEDIGREE Snack dental para perro pequeño 120 g.",
+        "ingredients": "120 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "889534",
+        "title": "PRODUCTO ALCAMPO Snacks dental para perros adultos talla grande PRODUCTO ALCAMPO 28 uds. 1080 g.",
+        "ingredients": "28 uds. 1080 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "31706",
+        "title": "FROLIC Snack dental para perros FROLIC 170 g.",
+        "ingredients": "170 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "28894",
+        "title": "PEDIGREE Snack dental para perros de raza mediana PEDIGREE DENTASTIX 7 uds. 180 g.",
+        "ingredients": "7 uds. 180 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "645523",
+        "title": "DIXIE Snack saludable mobility 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "625852",
+        "title": "PETS UNLIMITED Steak Filete de pato 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "470956",
+        "title": "VITAKRAFT Snack dental para perros medianos (másde 10 kg.) VITAKRAFT 7 uds. 180 g",
+        "ingredients": "7 uds. 180 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "917918",
+        "title": "BIOZOO MASCOTAS Hueso prensado de cuero BIOZOO 12 cm x 2 uds",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "625842",
+        "title": "PETS UNLIMITED Shaslick Stiks de ternera 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "496194",
+        "title": "PEDIGREE Snacks perro buey ranchos cubes 70 g.",
+        "ingredients": "70 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "917910",
+        "title": "BIOZOO MASCOTAS Hueso de calcio envuelto con pollo 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "193094",
+        "title": "PEDIGREE Snack dental para perros grandes 270 g.",
+        "ingredients": "270 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "226048",
+        "title": "MISTER DOG Tender sheets Snacks naturales para perros de raza pequeña de sabor a pollo 700 g.",
+        "ingredients": "700 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "953873",
+        "title": "YOW UP!Yogurt de salmón para perros 115g.",
+        "ingredients": "115 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "435987",
+        "title": "PEDIGREE Snack dental para perros de talla grande PEDIGREE DENTASTIX 7 uds. 270 g.",
+        "ingredients": "7 uds. 270 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "208681",
+        "title": "PEDIGREE Bocaditos con sabor a buey para perros 155 g.",
+        "ingredients": "155 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "206072",
+        "title": "WAPPY Snack functional skin&hair 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190300",
+        "title": "VITAKRAF Poésie Alimentación húmeda para gatos en tarrina con sabor a ternera delice 85 g",
+        "ingredients": "85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190299",
+        "title": "VITAKRAFT Poésie Alimentación húmeda para gatos con sabor a salmón 85 g.",
+        "ingredients": "85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "952701",
+        "title": "HARPER & BONE Sabores de granja Alimentación húmeda para perro de carne 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "670583",
+        "title": "CESAR Comida para perros pavo y ternera junior 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "180111",
+        "title": "ESTAR BEN Salchicha para perro sabor a carne variadas 1 kilos.",
+        "ingredients": "1000 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "670586",
+        "title": "CESAR Comida para perros pollo tierno Clásico 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190301",
+        "title": "VITAKRAFT Poésie Alimentación húmeda para gatos en tarrinas con sabor a pollo y salmón 6 uds 85 g",
+        "ingredients": "6 uds 85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "716420",
+        "title": "GIM DOG Alimento complementario para perros, pollo pure delight 85 g.",
+        "ingredients": "85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "746970",
+        "title": "ULTIMA Comida para perros pequeños con salmón húmeda 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "746949",
+        "title": "ULTIMA Comida de perro pequeño húmeda 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190292",
+        "title": "VITAFRAFT Poésie Alimentación húmeda para gatos sabor pollo delice 85 g",
+        "ingredients": "85 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "889587",
+        "title": "SHINY Comida para perro de talla pequeña a base de pollo 2 uds. de 85 gr,",
+        "ingredients": "2 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "670575",
+        "title": "CESAR Comida para perros a base buey, pollo y arroz 4 uds. x 100 g.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "512444",
+        "title": "PEDIGREE Comida para perro junior húmedo a base de pollo gelatina 4 uds. x 100 g.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "95177",
+        "title": "CESAR Comida para perro adulto a base de buey, pollo, aves y cordero 4 uds. de 150 g.",
+        "ingredients": "4 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "746962",
+        "title": "ULTIMA Comida para perro pequeño húmeda con pollo 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "180117",
+        "title": "ESTAR BEN Salchicha para perro con sabor a pollo 1 kilo.",
+        "ingredients": "1000 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "30056",
+        "title": "PEDIGREE Comida para perro adulto a base de aves y ternera 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "670577",
+        "title": "CESAR Comida para perro buey y verduras CESAR Recetas de la Huerta tarrina 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "952704",
+        "title": "HARPER & BONE Sabores de caza Alimentación húmeda de carne para perro 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "43076",
+        "title": "TETRA Reptosafe para tortugas, reptiles y anfibios TETRA REPTOSAFE 100 ml.",
+        "ingredients": "100 ml",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "807231",
+        "title": "PRODUCTO ALCAMPO Alimento para tortugas en sticks 75 g.",
+        "ingredients": "75 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "915303",
+        "title": "TETRA Alimento para peces de agua fría y carpines TETRA GOLDFISH bote 1 L.",
+        "ingredients": "1 l",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "915335",
+        "title": "TETRA Alimento para peces de estanques de jardín TETRA TETRAPOND bote 1 L.",
+        "ingredients": "1 l",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "59962",
+        "title": "SANDIMAS Alimento completo para conejos y cobayas SANDIMAS 2 kilogr,",
+        "ingredients": "2000 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "30797",
+        "title": "VITAKRAFT Comida para conejos VITAKRAFT 3 kilogr,",
+        "ingredients": "3000 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "30777",
+        "title": "VITAKRAFT Comida para conejos VITAKRAFT 1 kilogramo",
+        "ingredients": "1000 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "30807",
+        "title": "VITAKRAFT Alimento para cobayas VITAKRAFT 1 kilogramo",
+        "ingredients": "1000 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "95001",
+        "title": "VITAKRAFT Barritas para conejo con sabor a verduras VITAKRAFT 2 uds. 112 gr,",
+        "ingredients": "2 uds. 112 gr",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "639006",
+        "title": "AUCHAN Masa para hacer pizzas, elaborada sin gluten 260 g. Producto Alcampo",
+        "ingredients": "260 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "259868",
+        "title": "PRODUCTO ECONÓMICO ALCAMPO Masa de hojaldre, lista para ser utilizada 230 g.",
+        "ingredients": "230 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "549611",
+        "title": "EMCESA Oreja guisada en salsa picantona, lista para calentar y comer 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "726566",
+        "title": "LITORAL Fabada Asturiana LITORAL 420 g",
+        "ingredients": "420 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "899252",
+        "title": "LES TROIS CHEFS Muslos de pato 4/5 pz 1250 g.",
+        "ingredients": "1250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "14730",
+        "title": "ORTIZ Marmitako de bonito del norte 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "409958",
+        "title": "ORTIZ Bonito del Norte en salsa de tomate y pimientos 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "29314",
+        "title": "ALBO Caldo gallego con grelos, patata y alubias 420 g.",
+        "ingredients": "420 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "918535",
+        "title": "UNFISHED PLANTUNA Ensalada california vegana 160 g.",
+        "ingredients": "160 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "918538",
+        "title": "UNFISHED PLANTUNA Ensalada mexicana vegana 160 g.",
+        "ingredients": "160 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "92249",
+        "title": "AGRUCAPERS Ensalada de quinoa, verduras y tomate seco, 250g.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "92284",
+        "title": "AGRUCAPERS Ensalada con tomate asado, pimiento verdes y aceituna kalamata, 250 g.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "566392",
+        "title": "ALOLOCO Quesadilla de pollo asado y queso 135g",
+        "ingredients": "135 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "566349",
+        "title": "ALOLOCO Quesadilla de jamón cocido y queso 135g",
+        "ingredients": "135 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "890489",
+        "title": "TA-TUNG Rollito de primavera prefitro 290 g.",
+        "ingredients": "290 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "948964",
+        "title": "CHILLBITES Nuggets pollo 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190374",
+        "title": "ALCAMPO Nuggets de pescado 200g",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "509979",
+        "title": "REALFOODING Gazpacho fresco elaborado con AOVE y hortalizas 100% frescas REALFOODING 1 L.",
+        "ingredients": "1 l",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "943018",
+        "title": "LA PARCELA Gazpacho de cherry, sin gluten y con aceite de oliva virgen extra LA PARCELA 1 l.",
+        "ingredients": "1 l",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "945285",
+        "title": "BIOSABOR Fusiona Gazpacho de sandía fashion con vegetales ecológicos 1 l.",
+        "ingredients": "1 l",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "510552",
+        "title": "REALFOODING Salmorejo fresco elaborado con AOVE y hortalizas 100% frescas REALFOODING 1 L.",
+        "ingredients": "1 l",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "943019",
+        "title": "LA PARCELA Salmorejo de cherry con aceite de oliva virgen extra LA PARCELA 1 l.",
+        "ingredients": "1 l",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "614018",
+        "title": "CHEF MAESTRO Tarrina de guacamole fresco, sin conservantes ni tratamientos CHEF MAESTRO 220 g.",
+        "ingredients": "220 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "60949",
+        "title": "PLAYA ODIEL Dürüm kebab de pollo KOKOROKO 3 uds.",
+        "ingredients": "3 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "890489",
+        "title": "TA-TUNG Rollito de primavera prefitro 290 g.",
+        "ingredients": "290 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "566349",
+        "title": "ALOLOCO Quesadilla de jamón cocido y queso 135g",
+        "ingredients": "135 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "515899",
+        "title": "EMCESA Estuche para con preparado para cochinita pibil 350 g.",
+        "ingredients": "350 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "542085",
+        "title": "ALOLOCO Fajita de enchilada de lomo 220 g.",
+        "ingredients": "220 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "318823",
+        "title": "EMCESA Kit para elaborar cochinita pibil 320 g.",
+        "ingredients": "320 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "318828",
+        "title": "EMCESA Kit fajitas de pollo a la parilla 310 g.",
+        "ingredients": "310 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "566392",
+        "title": "ALOLOCO Quesadilla de pollo asado y queso 135g",
+        "ingredients": "135 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "542121",
+        "title": "ALOLOCO Plato de menú de lomo saltado con arroz y patatas 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "542095",
+        "title": "ALOLOCO Fajita de ternera 220 g.",
+        "ingredients": "220 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "561827",
+        "title": "EL PAIRÓN Migas 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "948964",
+        "title": "CHILLBITES Nuggets pollo 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "569984",
+        "title": "ÑAMING Pastel frio de atún, listo para comer ÑAMING 260 g.",
+        "ingredients": "260 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190374",
+        "title": "ALCAMPO Nuggets de pescado 200g",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "513410",
+        "title": "AGUINAMAR Croquetas bacalao 250 g.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "224914",
+        "title": "DR. OETKER Ristorante Pizza congelada con masa fina de pepperoni y salami 320 g.",
+        "ingredients": "320 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "248069",
+        "title": "LA NIÑA DEL SUR Pizza barbacoa hecha al horno de piedra 400 g.",
+        "ingredients": "400 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "530415",
+        "title": "LA NIÑA DEL SUR Pizza congelada vegetal al horno de piedra 430 g.",
+        "ingredients": "430 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "249151",
+        "title": "LA NIÑA DEL SUR Pizza de bacón y atún hecha al horno de piedra 400 g.",
+        "ingredients": "400 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "786792",
+        "title": "LA NIÑA DEL SUR Pizza Boloñesa (vacuno, salsa de tomate, Edam y Mozzarella) hecha al horno de piedra 390 g.",
+        "ingredients": "390 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "224916",
+        "title": "DR. OETKER Ristorante Pizza congelada de masa fina con rúcula y tomates cherry 325 g.",
+        "ingredients": "325 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "505443",
+        "title": "LA NIÑA DEL SUR Pizza de espinacas con un toque de ajo y queso hecha al horno de piedra 415 g.",
+        "ingredients": "415 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "224918",
+        "title": "DR. OETKER Ristorante Pizza congelada de masa fina con salami vegano 295 g.",
+        "ingredients": "295 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "678639",
+        "title": "LA ÑIÑA DEL SUR Pan pizza de salsa de tomate, mezcla de quesos y salchicha y salsa barbacoa 180 g.",
+        "ingredients": "180 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "678626",
+        "title": "Pan pizza de salsa de tomate, mezcla de quesos y atún LA NIÑA DEL SUR 180 g.",
+        "ingredients": "180 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "678633",
+        "title": "LA NIÑA DEL SUR Pan pizza de salsa de tomate, mezcla de quesos y bacon 180 g.",
+        "ingredients": "180 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "678643",
+        "title": "LA NIÑA DEL SUR Pan pizza de salsa de tomate y mezcla de quesos (Edam, Mozzarella, Emmental y Cheddar) 180 g.",
+        "ingredients": "180 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "678655",
+        "title": "LA NIÑA DEL SUR Pizza de atún con masa tradicional hecha al horno de Piedra 160 g.",
+        "ingredients": "160 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "229888",
+        "title": "D'ANGELO Pizza margarita 195 g.",
+        "ingredients": "195 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "679153",
+        "title": "LA NIÑA DEL SUR Pizza de jamón y queso con masa tradicional hecha al horno de Piedra 160 g.",
+        "ingredients": "160 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "678641",
+        "title": "LA NIÑA DEL SUR Pan pizza de salsa de tomate, mezcla de quesos y jamón york 180 g.",
+        "ingredients": "180 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "530076",
+        "title": "SQUIZZITA Pizza artesana de pulled pork 440g.",
+        "ingredients": "440 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "221143",
+        "title": "DEORO Pizza fresca de pulled pork 400 g.",
+        "ingredients": "400 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "724444",
+        "title": "LA NIÑA DEL SUR Pizza congelada de kebab hecha al horno de piedra 385 g.",
+        "ingredients": "385 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "229899",
+        "title": "D'ANGELO Pizza mixta 210 g.",
+        "ingredients": "210 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "181418",
+        "title": "Ensalada completa César light FLORETTE 205 g.",
+        "ingredients": "205 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "223884",
+        "title": "BO DE DEBO Ensalada campera 280 g.",
+        "ingredients": "280 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "221148",
+        "title": "CAMPO RICO Ensalada de pimientos asados rojos con AOVE 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "200598",
+        "title": "CASA MAS Canelones de carne asada gratinados 350 g.",
+        "ingredients": "350 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "201013",
+        "title": "BO DE DEBÓ Macarraones con tomate y albóndigas mixtas (cerdo-vacuno) 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "82241",
+        "title": "EMMA GIORDANI Tagliatelle de pasta fresca al huevo EMMA GIORDANI 250 g.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "82240",
+        "title": "EMMA GIORDANI Tagliolini de pasta fresca al huevo EMMA GIORDANI 250 g.",
+        "ingredients": "250 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "549611",
+        "title": "EMCESA Oreja guisada en salsa picantona, lista para calentar y comer 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "549590",
+        "title": "EMCESA Costillas de cerdo al estilo americano (bbq), listas para calentar y comer 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "200578",
+        "title": "BONCHEF Pollo asado en horno, listo para caletar y comer 900 g.",
+        "ingredients": "900 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "498614",
+        "title": "BOKATTA Bocata de chorizo individual 80g",
+        "ingredients": "80 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "84194",
+        "title": "AHIMSA Burger de avena, gouda y gorgonzolla ecológicas AHIMSA 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "498618",
+        "title": "BOKATTA Yankee individual 80g",
+        "ingredients": "80 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "202668",
+        "title": "PRODUCTO ALCAMPO Veggie de aguacate Auchan 280g",
+        "ingredients": "280 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "868234",
+        "title": "TOP LIDER Sandwiches variados de pan blanco sin corteza TOP LIDER 6 uds.",
+        "ingredients": "6 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "193826",
+        "title": "ÑAMING Sandwich de ensaladilla ÑAMING 140 g.",
+        "ingredients": "140 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "866585",
+        "title": "TOP LIDER Mini sandwiches variados de pan blanco TOP LIDER 10 uds.",
+        "ingredients": "10 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "866578",
+        "title": "TOP LIDER Sandwiches surtidos de pan blanco sin corteza TOP LIDER 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "543179",
+        "title": "TASTÜ Sandwich de pan blanco con salsa de palito de surimi, fiambre de cerdo y mayonesa TASTÜ Bon appétit 145 g.",
+        "ingredients": "145 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "904488",
+        "title": "ÑAMING Sandwich de pan tierno sin corteza rellenos de atún, huevo, mayonesa y toamte ÑAMING Club selección 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "542910",
+        "title": "TASTÜ Sandwich de pan blanco mixto (jamón, queso y mayonesa) TARTÜ Bon appétit 140 g.",
+        "ingredients": "140 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "223191",
+        "title": "ÑAMING Sándwich Club Selección de lomo ÑAMING 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "892007",
+        "title": "DEORO Pan rústico 120 g.",
+        "ingredients": "120 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "311198",
+        "title": "FOODIZ Gyozas de pollo 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "30979",
+        "title": "SUSHI GOURMET Tallarines salteados con pollo y verduras SUSHI GOURMET",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "311217",
+        "title": "FOODIZ Poke bowl de pollo teriyaki 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "311229",
+        "title": "FOODIZ Poke bowl de salmón 300 g.",
+        "ingredients": "300 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "30460",
+        "title": ". Plato preparado de sushi (6) y California (6) SUSHI GOURMET 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "31022",
+        "title": "SUSHI GOURMET California de Salmón y surimi, con cebolla frita SUSHI GOURMET 9 uds.",
+        "ingredients": "9 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "311020",
+        "title": "FOODIZ Box clásica 10 uds. 190 g.",
+        "ingredients": "10 uds. 190 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "30905",
+        "title": "SUSHI GOURMET Menú del mes California, maki y sushi variados SUSHI GOURMET 15 uds.",
+        "ingredients": "15 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "189124",
+        "title": "SUSHI GOURMET Nigiri surtidos SUSHI GOURMET 12 uds.",
+        "ingredients": "12 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "311082",
+        "title": "FOODIZ Box degustación 15 uds. 320 g.",
+        "ingredients": "15 uds. 320 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "311209",
+        "title": "FOODIZ Onigiri de salmón cocido y mayonesa 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "311178",
+        "title": "FOODIZ Box sushi mix 17 uds. 304 g.",
+        "ingredients": "17 uds. 304 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "633192",
+        "title": "SUSHI GOURMET Plato preparado de sushi con surimi y cebolla crujiente SUSHI GOURMET 3 uds.",
+        "ingredients": "3 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "310991",
+        "title": "FOODIZ Box California con aguacate 12 uds. 210 g.",
+        "ingredients": "12 uds. 210 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "311190",
+        "title": "FOODIZ Box sushi salmón 6 uds. 166 g.",
+        "ingredients": "6 uds. 166 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "31066",
+        "title": "SUSHI GOURMET Sashimi de Salmón SUSHI GOURMET",
+        "ingredients": "190 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "310957",
+        "title": "FOODIZ Box aperitivo 20 uds. 322 g.",
+        "ingredients": "20 uds. 322 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "31423",
+        "title": "SUSHI GOURMET Maki y California variados SUSHI GOURMET 18 uds.",
+        "ingredients": "18 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "311280",
+        "title": "FOODIZ Onigiri de salmón cocido con teriyaki 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "311154",
+        "title": "FOODIZ Box mini 6 uds. 102 g.",
+        "ingredients": "6 uds. 102 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "30953",
+        "title": "SUSHI GOURMET Sushi, rollitos, California y Cristal variados SUSHI GOURMET 32 uds.",
+        "ingredients": "32 uds",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "311123",
+        "title": "FOODIZ Box full salmón 13 uds. 380 g.",
+        "ingredients": "13 uds. 380 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "901976",
+        "title": "CORRAL DE MONEGROS Tortilla de patatas fresca y con cebolla CORRAL DE MONEGROS 650 g.",
+        "ingredients": "650 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "505757",
+        "title": "CORRAL DE MONEGROS Tortilla fresca de patatas con cebolla y calabacín CORRAL DE MONEGROS 650 g.",
+        "ingredients": "650 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "901988",
+        "title": "CORRAL DE MONEGROS Tortilla de patatas fresca y sin cebolla CORRAL DE MONEGROS 650 g.",
+        "ingredients": "650 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "202668",
+        "title": "PRODUCTO ALCAMPO Veggie de aguacate Auchan 280g",
+        "ingredients": "280 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "941948",
+        "title": "HEÜRA Lonchas vegetales, cortada en finas lonchas 78 g.",
+        "ingredients": "78 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "217188",
+        "title": "GO-VEGG Pastel de verduras (zanahoria, pimiento y curry), listo para comer 170 g.",
+        "ingredients": "170 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "897616",
+        "title": "AUCHAN Very Veggie Delicias vegetales empanadas de espinacas y queso 180 g Producto Alcampo.",
+        "ingredients": "180 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "209470",
+        "title": "INDALITOS Fuagrá vegetal a base de aceite de coco, anarcardo y harina de arroz 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "243886",
+        "title": "MANFONG Filete de seitan MANFONG 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "209380",
+        "title": "ESENCIA Y SABOR DE LA DEHESA Fuagrá vegetal con cebolla caramelizada 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "224918",
+        "title": "DR. OETKER Ristorante Pizza congelada de masa fina con salami vegano 295 g.",
+        "ingredients": "295 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "209403",
+        "title": "ESENCIA Y SABOR DE LA DEHESA Fuagrá vegetal a base de aceite de coco, anarcardo y harina de arroz 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "626277",
+        "title": "HEÜRA Burger vegetal a base de proteína de guisante 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "918543",
+        "title": "UNFISHED PLANTUNA Untable vegetal en aceite de oliva 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "918538",
+        "title": "UNFISHED PLANTUNA Ensalada mexicana vegana 160 g.",
+        "ingredients": "160 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "918562",
+        "title": "UNFISHED PLANTUNA Untable vegetal mediterraneo 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "918616",
+        "title": "UNFISHED PLANTUNA Untable vegetal estilo atún vegano 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "749710",
+        "title": "VIOLIFE Bloque vegano con sabor a queso VIOLIFE 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "749712",
+        "title": "VIOLIFE Bloque vegano con sabor a queso cheddar VIOLIFE 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "918553",
+        "title": "UNFISHED PLANTUNA Untable vegetal con mayonesa 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "918535",
+        "title": "UNFISHED PLANTUNA Ensalada california vegana 160 g.",
+        "ingredients": "160 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "675916",
+        "title": "VERDINO Crispy burger vegetal 240 g.",
+        "ingredients": "240 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "534163",
+        "title": "ALCAMPO ECOLÓGICO Bebida vegetal de espelta ecológica 1 l.",
+        "ingredients": "1 l",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "749710",
+        "title": "VIOLIFE Bloque vegano con sabor a queso VIOLIFE 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "749712",
+        "title": "VIOLIFE Bloque vegano con sabor a queso cheddar VIOLIFE 150 g.",
+        "ingredients": "150 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "85686",
+        "title": "AHIMSA Tofú fresco ecológico AHIMSA 380 g.",
+        "ingredients": "380 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "675979",
+        "title": "AHIMSA Hamburguesa vegana azuki y cáñamo AHIMSA BIO 750 g.",
+        "ingredients": "750 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "626277",
+        "title": "HEÜRA Burger vegetal a base de proteína de guisante 100 g.",
+        "ingredients": "100 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "742017",
+        "title": "AHIMSA Salchichas vegetales quinoa y tofu ecológicas AHIMSA 200 g.",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "673828",
+        "title": "AUCHAN Veggie Salchichas cocidas 100% vegetales, a base de proteína de guisante 200 g. Producto Alcampo",
+        "ingredients": "200 g",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    }
+]

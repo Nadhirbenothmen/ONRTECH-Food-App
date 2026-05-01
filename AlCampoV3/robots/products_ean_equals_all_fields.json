@@ -1,0 +1,583 @@
+[
+    {
+        "ean": "639033",
+        "title": "DR. OETKER Vela número 0, 1 ud",
+        "ingredients": "639033",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "989952",
+        "title": "Donación de 1€ a la Federación de BANCOS DE ALIMENTOS Campaña La Gran Recogida de Alimentos 2023.",
+        "ingredients": "989952",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "989954",
+        "title": "Donación de 3€ a la Federación de BANCOS DE ALIMENTOS Campaña La Gran Recogida de Alimentos 2023.",
+        "ingredients": "989954",
+        "ingredients_clean": "989954",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "625523",
+        "title": "ACOR Azúcar moreno de caña integral 1 kilogramo",
+        "ingredients": "625523",
+        "ingredients_clean": "625523",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "33523",
+        "title": "CRUZ DEL SUR Cerveza 1 Litro",
+        "ingredients": null,
+        "ingredients_clean": "33523",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "36484",
+        "title": "KARAMALZ Malta Classic 33 Centilitros",
+        "ingredients": null,
+        "ingredients_clean": "36484",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "512206",
+        "title": "NOMADA NATUREPILS Cerveza eco sin gluten",
+        "ingredients": "512206",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "59233",
+        "title": "ESTUCHE Estuche de cartón para 3 botellas",
+        "ingredients": "59233",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "437881",
+        "title": "MONASTERIO Licor de Guindas MONASTERIO 1 Litro",
+        "ingredients": "437881",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "34579",
+        "title": "RIVES GRANADINA TROPIC Bebida refrescante de granadina botella de 1 litro",
+        "ingredients": "34579",
+        "ingredients_clean": "34579",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "33879",
+        "title": "LAS ENDRINAS Pacharan LAS ENDRINAS botella de 1 litro",
+        "ingredients": "33879",
+        "ingredients_clean": "33879",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "38473",
+        "title": "CYNAR Licor de aperitivo amargo CYNAR botella de 1 litro",
+        "ingredients": "38473",
+        "ingredients_clean": "38473",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "21060",
+        "title": "PROTOS Estuche con 2 botellas de vino tinto crianza con D.O. Ribera del Duero + 2 copas.",
+        "ingredients": "21060",
+        "ingredients_clean": "21060",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "40243",
+        "title": "ALTOS DE TAMARON Estuche con 2 botellas de vino tinto crianza con D.O. Ribera del Duero + 2 copas.",
+        "ingredients": "40243",
+        "ingredients_clean": "40243",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "648181",
+        "title": "FINCA RESALSO Estuche con 3 botellas de vino tinto roble con D.O. Ribera del Duero.",
+        "ingredients": "648181",
+        "ingredients_clean": "648181",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "677303",
+        "title": "PROTOS Estuche con botella de vino tinto reserva con D.O. Ribera del Duero.",
+        "ingredients": "677303",
+        "ingredients_clean": "677303",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "917953",
+        "title": "CONDE DE SIRUELA Estuche vino tinto (2) crianza D.O. Ribera del Duero + botella vino blanco D.O. Rueda.",
+        "ingredients": "917953",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "941727",
+        "title": "FLOR DE VETUS Estuche con botella de vino tinto con D.O Toro y botella de vino blanco con D.O Rueda.",
+        "ingredients": "941727",
+        "ingredients_clean": "941727",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "649764",
+        "title": "FAUSTINO VII Estuche con 4 botellas de vino tinto crianza con D.O. Ca. Rioja.",
+        "ingredients": "649764",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "521478",
+        "title": "RAMÓN BILBAO Estuche con botella de vino tinto crianza con DOC Rioja y botella de vino blanco con DO Rueda.",
+        "ingredients": "521478",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "849014",
+        "title": "EL COTO Estuche con 2 botella de vino tinto crianza con D. O. Ca. Rioja + copa.",
+        "ingredients": "849014",
+        "ingredients_clean": "849014",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "630250",
+        "title": "FAUSTINO V Esctuche con botella de vino tinto reserva y vino blanco ambos con D.O. Ca. Rioja.",
+        "ingredients": "630250",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "471140",
+        "title": "MARQUÉS DE CÁCERES Estuche con 2 botellas de vino tinto crianza y 1 de vino blanco con D.O. Ca. Rioja.",
+        "ingredients": "471140",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "195949",
+        "title": "BODEGAS RIOJANAS Estuche con 2 botellas de vino tinto crianza y 2 botellas de vino tinto crianza todas con D.O. Ca. Rioja.",
+        "ingredients": "195949",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "218750",
+        "title": "CUATRO RAYAS Caja con 3 botellas de vino blanco D.O Rueda, Gran vino de Rueda y vino tinto I.G.P Vino de la Tierra de Castilla y León.",
+        "ingredients": "218750",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "791239",
+        "title": "PUERTA VIEJA Estuche con 4 botelas de vino tinto reserva con D.O. Ca. Rioja.",
+        "ingredients": "791239",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "941739",
+        "title": "IZADI Estuche con 2 botellas de vino tinto crianza con D.O. Ca. Rioja.",
+        "ingredients": "941739",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "945558",
+        "title": "LAN Estuche con 2 botellas vino tinto reserva y botella vino tinto crianza, todas con D.O. Ca. Rioja.",
+        "ingredients": "945558",
+        "ingredients_clean": "945558",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "648170",
+        "title": "EMILIO MORO Estuche con 3 botellas de vino tinto con D.O. Ribera del Duero.",
+        "ingredients": "648170",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "228963",
+        "title": "CUNE Estuche con vino tinto reserva con D.O. Ca. Rioja CUNE.",
+        "ingredients": "228963",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "35122",
+        "title": "CRUZ CONDE Vino fino con D.O. Montilla Moriles CRUZ CONDE garrafa de 5 litros",
+        "ingredients": "35122",
+        "ingredients_clean": "35122",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "888725",
+        "title": "REVOLTOSA Gaseosa pack de 6 botellas de 1,5 litros",
+        "ingredients": "888725",
+        "ingredients_clean": "888725",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "35037",
+        "title": "BORSEC Agua mineral con gas botella de 1,50 litros",
+        "ingredients": "35037",
+        "ingredients_clean": "35037",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "37430",
+        "title": "VERI Agua mineral VERI botella de 1,5 litros",
+        "ingredients": "37430",
+        "ingredients_clean": "37430",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "58759",
+        "title": "FUENTE LIVIANA Agua mineral botella de 1,5 litros",
+        "ingredients": "58759",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "36703",
+        "title": "FONTECABRAS Agua mineral botella de 1,50 litros",
+        "ingredients": "36703",
+        "ingredients_clean": "36703",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "625442",
+        "title": "VARIEDAD Cebollitas en vinagre",
+        "ingredients": "625442",
+        "ingredients_clean": "625442",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "681216",
+        "title": "KETOPROTEIN Pan con semillas y extra de proteínas KETOPROTEIN",
+        "ingredients": "681216",
+        "ingredients_clean": "681216",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "942750",
+        "title": "CARRETILLA Pimientos del piquillo enteros",
+        "ingredients": "942750",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "30979",
+        "title": "SUSHI GOURMET Tallarines salteados con pollo y verduras SUSHI GOURMET",
+        "ingredients": "30979",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "730100",
+        "title": "SUSHI GOURMET Habas de soja precocidas (Edaname Hanabi) SUSHI GOURMET",
+        "ingredients": "730100",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "31066",
+        "title": "SUSHI GOURMET Sashimi de Salmón SUSHI GOURMET",
+        "ingredients": "31066",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "66308",
+        "title": "HERENCIA IBÉRICA Lote de embutidos ibéricos de cebo HERENCIA IBÉRICA.",
+        "ingredients": "66308",
+        "ingredients_clean": "66308",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "77066",
+        "title": "IGLESIAS Lote de salchichón y chorizo ibérico.",
+        "ingredients": "77066",
+        "ingredients_clean": "77066",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "53968",
+        "title": "IGLESIAS Lote de embutidos serranos de larga curación en bodega.",
+        "ingredients": "53968",
+        "ingredients_clean": "53968",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "29142",
+        "title": "ALCAMPO CULTIVAMOS LO BUENO Sandía mini.",
+        "ingredients": "29142",
+        "ingredients_clean": "29142",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "38960",
+        "title": "JAMSA Jamón de bellota ibérico (50% raza ibérica) JAMSA pieza de 7.5 kilos (peso aproximado).",
+        "ingredients": "38960",
+        "ingredients_clean": "38960",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "46336",
+        "title": "COVAP Jamón de bellota ibérico, pata negra, (100% raza ibérica) COVAP Esenciaúnica pieza de 6 a 7 kilos (peso aproximado).",
+        "ingredients": null,
+        "ingredients_clean": "46336",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "97122",
+        "title": "5J Jamón de bellota ibérico (100% raza ibérica) pieza de 6 a 7 kilos (peso aproximado).",
+        "ingredients": null,
+        "ingredients_clean": "97122",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "479780",
+        "title": "DERAZA Jamón de cebo ibérico (50% raza ibérica) DERAZA Ibérico pieza de 7.5 a 8 kilos (peso aproximado).",
+        "ingredients": "479780",
+        "ingredients_clean": "479780",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "38989",
+        "title": "JAMSA Jamón de cebo ibérico (50% raza ibérica) JAMSA pieza de 8 kilos (peso aproximado).",
+        "ingredients": "38989",
+        "ingredients_clean": "38989",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "946998",
+        "title": "COVAP Esenciaúncia Lote con jamón de bellota (100% raza ibérica) + 1/2 queso de oveja viejo.",
+        "ingredients": "946998",
+        "ingredients_clean": "946998",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "642301",
+        "title": "SÁNCHEZ ROMERO CARVAJAL Lote de paleta ibérica de bellota y chorizo y salchichón ibéricos SÁNCHEZ ROMERO CARVAJAL Esencia inalterable.",
+        "ingredients": null,
+        "ingredients_clean": "642301",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "38783",
+        "title": "JAMSA Paleta de bodega con curación mínima de 12 meses JAMSA pieza de 4 a 4.5 kilos (peso aproximado).",
+        "ingredients": "38783",
+        "ingredients_clean": "38783",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "38770",
+        "title": "JAMSA Jamón de bodega con curación mínima de 12 meses JAMSA pieza de 7 kilos (peso aproximado).",
+        "ingredients": "38770",
+        "ingredients_clean": "38770",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "75718",
+        "title": "JAMSA Jamón serrano premium JAMSA Oro pieza de 6.8 kilos aproximadamente",
+        "ingredients": null,
+        "ingredients_clean": "75718",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "52321",
+        "title": "COREN Jamón serrano reserva reducido en sal COREN pieza de 7.5 kilos (peso aproximado)",
+        "ingredients": null,
+        "ingredients_clean": "52321",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "89529",
+        "title": "Sesos limpios de cordero MERCAZARAGOZA",
+        "ingredients": "89529",
+        "ingredients_clean": "89529",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "94750",
+        "title": "Copa dúo primavera.",
+        "ingredients": "94750",
+        "ingredients_clean": "94750",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "94754",
+        "title": "Copa duo del bosque.",
+        "ingredients": "94754",
+        "ingredients_clean": "94754",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "30208",
+        "title": "Éclairs de vainilla.",
+        "ingredients": null,
+        "ingredients_clean": "30208",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "455687",
+        "title": "Cilantro manojo 1ud.",
+        "ingredients": "455687",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "56101",
+        "title": "Col China bandeja de 1 Unidad",
+        "ingredients": null,
+        "ingredients_clean": "56101",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "56665",
+        "title": "Lechuga romana 1 ud.",
+        "ingredients": "56665",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "17835",
+        "title": "Ajo negro",
+        "ingredients": "17835",
+        "ingredients_clean": "17835",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "55149",
+        "title": "Pimientos de Padrón HORTALIZA",
+        "ingredients": "55149",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "629973",
+        "title": "SANON Fibra soluble de alta disolución 30 sticks.",
+        "ingredients": null,
+        "ingredients_clean": "629973",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "634671",
+        "title": "CISTITUS Complemento alimenticio a base de concentrado de árandano rojo CISTITUS 60 comprimidos.",
+        "ingredients": "634671",
+        "ingredients_clean": "634671",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "433426",
+        "title": "VALLESOL Multivitaminas + Ginseng en comprimidos masticables con sabor a cítricos VALLESOL 24 Comprimidos.",
+        "ingredients": "433426",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "893008",
+        "title": "SANON Spirulina y vitamina B12 (complemento alimenticio) 200 comprimidos.",
+        "ingredients": null,
+        "ingredients_clean": "893008",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "560838",
+        "title": "LEOTRON Complemento alimenticio con 12 vitaminas y 11 minerales LEOTRON Energía 30 comprimidos.",
+        "ingredients": "560838",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "495120",
+        "title": "PILFOOD Complex density Complemento nutricional que evita la caida del cabello 60 cápsulas.",
+        "ingredients": "495120",
+        "ingredients_clean": "495120",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "224490",
+        "title": "PROZIS L-Carnitina PROZIS 60 cápsulas 1500 mg.",
+        "ingredients": "224490",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "495201",
+        "title": "Copa Spica 320 cc color ciruela, LA MEDITERRÁNEA.",
+        "ingredients": "495201",
+        "ingredients_clean": "495201",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "495204",
+        "title": "Copa Spica 320 cc color verde, LA MEDITERRÁNEA.",
+        "ingredients": "495204",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "567223",
+        "title": "PITAS Huevos de gallinas sueltas en gallinero M doc",
+        "ingredients": "567223",
+        "ingredients_clean": "567223",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "917922",
+        "title": "BIOZOO MASCOTAS Hueso prensado de cuero BIOZOO 20 cm",
+        "ingredients": "917922",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "237590",
+        "title": "CANES JOB Nature Tendón de bufalo para perro.",
+        "ingredients": "237590",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "237586",
+        "title": "BIOZOO MASCOTAS Hueso para perros de piel de vacuno BIOZOO MASCOTAS",
+        "ingredients": "237586",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "857968",
+        "title": "RIGA Hueso de jamón para perros RIGA ESSENTIAL",
+        "ingredients": "857968",
+        "ingredients_clean": "857968",
+        "ingredients_ia": null
+    },
+    {
+        "ean": "917927",
+        "title": "BIOZOO MASCOTAS Hueso prensado de cuero BIOZOO 25 cm",
+        "ingredients": "917927",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "917916",
+        "title": "BIOZOO MASCOTAS Hueso nudo de cuero BIOZOO 22 cm",
+        "ingredients": "917916",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "917920",
+        "title": "BIOZOO MASCOTAS Hueso prensado de cuero BIOZOO 17cm.",
+        "ingredients": "917920",
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    }
+]
