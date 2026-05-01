@@ -1,0 +1,332 @@
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import glob
+import json
+import sys
+import os
+import re
+from typing import List
+
+import dacite
+import tqdm
+# Supprimer les warnings symlink et XetHub si non nécessaires
+os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
+os.environ["HF_HUB_DISABLE_XET"] = "1"
+# 🤗 Transformers imports
+from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline,BitsAndBytesConfig
+import torch
+sys.path.append('src')
+sys.path.append('./')
+
+from src.model.product import Evolution, Product
+from src.countries.spain.DiaV3.model.product_content_dia import ProductContentDia
+from src.utils.my_utils import (
+    extract_file_name,
+    extract_folder_path,
+    get_files_with_substring_ordered_by_mtime,
+    keep_text_after,
+    remove_extra_dots,
+    remove_keyword_if_first,
+    remove_keywords_and_empty_texts,
+    remove_substrings_and_clean,
+    rephrase_text_if_parenthesis_exists,
+    write_output_to_file
+)
+from src.countries.spain.DiaV3.robots.static_data_V3 import get_static_aisles_from_user_cmdargs
+from src.model.static_category_aisle import StaticAisle
+from src.model.product_content import iA_keywords_to_remove
+
+# --- Configuration du modèle Hugging Face ---
+model_path = "C:/Users/GIGABYTE/.cache/huggingface/hub/models--mistralai--Mistral-7B-Instruct-v0.1/snapshots/2dcff66eac0c01dc50e4c41eea959968232187fe"
+print(f"💡 Chargement du modèle HF: {model_path}...")
+# 1) Configuration 4-bits pour réduire la VRAM et éviter le meta device
+bnb_config = BitsAndBytesConfig(
+    load_in_4bit=True,
+    bnb_4bit_quant_type="nf4",
+    bnb_4bit_use_double_quant=True,
+    bnb_4bit_compute_dtype=torch.float16
+)
+
+# 2) Chargement du modèle avec offload automatique
+model = AutoModelForCausalLM.from_pretrained(
+    model_path,
+    quantization_config=bnb_config,
+    device_map="auto",
+    torch_dtype=torch.float16,
+    trust_remote_code=True,
+    local_files_only=True  # ⬅️ très important
+
+
+)
+
+# 3) Transformer pour optimiser le graphe (BetterTransformer)
+model = torch.compile (model, mode="reduce-overhead", fullgraph=True)
+# 4) (optionnel) Compiler le modèle si vous êtes en PyTorch ≥2.0
+# model = torch.compile(model, mode="reduce-overhead")
+
+tokenizer = AutoTokenizer.from_pretrained(
+    model_path,
+    trust_remote_code=True,
+    local_files_only=True  # ⬅️ très important
+
+)
+
+
+# 5) Création de la pipeline sur GPU 0
+generator = pipeline(
+    "text-generation",
+    model=model,
+    tokenizer=tokenizer,
+    max_new_tokens=128,
+    do_sample=False,
+    use_cache=True,
+    return_full_text=False,
+    pad_token_id=tokenizer.eos_token_id,
+)
+
+
+# --- Cache persistant des résultats IA ---
+CACHE_FILE = "diaHF_cache_ingredients.json"
+def load_cache():
+    if os.path.exists(CACHE_FILE):
+        with open(CACHE_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+def save_cache(cache):
+    with open(CACHE_FILE, "w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, indent=2)
+
+ingredients_cache = load_cache()
+
+# --- Fonctions de nettoyage locales ---
+def remove_parentheses(text: str) -> str:
+    return re.sub(r'\([^)]*\)', '', text)
+
+def clean_redundant(text: str) -> str:
+    parts = [p.strip() for p in text.split(",")]
+    seen = set()
+    return ", ".join([p for p in parts if p and not (p in seen or seen.add(p))])
+
+def clean_ingredients_list(ingredients: List[str]) -> List[str]:
+    cleaned = []
+    for ing in ingredients:
+        ing = ing.strip().lower()
+        ing = re.sub(r'\([^)]*\)', '', ing)
+        ing = re.sub(r'[^a-záéíóúñüç ]+', '', ing)
+        ing = ing.strip()
+        if ing and ing not in cleaned and len(ing) > 2:
+            cleaned.append(ing)
+    return cleaned
+
+def filter_garbage_ingredients(ingredients: List[str]) -> List[str]:
+    return [
+        ing for ing in ingredients
+        if len(ing) > 2
+        and not re.fullmatch(r"[a-z]{1,2}", ing)
+        and "translated" not in ing
+        and not re.match(r'^[a-z]$', ing)
+    ]
+
+def postprocess_ingredients_ia(ingredients: List[str]) -> List[str]:
+    GARBAGE = {
+        "", "s", "as", "b", "a", "c", "k",
+        "result", "translated", "extracted", "base", "ingredient",
+        "ingredients", "duplicates", "have been removed", "contains", "output",
+        "a delicious task", "we get", "translated to english", "cleaned",
+        "here are the base ingredient names in spanish"
+    }
+    cleaned = set()
+    for ing in ingredients:
+        ing = ing.strip().lower()
+        ing = re.sub(r"[^a-z\u00e1\u00e9\u00ed\u00f3\u00fa\u00f1\u00fc\u00e7 -]", "", ing)
+        if ing in GARBAGE or "extract" in ing or "duplicate" in ing:
+            continue
+        cleaned.add(ing)
+    return sorted(cleaned)
+
+# --- Appel IA via Hugging Face ---
+def clean_ingredients(text, ingredients_clean_es=None):
+    if not text or not isinstance(text, str):
+        return []
+    if text in ingredients_cache:
+        return ingredients_cache[text]
+
+    prompt = (
+        "You are a food science expert.\n"
+        "Given the following ingredient list in Spanish, perform the following steps:\n"
+        "1. Ignore any content inside parentheses.\n"
+        "2. Extract only the core/base ingredient names.\n"
+        "3. Translate each ingredient into English.\n"
+        "4. Remove duplicates, vitamin codes (e.g., B1, D3), and any irrelevant or non-ingredient terms.\n"
+        "5. Return only a comma-separated list of ingredient names. Do not add explanations, formatting, or headers.\n\n"
+        f"Ingredients: {text}\n\n"
+        "Cleaned and Translated Ingredients:"
+)
+    print(f"💬 HF Prompt:\n{prompt}")
+
+
+    try:
+        # Génération avec Hugging Face
+        result_text = generator(prompt)[0]["generated_text"]
+        print(f"💬 HF Response:\n{result_text}")
+
+        # Parsing de la réponse
+        lines = result_text.replace("•", "-").replace("*", "-").split("\n")
+        raw = []
+        junk_phrases = [
+            "a delicious task", "here are", "we get",
+            "translate", "ignore", "duplicate",
+            "cleaned", "output", "moved", "nothing",
+            "based on", "perform", "specified", "steps"
+        ]
+
+        for line in lines:
+            line = line.strip("-• ").strip()
+            low = line.lower()
+            if any(kw in low for kw in junk_phrases):
+                continue
+            if "," in line:
+                raw.extend([x.strip() for x in line.split(",") if x.strip()])
+            elif re.match(r"^[A-Za-záéíóúñüç\s\-]{3,}$", line):
+                raw.append(line)
+
+        result = clean_ingredients_list(raw)
+        result = filter_garbage_ingredients(result)
+        result = postprocess_ingredients_ia(result)
+
+        if ingredients_clean_es:
+            spanish_tokens = [tok.strip().lower() for tok in ingredients_clean_es.split(",")]
+            result = [ing for ing in result if ing.lower() not in spanish_tokens]
+
+        ingredients_cache[text] = result
+        save_cache(ingredients_cache)
+        return result
+
+    except Exception as e:
+        print(f"⚠️ HF error: {e}")
+        return []
+
+# --- Transformation d'un produit complet ---
+def process_product(product: dict) -> Product:
+    product = dacite.from_dict(data_class=Product, data=product, config=dacite.Config(strict=True))
+    evolsV2: List[Evolution] = []
+    for evol in product.evolutions or []:
+        if evol.ingredients_ia:
+            evolsV2.append(evol)
+            continue
+        if evol.ingredients and len(evol.ingredients) > 2:
+            ingredients = evol.ingredients.replace("\n", ",").strip().lower()
+            ingredients = keep_text_after(ingredients, "ingredients:")
+            ingredients = keep_text_after(ingredients, "ingredientes:")
+            ingredients = remove_keyword_if_first(ingredients, ": ")
+            ingredients = ingredients.replace("&", ", ").replace(" y", ",").strip()
+            ingredients = remove_substrings_and_clean(ingredients, substrings=ProductContentDia.INGREDIENTS_SUBSTRINGS)
+            ingredients = rephrase_text_if_parenthesis_exists(ingredients)
+            ingredients = remove_parentheses(ingredients)
+            ingredients = clean_redundant(ingredients)
+            evol.ingredients_clean = remove_extra_dots(ingredients)
+
+            evol.ingredients_ia = clean_ingredients(evol.ingredients_clean, ingredients_clean_es=evol.ingredients_clean)
+            evol.ingredients_ia = remove_keywords_and_empty_texts(evol.ingredients_ia, iA_keywords_to_remove)
+        evolsV2.append(evol)
+    product.evolutions = evolsV2
+    return product
+
+# --- Script principal ---
+if __name__ == "__main__":
+    print("🟢 Lancement script IA HF ingrédients")
+
+    aisles: List[StaticAisle] = []
+    cmdargs = sys.argv
+
+    if len(cmdargs) > 1:
+        user_input = cmdargs[1]
+
+        # ✅ Si l'utilisateur passe un fichier JSON brut
+        if os.path.isfile(user_input) and user_input.endswith(".json"):
+            print(f"📄 Fichier unique fourni : {user_input}")
+            aisles.append(StaticAisle(
+                name=os.path.basename(user_input).replace(".json", ""),
+                code="auto",
+                original_file_uri=user_input,
+                created_from_file=True
+            ))
+
+        # ✅ Si l'utilisateur passe un dossier
+        elif os.path.isdir(user_input):
+            print(f"📁 Dossier fourni : {user_input}")
+            folder_to_use = user_input
+        else:
+            print("❌ Argument invalide. Spécifie un fichier .json ou un dossier valide.")
+            sys.exit(1)
+    else:
+        folder_to_use = "src/countries/spain/DiaV3/robots/products/"
+        print("📁 Aucun argument fourni, utilisation du dossier par défaut.")
+
+    # 📦 Si dossier utilisé, parcourir les fichiers récursivement
+    if not aisles:
+        all_json_files = glob.glob(os.path.join(folder_to_use, "**", "*.json"), recursive=True)
+        raw_files = [
+            f for f in all_json_files
+            if "_HFdetailed" not in f and "_Ollamadetailed" not in f and "_GPTdetailed" not in f and "_iAdetailed" not in f
+        ]
+
+        files_by_base = {}
+        for f in raw_files:
+            filename = os.path.basename(f)
+            base = filename.split(".json")[0].split("_25_")[0]
+            if base not in files_by_base:
+                files_by_base[base] = []
+            files_by_base[base].append(f)
+
+        for base, files in files_by_base.items():
+            latest_file = max(files, key=os.path.getmtime)
+            print(f"🕒 Dernière version de '{base}' détectée : {latest_file}")
+            aisles.append(StaticAisle(
+                name=os.path.basename(latest_file).replace(".json", ""),
+                code="auto",
+                original_file_uri=latest_file,
+                created_from_file=True
+            ))
+
+    if not aisles:
+        print("❌ Aucun fichier brut JSON valide détecté.")
+        sys.exit()
+
+    # --- Traitement IA de chaque fichier sélectionné ---
+    for aisle in aisles:
+        print(f"📂 Traitement fichier : {aisle.original_file_uri}")
+        file = aisle.original_file_uri
+
+        with open(file, encoding='utf-8') as f:
+            products = json.load(f)
+
+        productsV3: List[Product] = []
+        with ThreadPoolExecutor(max_workers=8) as executor:
+            futures = [executor.submit(process_product, p) for p in products]
+            for future in tqdm.tqdm(as_completed(futures), total=len(futures), desc=f"[{aisle.name}] Produits"):
+                productsV3.append(future.result())
+
+        print(f"🧪 {len(productsV3)} produits traités")
+
+        base_name = os.path.basename(file).replace(".json", "")
+        cleaned_file_path = os.path.join(os.path.dirname(file), f"{base_name}_HFdetailed.json")
+        print(f"💾 Sauvegarde vers : {cleaned_file_path}")
+
+        json_object = json.dumps(
+            productsV3,
+            default=lambda o: {k: v for k, v in o.__dict__.items() if v is not None},
+            indent=4,
+            ensure_ascii=False
+        )
+
+        write_output_to_file(
+            data=json_object,
+            file_name=cleaned_file_path,
+            path_includes_in_file_name=True,
+            include_seconds_in_date=False,
+            extension='.json'
+        )
+
+
+

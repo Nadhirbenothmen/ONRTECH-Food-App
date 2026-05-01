@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Whisky Burned Barrel botella 70 cl",
+        "ingredients": "",
+        "ingredients_clean": "",
+        "ingredients_ia": []
+    },
+    {
+        "title": "Vino blanco appasionada D.O. Rioja Finca la morena botella 75 cl",
+        "ingredients": "",
+        "ingredients_clean": "",
+        "ingredients_ia": []
+    },
+    {
+        "title": "Arándanos vaso 170 g",
+        "ingredients": "{\n  \"ingredients\": \"Arándanos frescos, azúcar, ácido cítrico, conservantes (E202 y E211), vitaminas (B3 y B6)\",\n  \"ingredients_clean\": \"Arándanos, azúcar, ácido cítrico\",\n  \"ingredients_ia\": [\"Fresh raspberries\", \"Sugar\", \"Citric acid\", \"Preservatives (E202 and E211)\", \"Vitamins (Niacin and Pyridoxine)\"]",
+        "ingredients_clean": "{\n  \"ingredients\": \"Arándanos frescos, azúcar, ácido cítrico, conservantes (E202 y E211), vitaminas (B3 y B6)\",\n  \"ingredients_clean\": \"Arándanos, azúcar, ácido cítrico\",\n  \"ingredients_ia\": [\"Fresh raspberries\", \"Sugar\", \"Citric acid\", \"Preservatives (E202 and E211)\", \"Vitamins (Niacin and Pyridoxine)\"]",
+        "ingredients_ia": []
+    },
+    {
+        "title": "Crema de vinagre al jerez Vulpi botella 400 ml",
+        "ingredients": "{\n  \"ingredients\": \"Vinagre de vino jerezano, agua, azúcar, jarabe de glucosa, estabilizante (gelatina), conservantes (sorbato potásico y benzoato de sodio)\",\n  \"ingredients_clean\": \"Vinagre de vino jerezano, agua, azúcar, glucosa\",\n  \"ingredients_ia\": [\"Sherry vinegar\", \"Water\", \"Sugar\", \"Glucose syrup\", \"Gelatin (stabilizer)\", \"Sorbic acid and sodium benzoate (preservatives)\"]",
+        "ingredients_clean": "{\n  \"ingredients\": \"Vinagre de vino jerezano, agua, azúcar, jarabe de glucosa, estabilizante (gelatina), conservantes (sorbato potásico y benzoato de sodio)\",\n  \"ingredients_clean\": \"Vinagre de vino jerezano, agua, azúcar, glucosa\",\n  \"ingredients_ia\": [\"Sherry vinegar\", \"Water\", \"Sugar\", \"Glucose syrup\", \"Gelatin (stabilizer)\", \"Sorbic acid and sodium benzoate (preservatives)\"]",
+        "ingredients_ia": []
+    },
+    {
+        "title": "Alimento para gatos esterilizados exigentes Ultima bolsa 280 g",
+        "ingredients": "{\n  \"ingredients\": \"Pescado salmón enlatado, proteínas hidrolizadas de carne bovina, leche entera, grasas animales, fibra de plantas, vitaminas, minerales\",\n  \"ingredients_clean\": \"Pescado salmón, proteínas hidrolizadas, leche entera, grasas, fibra, vitaminas, minerales\",\n  \"ingredients_ia\": [\"Salmon fish in brine\", \"Bovine hydrolyzed proteins\", \"Whole milk\", \"Animal fats\", \"Plant fiber\", \"Vitamins\", \"Minerals\"]",
+        "ingredients_clean": "{\n  \"ingredients\": \"Pescado salmón enlatado, proteínas hidrolizadas de carne bovina, leche entera, grasas animales, fibra de plantas, vitaminas, minerales\",\n  \"ingredients_clean\": \"Pescado salmón, proteínas hidrolizadas, leche entera, grasas, fibra, vitaminas, minerales\",\n  \"ingredients_ia\": [\"Salmon fish in brine\", \"Bovine hydrolyzed proteins\", \"Whole milk\", \"Animal fats\", \"Plant fiber\", \"Vitamins\", \"Minerals\"]",
+        "ingredients_ia": []
+    },
+    {
+        "title": "Alimento para gatos esterilizados con pescado Ultima bolsa 340 g",
+        "ingredients": "{\n  \"ingredients\": \"Pescado de alta calidad, proteínas de pez, aceite de oliva, vitamina D3, calcio, hierro, vitaminas y minerales.\",\n  \"ingredients_clean\": \"Pescado, proteínas de pez, aceite de oliva, vitamina D3, calcio, hierro\",\n  \"ingredients_ia\": [\"High-quality fish\", \"Fish proteins\", \"Olive oil\", \"Vitamin D3\", \"Calcium\", \"Iron\", \"Vitamins and minerals\"]",
+        "ingredients_clean": "{\n  \"ingredients\": \"Pescado de alta calidad, proteínas de pez, aceite de oliva, vitamina D3, calcio, hierro, vitaminas y minerales.\",\n  \"ingredients_clean\": \"Pescado, proteínas de pez, aceite de oliva, vitamina D3, calcio, hierro\",\n  \"ingredients_ia\": [\"High-quality fish\", \"Fish proteins\", \"Olive oil\", \"Vitamin D3\", \"Calcium\", \"Iron\", \"Vitamins and minerals\"]",
+        "ingredients_ia": []
+    },
+    {
+        "title": "Alimento para gatos esterilizados anti bolas de pelo con trucha Ultima bolsa 1.5 Kg",
+        "ingredients": "{\n  \"ingredients\": \"Pescado fresco (trucha), proteínas lácticas, grasas animales, hidratos de carbono, vitamina A, vitamina D3, minerales.\",\n  \"ingredients_clean\": \"Pescado fresco, proteínas lácticas, grasas animales, hidratos de carbono, vitaminas, minerales\",\n  \"ingredients_ia\": [\"Fresh trout\", \"Lactic proteins\", \"Animal fats\", \"Carbohydrates\", \"Vitamin A\", \"Vitamin D3\", \"Minerals\"]",
+        "ingredients_clean": "{\n  \"ingredients\": \"Pescado fresco (trucha), proteínas lácticas, grasas animales, hidratos de carbono, vitamina A, vitamina D3, minerales.\",\n  \"ingredients_clean\": \"Pescado fresco, proteínas lácticas, grasas animales, hidratos de carbono, vitaminas, minerales\",\n  \"ingredients_ia\": [\"Fresh trout\", \"Lactic proteins\", \"Animal fats\", \"Carbohydrates\", \"Vitamin A\", \"Vitamin D3\", \"Minerals\"]",
+        "ingredients_ia": []
+    },
+    {
+        "title": "Alimento para gatos esterilizados digestivo con trucha Ultima bolsa 1.5 kg",
+        "ingredients": "{\n  \"ingredients\": \"Trucha fresca, Carne de pollo cocida, Fibras de pescado, Aceite de oliva, Sal, Calcio, Vitaminas y minerales\",\n  \"ingredients_clean\": \"Trucha, Pollo, Pescado, Olivoil, Sal, Calcio, Vitaminae Minerales\",\n  \"ingredients_ia\": [\"Fresh trout\", \"Cooked chicken\", \"Fish fibers\", \"Olive oil\", \"Salt\", \"Calcium\", \"Vitamins and minerals\"]",
+        "ingredients_clean": "{\n  \"ingredients\": \"Trucha fresca, Carne de pollo cocida, Fibras de pescado, Aceite de oliva, Sal, Calcio, Vitaminas y minerales\",\n  \"ingredients_clean\": \"Trucha, Pollo, Pescado, Olivoil, Sal, Calcio, Vitaminae Minerales\",\n  \"ingredients_ia\": [\"Fresh trout\", \"Cooked chicken\", \"Fish fibers\", \"Olive oil\", \"Salt\", \"Calcium\", \"Vitamins and minerals\"]",
+        "ingredients_ia": []
+    },
+    {
+        "title": "Alimento para gatos esterilizados con buey Ultima bolsa 800 g",
+        "ingredients": "{\n  \"ingredients\": \"Pollo deshidratado, pescado deshidratado, leche en polvo, grasas animales, proteínas menas de pez, vitaminas, minerales\",\n  \"ingredients_clean\": \"Pollo, pescado, leche, grasas animales, proteínas, vitaminas, minerales\",\n  \"ingredients_ia\": [\"Dehydrated chicken\", \"Dehydrated fish\", \"Dried milk\", \"Animal fats\", \"Fish proteins\", \"Vitamins\", \"Minerals\"]",
+        "ingredients_clean": "{\n  \"ingredients\": \"Pollo deshidratado, pescado deshidratado, leche en polvo, grasas animales, proteínas menas de pez, vitaminas, minerales\",\n  \"ingredients_clean\": \"Pollo, pescado, leche, grasas animales, proteínas, vitaminas, minerales\",\n  \"ingredients_ia\": [\"Dehydrated chicken\", \"Dehydrated fish\", \"Dried milk\", \"Animal fats\", \"Fish proteins\", \"Vitamins\", \"Minerals\"]",
+        "ingredients_ia": []
+    },
+    {
+        "title": "Alimento para gatos junior con pollo Ultima bolsa 1.5 kg",
+        "ingredients": "{\n  \"ingredients\": \"Polvo de pollo, proteínas hidrolizadas, harina de trigo, aceite de soja, vitaminas y minerales, antioxidantes, sabor a pollo\",\n  \"ingredients_clean\": \"Polvo de pollo, proteínas, harina de trigo, aceite de soya, vitaminas, minerales, antioxidantes\",\n  \"ingredients_ia\": [\"Chicken powder\", \"Hydrolyzed proteins\", \"Wheat flour\", \"Soybean oil\", \"Vitamins and minerals\", \"Antioxidants\", \"Chicken flavor\"]",
+        "ingredients_clean": "{\n  \"ingredients\": \"Polvo de pollo, proteínas hidrolizadas, harina de trigo, aceite de soja, vitaminas y minerales, antioxidantes, sabor a pollo\",\n  \"ingredients_clean\": \"Polvo de pollo, proteínas, harina de trigo, aceite de soya, vitaminas, minerales, antioxidantes\",\n  \"ingredients_ia\": [\"Chicken powder\", \"Hydrolyzed proteins\", \"Wheat flour\", \"Soybean oil\", \"Vitamins and minerals\", \"Antioxidants\", \"Chicken flavor\"]",
+        "ingredients_ia": []
+    },
+    {
+        "title": "Alimento para perros con pollo y cordero Pedigree tarrina 300 g",
+        "ingredients": "{\n  \"ingredients\": \"Polvo de pavo, carne de cordero, harina de trigo, aceite de oliva, vitaminas y minerales\",\n  \"ingredients_clean\": \"Pavo, Cordero, Trigo, Aceite de oliva, Vitaminas Minerales\",\n  \"ingredients_ia\": [\"Turkey powder\", \"Lamb meat\", \"Wheat flour\", \"Olive oil\", \"Vitamins and minerals\"]",
+        "ingredients_clean": "{\n  \"ingredients\": \"Polvo de pavo, carne de cordero, harina de trigo, aceite de oliva, vitaminas y minerales\",\n  \"ingredients_clean\": \"Pavo, Cordero, Trigo, Aceite de oliva, Vitaminas Minerales\",\n  \"ingredients_ia\": [\"Turkey powder\", \"Lamb meat\", \"Wheat flour\", \"Olive oil\", \"Vitamins and minerals\"]",
+        "ingredients_ia": []
+    },
+    {
+        "title": "Alimento para perros adultos con buey Ultima tarrina 150 g",
+        "ingredients": "{\n  \"ingredients\": \"Carne de buey, aceite de oliva, harina de trigo, proteínas menudas, fibra dietética, vitaminas y minerales\",\n  \"ingredients_clean\": \"Carne de buey, aceite de oliva, harina de trigo, proteínas, fibra, vitaminas y minerales\",\n  \"ingredients_ia\": [\"Beef\", \"Olive oil\", \"Wheat flour\", \"Protein powder\", \"Dietary fiber\", \"Vitamins and minerals\"]",
+        "ingredients_clean": "{\n  \"ingredients\": \"Carne de buey, aceite de oliva, harina de trigo, proteínas menudas, fibra dietética, vitaminas y minerales\",\n  \"ingredients_clean\": \"Carne de buey, aceite de oliva, harina de trigo, proteínas, fibra, vitaminas y minerales\",\n  \"ingredients_ia\": [\"Beef\", \"Olive oil\", \"Wheat flour\", \"Protein powder\", \"Dietary fiber\", \"Vitamins and minerals\"]",
+        "ingredients_ia": []
+    },
+    {
+        "title": "Alimento para perros adultos con buey y verduras Brekkies bolsa 2.5 Kg",
+        "ingredients": "{\n  \"ingredients\": \"Buey, harina de trigo, patatas, zanahorias, pepino, tomate, pepino, proteínas hidrolizadas, aceite de oliva, vitaminas y minerales\",\n  \"ingredients_clean\": \"Buey, Harina, Patatas, Zanahorias, Pepino, Tomate, Proteinas, Aceite de Oliva, Vitamin/mineral\",\n  \"ingredients_ia\": [\"Beef\", \"Wheat flour\", \"Potatoes\", \"Carrots\", \"Cucumber\", \"Tomato\", \"Hydrolyzed proteins\", \"Olive oil\", \"Vitamins and minerals\"]",
+        "ingredients_clean": "{\n  \"ingredients\": \"Buey, harina de trigo, patatas, zanahorias, pepino, tomate, pepino, proteínas hidrolizadas, aceite de oliva, vitaminas y minerales\",\n  \"ingredients_clean\": \"Buey, Harina, Patatas, Zanahorias, Pepino, Tomate, Proteinas, Aceite de Oliva, Vitamin/mineral\",\n  \"ingredients_ia\": [\"Beef\", \"Wheat flour\", \"Potatoes\", \"Carrots\", \"Cucumber\", \"Tomato\", \"Hydrolyzed proteins\", \"Olive oil\", \"Vitamins and minerals\"]",
+        "ingredients_ia": []
+    },
+    {
+        "title": "Alimento para perros adultos con aves y verduras Friskies bolsa 3 Kg",
+        "ingredients": "{\n  \"ingredients\": \"Carne de pollo cocida, carne de pavo cocida, pescado blanco seco, harina de avena, aceite de oliva, leche en polvo, proteínas hidrolizadas, fibra diatomea, vitaminas D3 y E, minerales\",\n  \"ingredients_clean\": \"Carne de pollo, carne de pavo, pescado blanco, harina de avena, aceite de oliva, leche en polvo, proteínas hidrolizadas, fibra diatomea, vitaminas D3 y E, minerales\",\n  \"ingredients_ia\": [\"Cooked chicken\", \"Cooked turkey\", \"Dried white fish\", \"Oat flour\", \"Olive oil\", \"Powdered milk\", \"Hydrolyzed proteins\", \"Diatomaceous earth fiber\", \"Vitamins D3 and E\", \"Minerals\"]",
+        "ingredients_clean": "{\n  \"ingredients\": \"Carne de pollo cocida, carne de pavo cocida, pescado blanco seco, harina de avena, aceite de oliva, leche en polvo, proteínas hidrolizadas, fibra diatomea, vitaminas D3 y E, minerales\",\n  \"ingredients_clean\": \"Carne de pollo, carne de pavo, pescado blanco, harina de avena, aceite de oliva, leche en polvo, proteínas hidrolizadas, fibra diatomea, vitaminas D3 y E, minerales\",\n  \"ingredients_ia\": [\"Cooked chicken\", \"Cooked turkey\", \"Dried white fish\", \"Oat flour\", \"Olive oil\", \"Powdered milk\", \"Hydrolyzed proteins\", \"Diatomaceous earth fiber\", \"Vitamins D3 and E\", \"Minerals\"]",
+        "ingredients_ia": []
+    },
+    {
+        "title": "Pimiento semipicante bolsa 200 g",
+        "ingredients": "{\n  \"ingredients\": \"Pimiento semipicante, aceite de oliva, sal, conservantes (E211)\",\n  \"ingredients_clean\": \"Pimiento semipicante, aceite de oliva, sal\",\n  \"ingredients_ia\": [\"Roasted pepper\", \"Olive oil\", \"Salt\", \"Preservatives (E211)\"]",
+        "ingredients_clean": "{\n  \"ingredients\": \"Pimiento semipicante, aceite de oliva, sal, conservantes (E211)\",\n  \"ingredients_clean\": \"Pimiento semipicante, aceite de oliva, sal\",\n  \"ingredients_ia\": [\"Roasted pepper\", \"Olive oil\", \"Salt\", \"Preservatives (E211)\"]",
+        "ingredients_ia": []
+    }
+]

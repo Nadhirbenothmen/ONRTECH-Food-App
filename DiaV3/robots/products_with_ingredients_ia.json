@@ -1,0 +1,1234 @@
+[
+    {
+        "ean": "285388",
+        "title": "Cerveza 0,0% alcohol Estrella Galicia lata 33 cl",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "296535",
+        "title": "Gin & tonic 0,0 sin alcohol Tanqueray lata 275 ml",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "164521",
+        "title": "Whisky Burned Barrel botella 70 cl",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "306318",
+        "title": "Vino blanco appasionada D.O. Rioja Finca la morena botella 75 cl",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "111278",
+        "title": "Cereales rellenos de leche Gran Dia caja 500 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "308331",
+        "title": "Brownies con pepitas de caramelo Mr.brownie bolsa 200 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "307379",
+        "title": "Palo de crema blanco XL Pastiñam bandeja 205 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "294989",
+        "title": "Delicias de coco El cateto blister 192 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "273497",
+        "title": "Rosquillas de san isidro mix García Leñero blister 210 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "84941",
+        "title": "Preparado para crema catalana Royal caja 120 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "303734",
+        "title": "Harina de garbanzos El molino de Dia paquete 500 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "306545",
+        "title": "Cachopo de vacuno sin gluten Aldelis bandeja 300 g aprox.",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "11077",
+        "title": "Solomillo de cerdo Selección de Dia bolsa 600 g aprox.",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "290997",
+        "title": "Panceta fileteada de cerdo Selección de Dia bandeja 500 g aprox.",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "260899",
+        "title": "Filetes de cabeza de lomo de cerdo Selección de Dia bandeja 550 g aprox.",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "290996",
+        "title": "Estofado de cerdo Selección de Dia bandeja 600 g aprox.",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "290994",
+        "title": "Filete de cinta de lomo Selección de Dia bandeja 450 g aprox.",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "306019",
+        "title": "Bonito del Norte en aceite de girasol Ribeira lata 60 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "106432",
+        "title": "Queso rallado en polvo El caserío bolsa 80 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "304700",
+        "title": "Queso mini semicurado El Cencerro de Dia 1 Kg aprox.",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "306084",
+        "title": "Jamón de cebo de campo ibérico Villar 90 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "306083",
+        "title": "Lomo de cebo de campo ibérico Villar 90 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "306082",
+        "title": "Chorizo de cebo ibérico extra Villar 90 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "293718",
+        "title": "Lomo embuchado ya cortado España e hijos sobre 200 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "293717",
+        "title": "Salchichón extra ya cortado España e hijos sobre 200 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "293714",
+        "title": "Chorizo extra ya cortado España e hijos sobre 200 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "5350",
+        "title": "Queso de untar con finas hierbas Philadelphia tarrina 150 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "307052",
+        "title": "Salchichas 82% carne hot dog Casa westfalia bolsa 150 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "301078",
+        "title": "Naturchips con tomate, queso y orégano Snatt's bolsa 65 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "141494",
+        "title": "Aperitivo frito sabor barbacoa Fritos bolsa 49 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "307918",
+        "title": "Maíz frito gigante Casamayor bolsa 150 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "305613",
+        "title": "Pipas saladas Chulapas bolsa 110 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "117791",
+        "title": "Gamba blanca cocida Gambafresh bandeja 300 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "306641",
+        "title": "Tarta speculoos cheesecake San Martín caja 350 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "301001",
+        "title": "Fresas congeladas La cuerva bolsa 300 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "243252",
+        "title": "Hielo para mojitos La confianza bolsa 2 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "43657",
+        "title": "San jacobo Al Punto Dia bolsa 320 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "11466",
+        "title": "Manzana roja bolsa 1 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "142776",
+        "title": "Plátano de Canarias El afortunado 850 g aprox.",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "53584",
+        "title": "Plátano macho para freír granel 1 Kg aprox.",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190387",
+        "title": "Arándanos vaso 170 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "32226",
+        "title": "Moras tarrina 125 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "125621",
+        "title": "Uva blanca sin semillas bandeja 400 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "11463",
+        "title": "Limones malla 750 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "13627",
+        "title": "Naranja especial para zumo malla 4 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "180348",
+        "title": "Zumo de naranja recién exprimido botella 1 l",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "176479",
+        "title": "Zumo de naranja recién exprimido botella 250 ml",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "206952",
+        "title": "Mandarina Selección malla 750 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "278651",
+        "title": "Pera ercolini bandeja 500 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "265124",
+        "title": "Media sandía rayada unidad aprox. 2.7 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190827",
+        "title": "Paraguayo bandeja 750 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "265125",
+        "title": "Medio melón piel de sapo unidad aprox. 1.5 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "191343",
+        "title": "Nectarina Ondine bandeja 450 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "191339",
+        "title": "Albaricoque bandeja 300 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190756",
+        "title": "Melocotón amarillo bandeja 750 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "283367",
+        "title": "Medio melón bollo unidad aprox. 1.5 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "30557",
+        "title": "Paraguayo granel 750 g aprox.",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "28887",
+        "title": "Melón piel de sapo unidad aprox. 3.5 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "284260",
+        "title": "Fresa bandeja 400 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "288314",
+        "title": "Melocotón amarillo I.G.P. Cieza bandeja 900 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190825",
+        "title": "Nectarina bandeja 750 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "78831",
+        "title": "Melón sweet heart unidad aprox. 1 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "46240",
+        "title": "Sandía negra unidad aprox. 6 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "30906",
+        "title": "Sandía rayada unidad aprox. 6 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "302095",
+        "title": "Sandía selección unidad aprox. 5.5 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "276787",
+        "title": "Melón Waikiki unidad aprox. 2.5 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "265126",
+        "title": "Media sandía negra unidad aprox. 2.75 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "220373",
+        "title": "Aguacate bandeja 450 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190860",
+        "title": "Kiwi raíces sabor del año bandeja 375 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "245089",
+        "title": "Aguacate bio bandeja 400 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "270541",
+        "title": "Kiwi Zespri bandeja 700 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "42069",
+        "title": "Aguacate granel 1 Kg aprox.",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "184889P6",
+        "title": "Leche entera Central Lechera Asturiana pack 6 x 2.2 l",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "303869",
+        "title": "Sal para hornear Dia paquete 2 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "288507",
+        "title": "Crema de vinagre al jerez Vulpi botella 400 ml",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "270113",
+        "title": "Arena para gatos compacta Deligato Dia caja 4 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "270111",
+        "title": "Arena para gatos absorbente Deligato Dia bolsa 5 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "231312",
+        "title": "Arena para gatos magic clean Vitakraft bolsa 1.85 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "184832",
+        "title": "Alimento para gatos varios sabores Gourmet caja 300 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "292640",
+        "title": "Alimento para gatos selección pescado en gelatina Whiskas bolsa 4 x 85 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "306578",
+        "title": "Alimento para gatos esterilizados exigentes Ultima bolsa 280 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "302667",
+        "title": "Alimento para gatos completo Biurk bolsa 7.5 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "301586",
+        "title": "Alimento para gatos esterilizados anti bolas de pelo con pavo Ultima bolsa 440 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "301585",
+        "title": "Alimento para gatos esterilizados con buey Ultima bolsa 440 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "285866",
+        "title": "Alimento para gatos receta con buey Brekkies bolsa 3.5 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "285866",
+        "title": "Alimento para gatos receta con buey Brekkies bolsa 3.5 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "277528",
+        "title": "Alimento para gatos con salmón y atún rellenas de gamba Brekkies Delicious bolsa 900 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "272086",
+        "title": "Alimento para gatos esterilizados con pescado Ultima bolsa 340 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "271304",
+        "title": "Alimento para gatos adultos anti bolas de pelo con pavo Ultima bolsa 750 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "269741",
+        "title": "Alimento para gatos esterilizados anti bolas de pelo con trucha Ultima bolsa 1.5 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "249839",
+        "title": "Alimento para gatos esterilizados digestivo con trucha Ultima bolsa 1.5 kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "244946",
+        "title": "Alimento para gatos esterilizados con buey Ultima bolsa 800 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "225392",
+        "title": "Alimento para gatos junior con pollo Ultima bolsa 1.5 kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "220419",
+        "title": "Alimento para gatos esterilizados anti bolas de pelo con pavo Ultima bolsa 1.5 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "184840",
+        "title": "Alimento para gatos con atún/salmón/trucha Gourmet caja 300 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "175779",
+        "title": "Snack para gatos party mix ocean Felix bolsa 60 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "301317",
+        "title": "Alimento para perros mini adultos mix salmón/pavo Ultima bolsa 4 x 100 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "16111",
+        "title": "Alimento para perros receta tradicional Bon menu bolsa 4 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "171038",
+        "title": "Alimento para perros selección de la huerta con pollo Cesar tarrina 150 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "130332",
+        "title": "Alimento para perros completo Friskies bolsa 10 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "180626",
+        "title": "Alimento para perro active Friskies bolsa 3 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "60019",
+        "title": "Alimento para perros con pollo y cordero Pedigree tarrina 300 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "5134",
+        "title": "Alimento para perros mini Ultima bolsa 1.5 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "308468",
+        "title": "Alimento para perros adultos con buey Ultima tarrina 150 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "302666",
+        "title": "Alimento para perros completo Biurk bolsa 15 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "300428",
+        "title": "Alimento para perros adultos mix pollo / buey Ultima bolsa 4 x 100 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "295343",
+        "title": "Alimento para perros adultos con buey y verduras Brekkies bolsa 2.5 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "285498",
+        "title": "Alimento para perros con salmón Brekkies Delicious bolsa 2.7 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "252878",
+        "title": "Alimento para perros mini adulto con buey Ultima bolsa 1.25 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "188110",
+        "title": "Alimento para perros receta tradicional Bon menu bolsa 10 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "182394",
+        "title": "Alimento para perros adulto con pollo y arroz Ultima bolsa 7.5 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "155562",
+        "title": "Alimento para perros adultos con aves y verduras Friskies bolsa 3 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "151454",
+        "title": "Paté para perros senior con pollo Cesar tarrina 150 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "130333",
+        "title": "Alimento para perros adultos con pollo y arroz Ultima bolsa 3 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "302185",
+        "title": "Salsa chunky Zanuy frasco 300 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "307133",
+        "title": "Pizza artesana pepperoni Squizzita caja 420 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "188626",
+        "title": "Pasta tagliatelle nido Garofalo bolsa 500 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "188253",
+        "title": "Pasta radiatori Garofalo bolsa 500 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "188252",
+        "title": "Pasta elicoidale Garofalo bolsa 500 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "5873",
+        "title": "Arroz largo de primera categoría Arrozona de Dia paquete 1 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "21415",
+        "title": "Arroz redondo SOS paquete 1 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "53397",
+        "title": "Arroz basmati Selección Mundial de Dia paquete 1 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "48733",
+        "title": "Arroz integral SOS paquete 1 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "302621",
+        "title": "Arroz bomba Arrozona de Dia paquete 500 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "184583",
+        "title": "Arroz bomba La fallera paquete 1 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "184583",
+        "title": "Arroz bomba La fallera paquete 1 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "184588",
+        "title": "Arroz arborio risotto Riso scotti paquete 500 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "148491",
+        "title": "Chocolate con leche con trozos de oreo Milka 100 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "306417",
+        "title": "Crema de avellanas y dátiles Nut's amore bote 175 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "307278",
+        "title": "Azúcar amarillo Sidul paquete 500 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "307554",
+        "title": "Golosinas crazy berries Damel bolsa 135 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "307951",
+        "title": "Tatuajes para lengua Stitch Disney sobre 11 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "306639",
+        "title": "Regaliz roller fizz Fini bolsa 20 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "306637",
+        "title": "Golosina pizza XXL Gummi zone bolsa 21 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "303594",
+        "title": "Gominolas fruit & paradise mix Damel bolsa 135 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "183104",
+        "title": "Bolsa de golosinas happy party Fini bolsa 250 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "20002",
+        "title": "Brócoli bolsa 500 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "50664",
+        "title": "Repollo liso unidad aprox. 2 Kg aprox.",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190539",
+        "title": "Judía redonda bandeja 250 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "278856",
+        "title": "Coliflor unidad aprox. 1.8 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "278899",
+        "title": "Calabaza a dados bolsa 500 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "75926",
+        "title": "Calabaza unidad aprox. 1.5 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "93",
+        "title": "Calabacín unidad aprox. 450 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "57885",
+        "title": "Cebolla morada malla 500 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "20280",
+        "title": "Ajo unidad aprox. 60 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "17230",
+        "title": "Puerros 500 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "191535",
+        "title": "Cebolla malla 750 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "132920",
+        "title": "Cebolla dulce malla 1 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "193474",
+        "title": "Cebolla malla 1.5 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "182881",
+        "title": "Endivias bandeja 350 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "13337",
+        "title": "Seta ostra bandeja 200 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "307912",
+        "title": "Champiñón grande bandeja 390 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "25857",
+        "title": "Champiñón laminado bandeja 250 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "181571",
+        "title": "Espárrago verde fino manojo aprox. 250 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "165430",
+        "title": "Espárrago verde grueso manojo aprox. 250 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "233088",
+        "title": "Cilantro bandeja 20 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "14986",
+        "title": "Patata de Madrid malla 2 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "248458",
+        "title": "Patata especial para freir malla 2 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "296356",
+        "title": "Patata malla 4 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "54075",
+        "title": "Patata roja malla 1.5 kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "20298",
+        "title": "Patata de guarnición malla 1 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "11421",
+        "title": "Zanahoria bolsa 1 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "296355",
+        "title": "Patata cocer malla 2 Kg",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "307915",
+        "title": "Tomate Monterosa bandeja 500 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "279682",
+        "title": "Tomate mar azul bandeja 400 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "109",
+        "title": "Tomate en rama granel 1 Kg aprox.",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "45863",
+        "title": "Tomate pera granel 900 g aprox.",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "110",
+        "title": "Tomate ensalada granel 1 Kg aprox.",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "272686",
+        "title": "Tomate canario malla 750 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "16549",
+        "title": "Pimiento semipicante bolsa 200 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "190752",
+        "title": "Tomate maravilla bolsa 600 g aprox.",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "105782",
+        "title": "Canónigos Vegecampo de Dia bolsa 70 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "17962",
+        "title": "Remolacha cocida al vacío bolsa 500 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "19403",
+        "title": "Maíz dulce cocido al vacío bolsa 400 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "308256",
+        "title": "Ensalada griega Freshkia bandeja 210 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    },
+    {
+        "ean": "252354",
+        "title": "Tiramisú Caprichoso Dia pack 2 x 90 g",
+        "ingredients": null,
+        "ingredients_clean": null,
+        "ingredients_ia": null
+    }
+]

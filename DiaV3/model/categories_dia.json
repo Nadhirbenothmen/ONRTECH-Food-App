@@ -1,0 +1,762 @@
+{
+    "id": "0",
+    "label": "dia_categories",
+    "subs": [
+        {
+            "id": "L125",
+            "label": "Freidora de aire - Airfryer",
+            "subs": [
+                {
+                    "id": "L2231",
+                    "label": "Patatas Airfryer"
+                },
+                {
+                    "id": "L2232",
+                    "label": "Rebozados Airfryer"
+                },
+                {
+                    "id": "L2233",
+                    "label": "Verduras Airfryer"
+                },
+                {
+                    "id": "L2234",
+                    "label": "Pescados y mariscos Airfryer"
+                },
+                {
+                    "id": "L2235",
+                    "label": "Carne Airfryer"
+                },
+                {
+                    "id": "L2236",
+                    "label": "Comida preparada Airfryer"
+                },
+                {
+                    "id": "L2237",
+                    "label": "Accesorios Airfryer"
+                }
+            ]
+        },
+        {
+            "id": "L101",
+            "label": "Charcutería y quesos",
+            "subs": [
+                {
+                    "id": "L2001",
+                    "label": "Jamón cocido, lacón, fiambres y mortadela"
+                },
+                {
+                    "id": "L2004",
+                    "label": "Jamón curado y paleta"
+                },
+                {
+                    "id": "L2005",
+                    "label": "Lomo, chorizo, fuet, salchichón"
+                },
+                {
+                    "id": "L2007",
+                    "label": "Queso curado, semicurado y tierno"
+                },
+                {
+                    "id": "L2008",
+                    "label": "Queso fresco"
+                },
+                {
+                    "id": "L2009",
+                    "label": "Queso azul y roquefort"
+                },
+                {
+                    "id": "L2010",
+                    "label": "Quesos fundidos y cremas"
+                },
+                {
+                    "id": "L2011",
+                    "label": "Quesos internacionales"
+                },
+                {
+                    "id": "L2206",
+                    "label": "Salchichas"
+                },
+                {
+                    "id": "L2012",
+                    "label": "Foie, paté y sobrasada"
+                }
+            ]
+        },
+        {
+            "id": "L102",
+            "label": "Carnicería",
+            "subs": [
+                {
+                    "id": "L2202",
+                    "label": "Pollo"
+                },
+                {
+                    "id": "L2013",
+                    "label": "Vacuno"
+                },
+                {
+                    "id": "L2014",
+                    "label": "Cerdo"
+                },
+                {
+                    "id": "L2015",
+                    "label": "Pavo"
+                },
+                {
+                    "id": "L2016",
+                    "label": "Conejo"
+                },
+                {
+                    "id": "L2017",
+                    "label": "Hamburguesas y carne picada"
+                }
+            ]
+        },
+        {
+            "id": "L103",
+            "label": "Pescados, mariscos y ahumados",
+            "subs": [
+                {
+                    "id": "L2019",
+                    "label": "Pescados"
+                },
+                {
+                    "id": "L2194",
+                    "label": "Mariscos"
+                },
+                {
+                    "id": "L2020",
+                    "label": "Ahumados, salazones y preparados"
+                },
+                {
+                    "id": "L2021",
+                    "label": "Sucedáneo de angulas y surimi"
+                }
+            ]
+        },
+        {
+            "id": "L104",
+            "label": "Verduras",
+            "subs": [
+                {
+                    "id": "L2022",
+                    "label": "Ajos, cebollas y puerros"
+                },
+                {
+                    "id": "L2023",
+                    "label": "Tomates, pimientos y pepinos"
+                },
+                {
+                    "id": "L2181",
+                    "label": "Calabacín, calabaza y berenjena"
+                },
+                {
+                    "id": "L2024",
+                    "label": "Judías, brócolis y coliflores"
+                },
+                {
+                    "id": "L2027",
+                    "label": "Lechuga, escarolas y endivias"
+                },
+                {
+                    "id": "L2028",
+                    "label": "Patatas y zanahorias"
+                },
+                {
+                    "id": "L2029",
+                    "label": "Setas y champiñones"
+                },
+                {
+                    "id": "L2030",
+                    "label": "Verduras y ensaladas preparadas"
+                },
+                {
+                    "id": "L2031",
+                    "label": "Otras verduras"
+                }
+            ]
+        },
+        {
+            "id": "L105",
+            "label": "Frutas",
+            "subs": [
+                {
+                    "id": "L2040",
+                    "label": "Frutas de temporada"
+                },
+                {
+                    "id": "L2032",
+                    "label": "Manzanas"
+                },
+                {
+                    "id": "L2033",
+                    "label": "Platanos"
+                },
+                {
+                    "id": "L2034",
+                    "label": "Peras"
+                },
+                {
+                    "id": "L2196",
+                    "label": "Naranjas y mandarinas"
+                },
+                {
+                    "id": "L2035",
+                    "label": "Uvas"
+                },
+                {
+                    "id": "L2037",
+                    "label": "Limones y pomelos"
+                },
+                {
+                    "id": "L2038",
+                    "label": "Frutas del bosque"
+                },
+                {
+                    "id": "L2039",
+                    "label": "Frutas tropicales"
+                },
+                {
+                    "id": "L2041",
+                    "label": "Frutas deshidratadas"
+                }
+            ]
+        },
+        {
+            "id": "L108",
+            "label": "Leche, huevos y mantequilla",
+            "subs": [
+                {
+                    "id": "L2051",
+                    "label": "Leche"
+                },
+                {
+                    "id": "L2052",
+                    "label": "Bebidas vegetales"
+                },
+                {
+                    "id": "L2053",
+                    "label": "Batidos y horchatas"
+                },
+                {
+                    "id": "L2055",
+                    "label": "Huevos"
+                },
+                {
+                    "id": "L2056",
+                    "label": "Mantequilla y margarina"
+                },
+                {
+                    "id": "L2054",
+                    "label": "Nata"
+                }
+            ]
+        },
+        {
+            "id": "L113",
+            "label": "Yogures y postres",
+            "subs": [
+                {
+                    "id": "L2082",
+                    "label": "Griegos y mousse"
+                },
+                {
+                    "id": "L2079",
+                    "label": "Yogures naturales"
+                },
+                {
+                    "id": "L2081",
+                    "label": "Yogures de sabores y frutas"
+                },
+                {
+                    "id": "L2083",
+                    "label": "Yogures infantiles"
+                },
+                {
+                    "id": "L2080",
+                    "label": "Yogures desnatados"
+                },
+                {
+                    "id": "L2078",
+                    "label": "Yogures bífidus y colesterol"
+                },
+                {
+                    "id": "L2084",
+                    "label": "Yogures de soja y enriquecidos"
+                },
+                {
+                    "id": "L2085",
+                    "label": "Kéfir y otros yogures"
+                },
+                {
+                    "id": "L2229",
+                    "label": "Postres y yogures de proteínas"
+                },
+                {
+                    "id": "L2088",
+                    "label": "Natillas y flan"
+                },
+                {
+                    "id": "L2087",
+                    "label": "Arroz con leche y postre tradicional"
+                },
+                {
+                    "id": "L2086",
+                    "label": "Cuajada"
+                },
+                {
+                    "id": "L2089",
+                    "label": "Gelatinas y otros postres"
+                }
+            ]
+        },
+        {
+            "id": "L106",
+            "label": "Arroz, pastas y legumbres",
+            "subs": [
+                {
+                    "id": "L2042",
+                    "label": "Arroz"
+                },
+                {
+                    "id": "L2044",
+                    "label": "Pastas"
+                },
+                {
+                    "id": "L2191",
+                    "label": "Garbanzos"
+                },
+                {
+                    "id": "L2178",
+                    "label": "Alubias"
+                },
+                {
+                    "id": "L2193",
+                    "label": "Lentejas"
+                },
+                {
+                    "id": "L2043",
+                    "label": "Quinoa y couscous"
+                }
+            ]
+        },
+        {
+            "id": "L107",
+            "label": "Aceites, salsas y especias",
+            "subs": [
+                {
+                    "id": "L2046",
+                    "label": "Aceites"
+                },
+                {
+                    "id": "L2047",
+                    "label": "Vinagres y aliños"
+                },
+                {
+                    "id": "L2208",
+                    "label": "Tomate"
+                },
+                {
+                    "id": "L2050",
+                    "label": "Mayonesa, ketchup y otras salsas"
+                },
+                {
+                    "id": "L2048",
+                    "label": "Sal y especias"
+                }
+            ]
+        },
+        {
+            "id": "L114",
+            "label": "Conservas, caldos y cremas",
+            "subs": [
+                {
+                    "id": "L2179",
+                    "label": "Atún, bonito y caballa"
+                },
+                {
+                    "id": "L2180",
+                    "label": "Berberechos"
+                },
+                {
+                    "id": "L2195",
+                    "label": "Mejillones"
+                },
+                {
+                    "id": "L2207",
+                    "label": "Sardinas y sardinillas"
+                },
+                {
+                    "id": "L2197",
+                    "label": "Otras conservas de pescado"
+                },
+                {
+                    "id": "L2092",
+                    "label": "Conservas vegetales"
+                },
+                {
+                    "id": "L2093",
+                    "label": "Sopas, caldos y purés deshidratados"
+                },
+                {
+                    "id": "L2094",
+                    "label": "Cremas y caldos líquidos"
+                }
+            ]
+        },
+        {
+            "id": "L112",
+            "label": "Panes, harinas y masas",
+            "subs": [
+                {
+                    "id": "L2070",
+                    "label": "Pan recien horneado"
+                },
+                {
+                    "id": "L2069",
+                    "label": "Pan de molde, perritos y hamburguesas."
+                },
+                {
+                    "id": "L2071",
+                    "label": "Picos y panes tostados"
+                },
+                {
+                    "id": "L2072",
+                    "label": "Pan rallado"
+                },
+                {
+                    "id": "L2075",
+                    "label": "Harinas y levaduras"
+                },
+                {
+                    "id": "L2076",
+                    "label": "Masas y hojaldres"
+                },
+                {
+                    "id": "L2077",
+                    "label": "Preparados para postres"
+                }
+            ]
+        },
+        {
+            "id": "L109",
+            "label": "Café, cacao e infusiones",
+            "subs": [
+                {
+                    "id": "L2057",
+                    "label": "Café"
+                },
+                {
+                    "id": "L2058",
+                    "label": "Cacao"
+                },
+                {
+                    "id": "L2059",
+                    "label": "Té e infusiones"
+                }
+            ]
+        },
+        {
+            "id": "L110",
+            "label": "Azúcar, chocolates y caramelos",
+            "subs": [
+                {
+                    "id": "L2060",
+                    "label": "Azúcar y edulcorantes"
+                },
+                {
+                    "id": "L2061",
+                    "label": "Miel"
+                },
+                {
+                    "id": "L2062",
+                    "label": "Mermeladas y frutas en almibar"
+                },
+                {
+                    "id": "L2228",
+                    "label": "Cremas de cacao"
+                },
+                {
+                    "id": "L2063",
+                    "label": "Chocolates y bombones"
+                },
+                {
+                    "id": "L2064",
+                    "label": "Caramelos, chicles y golosinas"
+                }
+            ]
+        },
+        {
+            "id": "L111",
+            "label": "Galletas, bollos y cereales",
+            "subs": [
+                {
+                    "id": "L2065",
+                    "label": "Galletas"
+                },
+                {
+                    "id": "L2066",
+                    "label": "Galletas saladas"
+                },
+                {
+                    "id": "L2067",
+                    "label": "Bollería"
+                },
+                {
+                    "id": "L2068",
+                    "label": "Cereales"
+                },
+                {
+                    "id": "L2216",
+                    "label": "Tortitas"
+                }
+            ]
+        },
+        {
+            "id": "L115",
+            "label": "Patatas fritas, encurtidos y frutos secos",
+            "subs": [
+                {
+                    "id": "L2098",
+                    "label": "Patatas fritas y aperitivos"
+                },
+                {
+                    "id": "L2096",
+                    "label": "Aceitunas y encurtidos"
+                },
+                {
+                    "id": "L2097",
+                    "label": "Frutos secos"
+                }
+            ]
+        },
+        {
+            "id": "L116",
+            "label": "Pizzas y platos preparados",
+            "subs": [
+                {
+                    "id": "L2101",
+                    "label": "Pizzas"
+                },
+                {
+                    "id": "L2102",
+                    "label": "Precocinados envasados"
+                },
+                {
+                    "id": "L2103",
+                    "label": "Comida internacional"
+                },
+                {
+                    "id": "L2105",
+                    "label": "Tortillas y empanadas"
+                },
+                {
+                    "id": "L2106",
+                    "label": "Gazpachos y salmorejos"
+                }
+            ]
+        },
+        {
+            "id": "L119",
+            "label": "Congelados",
+            "subs": [
+                {
+                    "id": "L2130",
+                    "label": "Helados y hielo"
+                },
+                {
+                    "id": "L2131",
+                    "label": "Pizzas, bases y masas"
+                },
+                {
+                    "id": "L2132",
+                    "label": "Pescado y marisco"
+                },
+                {
+                    "id": "L2133",
+                    "label": "Carne y pollo"
+                },
+                {
+                    "id": "L2210",
+                    "label": "Verduras, hortalizas y salteados"
+                },
+                {
+                    "id": "L2213",
+                    "label": "Patatas fritas"
+                },
+                {
+                    "id": "L2135",
+                    "label": "Croquetas y rebozados"
+                },
+                {
+                    "id": "L2136",
+                    "label": "Churros y postres"
+                },
+                {
+                    "id": "L2137",
+                    "label": "Lasañas y pasta"
+                }
+            ]
+        },
+        {
+            "id": "L117",
+            "label": "Agua, refrescos y zumos",
+            "subs": [
+                {
+                    "id": "L2107",
+                    "label": "Agua"
+                },
+                {
+                    "id": "L2108",
+                    "label": "Cola"
+                },
+                {
+                    "id": "L2212",
+                    "label": "Naranja"
+                },
+                {
+                    "id": "L2109",
+                    "label": "Limón, lima limón"
+                },
+                {
+                    "id": "L2111",
+                    "label": "Tés fríos, cafés frios"
+                },
+                {
+                    "id": "L2112",
+                    "label": "Tónicas"
+                },
+                {
+                    "id": "L2192",
+                    "label": "Gaseosa"
+                },
+                {
+                    "id": "L2217",
+                    "label": "Bebidas energéticas"
+                },
+                {
+                    "id": "L2114",
+                    "label": "Bebidas isotónicas"
+                },
+                {
+                    "id": "L2113",
+                    "label": "Zumos"
+                },
+                {
+                    "id": "L2110",
+                    "label": "Otras bebidas"
+                }
+            ]
+        },
+        {
+            "id": "L118",
+            "label": "Cervezas, vinos y bebidas con alcohol",
+            "subs": [
+                {
+                    "id": "L2115",
+                    "label": "Cervezas"
+                },
+                {
+                    "id": "L2117",
+                    "label": "Cervezas especiales"
+                },
+                {
+                    "id": "L2182",
+                    "label": "Cervezas con limón"
+                },
+                {
+                    "id": "L2118",
+                    "label": "Cervezas sin alcohol"
+                },
+                {
+                    "id": "L2119",
+                    "label": "Tinto de verano y sangría"
+                },
+                {
+                    "id": "L2120",
+                    "label": "Vino tinto"
+                },
+                {
+                    "id": "L2121",
+                    "label": "Vino blanco"
+                },
+                {
+                    "id": "L2122",
+                    "label": "Cavas y sidra"
+                },
+                {
+                    "id": "L2124",
+                    "label": "Vino rosado"
+                },
+                {
+                    "id": "L2125",
+                    "label": "Ginebra y vodka"
+                },
+                {
+                    "id": "L2128",
+                    "label": "Ron y whisky"
+                },
+                {
+                    "id": "L2127",
+                    "label": "Vermouth"
+                },
+                {
+                    "id": "L2129",
+                    "label": "Cremas y licores"
+                },
+                {
+                    "id": "L2126",
+                    "label": "Brandy"
+                }
+            ]
+        },
+        {
+            "id": "L120",
+            "label": "Bebé",
+            "subs": [
+                {
+                    "id": "L2138",
+                    "label": "Papilla"
+                },
+                {
+                    "id": "L2139",
+                    "label": "Leche infantil"
+                },
+                {
+                    "id": "L2141",
+                    "label": "Potitos y tarritos"
+                },
+                {
+                    "id": "L2140",
+                    "label": "Yogures, bolsitas de frutas y snacks"
+                },
+                {
+                    "id": "L2142",
+                    "label": "Pañales y toallitas"
+                },
+                {
+                    "id": "L2143",
+                    "label": "Cuidado del bebé"
+                }
+            ]
+        },
+        {
+            "id": "L123",
+            "label": "Mascotas",
+            "subs": [
+                {
+                    "id": "L2174",
+                    "label": "Perros"
+                },
+                {
+                    "id": "L2175",
+                    "label": "Gatos"
+                },
+                {
+                    "id": "L2176",
+                    "label": "Otros animales"
+                }
+            ]
+        }
+    ]
+}
