@@ -26,8 +26,9 @@
 
 ## 📌 Aperçu
 
-ONRTECH Food Analytics est un projet de Data Engineering basé sur un pipeline **ETL (Extract, Transform, Load)** permettant de collecter, traiter, enrichir et analyser des données alimentaires issues de sites e-commerce.
+ONRTECH Food Analytics est un projet ETL (Extract, Transform, Load) conçu pour collecter, traiter et analyser des données alimentaires provenant de différentes sources en ligne. L'objectif principal est de construire une pipeline de données robuste permettant de transformer des données brutes issues du web scraping en informations exploitables pour l'analyse décisionnelle.
 
+Ce projet intègre également des techniques modernes telles que l'enrichissement des données via des modèles de langage (LLM) et leur visualisation à travers des outils BI comme Power BI.
 Le projet intègre également des modèles **LLM (Large Language Models)** pour améliorer la qualité des données et fournir une analyse intelligente.
 
 ---
@@ -48,9 +49,8 @@ Le projet intègre également des modèles **LLM (Large Language Models)** pour 
 - **scraping/** : Scripts de web scraping (collecte des données)
 - **etl/** : Pipeline ETL (nettoyage, transformation, enrichissement)
 - **data/** : Fichiers JSON bruts et transformés
-- **mcp-server/** : Serveur MCP exposant les services data
+- - **powerbi/** : Rapports et dashboards Power BI
 - **web-app/** : Interface utilisateur (frontend + backend)
-- **powerbi/** : Rapports et dashboards Power BI
 
 ---
 
@@ -59,9 +59,8 @@ Le projet intègre également des modèles **LLM (Large Language Models)** pour 
 - **Python** : Web scraping & traitement des données
 - **MongoDB Atlas** : Base de données NoSQL
 - **Power BI** : Visualisation et dashboards
-- **OpenAI API (LLM)** : Enrichissement intelligent
-- **FastAPI / Flask** : Backend API
-- **React.js / HTML-CSS-JS** : Interface web
+- **Ollama  (LLM)** : Enrichissement intelligent
+- **SpringBoot / Angular** : Interface web
 
 ---
 
@@ -118,12 +117,34 @@ Le projet intègre également des modèles **LLM (Large Language Models)** pour 
 ### 5️⃣ Exploitation
 - Power BI
 - Interface Web
-- MCP Server
 
 ---
 
 ## 🏗 Architecture
 
-![Project Screenshot](architecture-etl.png)
+![Project Screenshot](architecture .png)
 
-**Flux global :**
+
+---
+
+## ⚙ Prérequis
+
+- Python 3.10+
+- MongoDB Atlas account
+- Power BI Desktop
+- Node.js (si interface web)
+- pip / virtualenv
+
+---
+
+## 🚀 Installation
+
+```bash
+# Clone repository
+git clone https://github.com/your-username/onrtech-food-analytics.git
+
+# Go to project
+cd onrtech-food-analytics
+
+# Install dependencies
+pip install -r requirements.txt
