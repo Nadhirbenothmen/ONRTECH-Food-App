@@ -1,6 +1,8 @@
 # 🍽️ ONRTECH Food Analytics
 
-![Project Screenshot](FoodApp.png)
+<p align="center">
+  <img src="FoodApp.png" alt="Project Screenshot" width="400"/>
+</p>
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green.svg)](https://www.mongodb.com/)
