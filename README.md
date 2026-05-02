@@ -122,8 +122,9 @@ Le projet intègre également des modèles **LLM (Large Language Models)** pour 
 
 ## 🏗 Architecture
 
-![Project Screenshot](architecture .png)
-
+<p align="center">
+  <img src="ArchitectureGlobale.png" alt="Architecture" width="700"/>
+</p>
 
 ---
 
