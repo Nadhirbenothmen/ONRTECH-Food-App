@@ -20,9 +20,10 @@
 - [Technologies](#-technologies)
 - [Fonctionnalités](#-fonctionnalités)
 - [Pipeline ETL](#-pipeline-etl)
+- [Démonstration](#-démonstration)
 - [Architecture](#-architecture)
 - [Prérequis](#-prérequis)
-- [Démonstration](#-démonstration)
+
 
 ---
 
@@ -121,6 +122,9 @@ Le projet intègre également des modèles **LLM (Large Language Models)** pour 
 - Interface Web
 
 ---
+## 🏗 Démonstration
+
+https://github.com/user-attachments/assets/fabd8eaa-9875-48b1-ba86-0e57174d29ca
 
 ## 🏗 Architecture
 
